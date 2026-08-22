@@ -1,0 +1,85 @@
+﻿  			Anexa nr. 1 
+
+Procedura privind stabilirea din oficiu a taxei pe valoarea adăugate datorate de către persoanele impozabile care nu au depus decontul de taxă pe valoarea adăugată (300) 
+
+    I. Dispoziții generale
+ 
+    1. Procedura privind stabilirea din oficiu a taxei pe valoarea adăugată datorate de către persoanele impozabile care nu au depus decontul de taxă pe valoarea adăugată (300), denumit în continuare decont, se aplică de către compartimentul cu atribuţii în gestiunea declaraţiilor fiscale, denumit în continuare compartiment de specialitate, din cadrul organului fiscal competent.
+    2. Organul fiscal competent este organul fiscal în a cărui evidenţă fiscală este înregistrată, ca plătitor de impozite, taxe şi contribuţii, persoana impozabilă care nu și-a îndeplinit obligația de depunere a decontului.
+    3. Stabilirea din oficiu a taxei pe valoarea adăugată datorate, potrivit prezentei proceduri, se efectuează în cadrul perioadei de prescripție pentru fiecare perioadă fiscală pentru care nu au fost depuse deconturile, conform legii.
+    4. Prezenta procedură de stabilire din oficiu nu se aplică pentru perioadele pentru care taxa pe valoarea adăugată a făcut obiectul unei inspecţii fiscale sau pentru care a început inspecția fiscală, potrivit art.107 alin.(1) teza a III-a din Legea nr.207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare (Codul de procedură fiscală) și nici pentru perioadele care au fost supuse verificării documentare, în condițiile capitolului V din Titlul VI al aceluiași act normativ. 
+    5. Prezenta procedură nu se aplică persoanelor impozabile declarate inactive fiscal, potrivit art.92  din Codul de procedură fiscală, atât timp cât se găsesc în această situație potrivt art. 107 alin. 4 din Codul de procedură fiscală.
+    6. Cuantumul taxei pe valoarea adăugată datorate se stabileşte sub rezerva verificării ulterioare.
+    7. Actele administrativ-fiscale și procedurale emise potrivit prezentei proceduri se comunică persoanei impozabile, în conformitate cu dispoziţiile art.47 din Codul de procedură fiscală. Pentru persoanele impozabile care sunt înrolate în Spaţiul privat virtual, comunicarea actelor se face prin intermediul acestui serviciu.
+ 
+II. Stabilirea din oficiu a taxei pe valoarea adăugată datorate de către persoanele impozabile care nu au depus decontul de taxă pe valoarea adăugată (300)
+
+    A. Identificarea contribuabililor care aveau obligaţia depunerii decontului de taxă pe valoarea adăugată (300) și care nu și-au îndeplinit această obligație
+    8. Compartimentul de specialitate identifică, cu ajutorul aplicației informatice puse la dispoziție de către Centrul Național pentru Informații Financiare din cadrul Ministerului Finanțelor, contribuabilii înregistrați în scopuri de TVA potrivit art.316 din Legea nr.227/2015 privind Codul fiscal, cu modificările și completările ulterioare (Codul fiscal), care nu și-au îndeplinit obligația de depunere a decontului.
+    9. Identificarea se face, pentru fiecare perioadă fiscală (lună/trimestru/semestru/an), astfel:
+    a) din informațiile înscrise în Registrul contribuabililor se identifică contribuabilii care au înscrisă în vectorul fiscal obligația de declarare a TVA;
+    b) din aplicația informatică de gestionare a deconturilor se identifică contribuabilii înregistrați în scopuri de TVA care nu și-au îndeplinit obligația declarativă potrivit perioadei fiscale. 
+    10. Compartimentul de specialitate întocmește, lunar, în termen de cel mult 2 zile lucrătoare de la expirarea termenului legal de depunere a decontului, Lista persoanelor impozabile înregistrate în scopuri de TVA conform art.316 din Codul fiscal care nu au depus, decontul de taxă pe valoarea adăugată (300) aferent perioadei fiscale.......(L0). 
+    11. Lista (L0) cuprinde, în mod obligatoriu, următoarele elemente:
+    a) codul de înregistrare în scopuri de TVA al persoanei impozabile;
+    b) denumirea/numele, prenumele persoanei impozabile înregistrate în scopuri de TVA potrivit art.316 din Codul fiscal;
+
+	B. Notificarea persoanelor impozabile care nu și-au îndeplinit obligația depunerii decontului de taxă pe valoarea adăugată (300)
+12. Pe baza listei (L0) se generează automat, pentru fiecare persoană impozabilă, formularul ”Notificare privind nedepunerea decontului de taxă pe valoarea adăugată (300)” prevăzut în anexa nr.2 la ordin. Notificarea cuprinde şi termenul în care persoana impozabilă se poate prezenta în vederea exercitării dreptului de a fi ascultat, potrivit prevederilor art.9 din Codul de procedură fiscală. 
+13. În cazul în care persoanele impozabile pentru care a fost începută procedura de impunere din oficiu depun decontul sau se încadrează în prevederile pct.3 - 5, compartimentul de specialitate întrerupe procedura de impunere din oficiu. 
+14. În termen de 7 zile de la data comunicării notificării, compartimentul de specialitate elimină din lista (L0) următoarele persoane impozabile:
+a) persoanele impozabile care au depus decontul;
+b) persoanele impozabile care, ca urmare a notificării, au depus documente justificative care atestă faptul că nu au obligația depunerii decontului; 
+    c) persoanele impozabile care s-au prezentat la audiere;
+d) persoanele impozabile care, ca urmare a notificării, au refuzat explicit să se prezinte la termenul stabilit de organul fiscal în vederea audierii, pentru care audierea se consideră îndeplinită potrivit art.9 alin.(3) lit.a) din Codul de procedură fiscală. Prin refuz explicit în sensul prezentei proceduri se înţelege renunţarea în scris la dreptul de a fi ascultat în procedura audierii;
+e) persoanele impozabile care se încadrează în prevederile pct.3 - 5.
+15. Lista rezultată (L1) cuprinde persoanele impozabile care, ca urmare a notificării, nu au depus decontul pentru perioada analizată, nu şi-au exercitat dreptul de a fi ascultat în procedura audierii sau se încadrează în prevederile pct.3 - 5.
+Prevederile pct.13 se aplică în mod corespunzător.
+    16. Pentru persoanele impozabile înscrise în lista (L1), compartimentul de specialitate transmite o invitaţie, prin care stabileşte cel de-al doilea termen privind exercitarea dreptului de a fi ascultat. Modelul şi conţinutul invitaţiei sunt prevăzute în anexa nr.3 la ordin. Prevederile pct.7 se aplică în mod corespunzător.
+
+
+
+
+    C. Stabilirea din oficiu a taxei pe valoarea adăugată datorate 
+
+    17. După expirarea termenului de 15 de zile de la data comunicării notificărilor privind nedepunerea în termen a decontului, compartimentul de specialitate întocmește lista (L2), prin eliminare din lista (L0) a persoanelor impozabile care au depus decontul, a persoanelor impozabile care au depus documente justificative care atestă faptul că nu au obligația depunerii decontului, precum şi a persoanelor impozabile care se încadrează în prevederile pct.3 - 5.
+18. Pentru persoanele impozabile înscrise în lista (L2), compartimentul de specialitate procedează la stabilirea din oficiu a taxei pe valoarea adăugate datorate, cu ajutorul aplicației informatice puse la dispoziție de Centrul Național pentru Informații Financiare, conform prezentei secțiuni.
+    19. Lista (L2) se completează, pentru fiecare persoană impozabilă, cu următoarele informații din formularul ”Decont precompletat RO e-TVA”, aferent perioadei fiscale pentru care persoana impozabilă nu a depus decontul sau extrase din Sistemele naţionale privind factura electronică RO e-Factura și RO e-Case de marcat electronice:
+    a) se preia totalul sumelor reprezentând TVA înscrise la Secțiunea ”Taxa pe valoarea adăugată colectată” obținut potrivit formulei din decontul de taxă pe valoarea adăugată (300);
+    b) se preia totalul sumelor reprezentând TVA înscrise la Secțiunea ”Taxa pe valoarea adăugată deductibilă”obținut potrivit formulei din decontul de taxă pe valoarea adăugată (300);
+    c) se diminuează cu 50% totalul sumelor de la lit.b);
+    d) se calculează diferența dintre totalul taxei colectate (lit.a) și totalul taxei deductibile diminuate cu 50% (lit.c).
+
+    20. Compartimentul de specialitate organizează, cu ajutorul aplicaţiei informatice, evidenţa privind impunerea din oficiu potrivit prezentei proceduri.
+21. În evidenţă se înscriu, în mod obligatoriu, pentru fiecare persoană impozabilă supusă prezentei proceduri, următoarele elemente:
+a) datele de identificare: denumirea/numele, prenumele şi codul de înregistrare în scopuri de TVA;
+b)perioada fiscală/anul la care se referă obligaţia de declarare; 
+c) taxa pe valoarea adăugată colectată, respectiv totalul sumelor reprezentând TVA înscrise în formularul "Decont precompletat RO e-TVA" sau extrase din Sistemele naţionale privind factura electronică RO e-Factura, RO e-Case de marcat electronice și din alte informații existente în evidențele fiscale;
+d) taxa pe valoarea adăugată deductibilă, respectiv totalul sumelor reprezentând TVA înscrise în formularul ”Decont precompletat RO e-TVA” sau extrase din Sistemele naţionale privind factura electronică RO e-Factura, RO e-Case de marcat electronice și din alte informații existente în evidențele fiscale;
+e) diferența dintre Taxa pe valoarea adăugată colectată și 50% din Taxa pe valoarea adăugată deductibilă
+f) numărul şi data deciziei de impunere din oficiu, emisă, după caz, potrivit prezentei proceduri;
+g) data comunicării deciziei de impunere.
+
+22. În cazul în care diferența calculată potrivit pct.19 lit.d) este negativă sau mai mică de 20 de lei, organul fiscal nu emite decizie de impunere, potrivit art.96 alin.(2) din Codul de procedură fiscală.  
+
+    23. În cazul în care diferența calculată potrivit pct.19 lit.d) este mai mare sau egală cu 20 de lei, organul fiscal emite decizia de impunere și dispozițiile pct.24 - 27 sunt aplicabile. Prevederile pct. 13 se aplică în mod corespunzător.
+
+    D. Emiterea și comunicarea deciziei de impunere
+    24. Formularul ”Decizie de impunere din oficiu a taxei pe valoarea adăugată datorate de către persoanele impozabile care nu au depus decontul de taxă pe valoarea adăugată (300)”, prevăzut în anexa nr.4 la ordin, se emite pentru fiecare perioadă fiscală pentru care persoana impozabilă nu și-a îndeplinit obligaţia depunerii decontului.
+    25. Decizia de impunere din oficiu se întocmeşte de compartimentul de specialitate în două exemplare, din care:
+- un exemplar, semnat doar de conducătorul unităţii fiscale, se comunică persoanei impozabile;    - un exemplar, avizat de şeful compartimentului de specialitate şi semnat de conducătorul unităţii fiscale, se păstrează la dosarul fiscal al persoanei impozabile.
+
+    26. Prevederile pct.7 se aplică în mod corespunzător.
+
+    E. Anularea deciziei de impunere
+27. În situația în care persoana impozabilă depune, în termen de 60 de zile de la data comunicării deciziei de impunere din oficiu, decontul aferent perioadei fiscale pentru care a fost emisă decizia de impunere, decizia de impunere se anulează de organul fiscal la data depunerii declarației de impunere, potrivit art.107 alin.(5) din Codul de procedură fiscală.
+28. Termenul de 60 de zile de la data comunicării deciziei de impunere se calculează cu ajutorul aplicației informatice, pe baza informațiilor înscrise în evidența organizată potrivit pct.20.
+29. Data depunerii decontului, ulterioară comunicării deciziei de impunere, potrivit pct.27, se înscrie, de asemenea, în evidența organizată potrivit pct.20.
+30. Compartimentul de specialitate întocmește formularul ”Decizie de anulare a deciziei de impunere din oficiu a taxei pe valoarea adăugată datorate de către persoanele impozabile care nu au depus decontul de taxă pe valoarea adăugată (300)”, prevăzut în anexa nr.5 la ordin. Prevederile pct.7 se aplică în mod corespunzător.
+31. Informații privind numărul și data deciziei de anulare a deciziei de impunere, precum și data comunicării acesteia se înscriu, de asemenea, în evidența organizată potrivit pct.20.   
+32. În cazul în care contribuabilul depune decontul după expirarea termenului de 60 de zile de la data comunicării deciziei de impunere din oficiu, decontul nu se prelucrează, iar sumele stabilite prin decizia de impunere din oficiu se menţin.
+33. Documentele primite de la contribuabil şi cele emise de compartimentul de specialitate în aplicarea procedurii se arhivează la dosarul fiscal al contribuabilului.
+
+III. Transmiterea datelor în evidenţa pe plătitori
+34. Compartimentul de specialitate transmite deciziile de impunere din oficiu, care au fost comunicate persoanelor impozabile, respectiv deciziile de anulare a deciziei de impunere din oficiu emise către serviciul/compartimentul cu atribuţii de evidenţă pe plătitori.
+35. Transmiterea deciziilor se face, la sfârşitul fiecărei zile.  
