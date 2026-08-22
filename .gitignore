@@ -1,0 +1,57 @@
+# .gitignore — plasa de siguranță a depozitului
+#
+# Depozitul ăsta e PUBLIC. Un secret pus aici o dată e compromis pentru
+# totdeauna, chiar dacă îl ștergi imediat — rămâne în istoricul git.
+#
+# Fișierele de mai jos nu ajung niciodată în depozit, nici din greșeală.
+# Nu te apără de hackeri. Te apără de propria neatenție — care e,
+# statistic, cauza mai frecventă.
+
+# ── Credențiale, chei, parole ───────────────────────────────
+*.env
+.env*
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+credentials*
+secrete*
+secrets*
+config_local*
+aws_*
+ses_*
+
+# ── Date de utilizatori — cel mai sensibil lucru din sistem ─
+# Barele "/" din față = doar în rădăcina depozitului. Așa nu blocăm
+# din greșeală un fișier legitim din arhiva de proiecte (unde ANAF
+# poate pune oricând o anexă .csv). Regula "nimic tăcut" ține și aici.
+abonati*
+portofolii*
+/cui*
+/cuiuri*
+/clienti*
+/*.csv
+
+# ── Baze de date și copii ale lor ───────────────────────────
+*.sqlite
+*.sqlite3
+*.db
+*.dump
+*.sql
+/backup*
+/export*
+
+# ── Materiale plătite (dacă apar) ───────────────────────────
+livrabile/
+arhiva-juridica/
+
+# ── Gunoi tehnic ────────────────────────────────────────────
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
