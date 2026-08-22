@@ -1,0 +1,8 @@
+name: Test
+on:
+  schedule:
+      - cron: "0 4 * * *"
+      jobs:
+        x:
+            runs-on: ubuntu-latest
+            
