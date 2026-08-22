@@ -1,44 +1,69 @@
-name: Radar transparenta ANAF
+# Radar — supraveghere transparență decizională
+#
+# Se pune în depozit la calea:  .github/workflows/radar.yml
+#
+# Rulează zilnic la 07:00 ora României și, la nevoie, manual din interfața GitHub.
+# Nu are nevoie de laptopul tău pornit.
+#
+# SECURITATE — de ce sunt acele coduri lungi după "uses:"
+# ------------------------------------------------------
+# "actions/checkout@v7" înseamnă "ia ultima versiune etichetată v7".
+# Eticheta poate fi mutată de cine deține depozitul. Dacă acel cont e compromis,
+# eticheta ajunge să indice cod ostil — care rulează la tine, cu drept de scriere.
+# Codul lung (SHA) indică o versiune fixă, care nu poate fi schimbată de nimeni.
+# Comentariul de după # spune ce versiune e, ca să știi ce actualizezi.
+
+name: Radar transparență decizională
+
 on:
   schedule:
+    # 04:00 UTC = 07:00 ora României (vara) / 06:00 (iarna)
     - cron: "0 4 * * *"
-  workflow_dispatch:
+  workflow_dispatch:        # buton de rulare manuală în interfața GitHub
+
 permissions:
-  contents: write
+  contents: write           # ca să poată salva arhiva înapoi în depozit
+
 jobs:
   radar:
     runs-on: ubuntu-latest
+    timeout-minutes: 45     # dacă se blochează, se oprește singur
+
     steps:
-      - name: Ia codul
-        uses: actions/checkout@v4
-      - name: Pregateste Python
-        uses: actions/setup-python@v5
+      - name: Ia codul din depozit
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+
+      - name: Pregătește Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97  # v7.0.0
         with:
           python-version: "3.12"
-      - name: Instaleaza dependinte
+
+      - name: Instalează ce trebuie
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 python-docx openpyxl xlrd
           sudo apt-get update -qq
           sudo apt-get install -y -qq libreoffice-writer libreoffice-calc
-      - name: Ruleaza radarul
+
+      - name: Rulează radarul
         run: python radar_transparenta.py | tee rezultat.txt
-      - name: Salveaza ce a gasit
+
+      - name: Salvează ce a găsit
         run: |
-          git config user.name "Radar"
+          git config user.name  "Radar"
           git config user.email "radar@users.noreply.github.com"
-          git add -A
+          git add arhiva/ rezultat.txt
           if git diff --staged --quiet; then
-            echo "Nimic nou."
+            echo "Nimic nou. Nu comit nimic."
           else
-            git commit -m "Radar: proiecte noi"
+            git commit -m "Radar: proiecte noi $(date +%Y-%m-%d)"
             git push
           fi
-      - name: Rezumat
+
+      - name: Arată rezumatul în interfața GitHub
         if: always()
         run: |
-          echo "Radar transparenta ANAF" >> $GITHUB_STEP_SUMMARY
+          echo '## Radar transparență decizională' >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
           cat rezultat.txt >> $GITHUB_STEP_SUMMARY
-          git config user.name "Radar"
-          git config user.email "radar@users.noreply.github.com"
-          git add -A
+          echo '```' >> $GITHUB_STEP_SUMMARY
