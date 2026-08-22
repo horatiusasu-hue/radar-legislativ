@@ -111,6 +111,641 @@
       "arhivat_la": "2026-08-22T20:55:06+00:00",
       "stare": "in_consultare",
       "act_publicat": null
+    },
+    "ANAF::20260810104519_734_proiect-10aug.zip": {
+      "institutie": "ANAF",
+      "url": "https://static.anaf.ro/static/33/Anaf/20260810104519_734_proiect-10aug.zip",
+      "data": "2026-08-10",
+      "titlu": "Proiect de ordin al președintelui Agenției Naționale de Administrare Fiscală pentru modificarea şi completarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 352/2022 pentru aprobarea Procedurii de soluţionare a deconturilor cu sume negative de taxă pe valoarea adăugată cu opţiune de rambursare",
+      "id": "20260810104519_734_proiect-10aug.zip",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [
+        "352/2022"
+      ],
+      "termen_observatii": "2026-08-20",
+      "fisiere": [
+        "734_proiect.doc",
+        "734_REFERAT.docx",
+        "A1 - Evidenta DNOR - EXCEL- anexa 1 la procedura.xls",
+        "A2 - Fisa analiza - anexa 2 la procedura.doc",
+        "A3 - Instructiuni Fisa analiza risc - anexa 3 la procedura.doc",
+        "A4 - Borderou pentru IFA - anexa 6 la procedura.docx",
+        "A5 - Evidenta persoane radiate - EXCEL- anexa 7 la procedura.xls",
+        "A6 - Decizie privind desfiintarea Deciziei de rambursare a TVA- anexa 5 la ordinul 352.doc",
+        "A7 - Situatii risc rambursare necuvenita - anexa 6 la ordinul 352.doc"
+      ],
+      "convertite": [
+        "734_proiect.doc",
+        "734_REFERAT.docx",
+        "A1 - Evidenta DNOR - EXCEL- anexa 1 la procedura.xls",
+        "A2 - Fisa analiza - anexa 2 la procedura.doc",
+        "A3 - Instructiuni Fisa analiza risc - anexa 3 la procedura.doc",
+        "A4 - Borderou pentru IFA - anexa 6 la procedura.docx",
+        "A5 - Evidenta persoane radiate - EXCEL- anexa 7 la procedura.xls",
+        "A6 - Decizie privind desfiintarea Deciziei de rambursare a TVA- anexa 5 la ordinul 352.doc",
+        "A7 - Situatii risc rambursare necuvenita - anexa 6 la ordinul 352.doc"
+      ],
+      "arhivat_la": "2026-08-22T22:11:18+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/2026-08-10/ANAF/20260810104519_734_proiect-10aug.zip"
+    },
+    "ANAF::20260804161643_719-proiect-4aug26.zip": {
+      "institutie": "ANAF",
+      "url": "https://static.anaf.ro/static/33/Anaf/20260804161643_719-proiect-4aug26.zip",
+      "data": "2026-08-04",
+      "titlu": "Proiect de ordin al președintelui ANAF pentru modificarea și completarea Ordinului președintelui ANAF nr. 1757/2019 pentru aprobarea Procedurii de mediere, precum și a documentelor pe care debitorii le prezintă în vederea susținerii situației economice și financiare",
+      "id": "20260804161643_719-proiect-4aug26.zip",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [
+        "1757/2019"
+      ],
+      "termen_observatii": "2026-08-14",
+      "fisiere": [
+        "Anexa nr. 1 instiintare privind organizarea medierii.docx",
+        "Anexa nr. 2 instiintare privind organizarea medierii la sediul organului fiscal.docx",
+        "Anexa nr. 3 instiintare privind reprogramarea medierii.docx",
+        "Anexa nr. 4  instiintare privind reprogramarea medierii la sediul organului fiscal.docx",
+        "proiect.docx",
+        "referat.docx"
+      ],
+      "convertite": [
+        "Anexa nr. 1 instiintare privind organizarea medierii.docx",
+        "Anexa nr. 2 instiintare privind organizarea medierii la sediul organului fiscal.docx",
+        "Anexa nr. 3 instiintare privind reprogramarea medierii.docx",
+        "Anexa nr. 4  instiintare privind reprogramarea medierii la sediul organului fiscal.docx",
+        "proiect.docx",
+        "referat.docx"
+      ],
+      "arhivat_la": "2026-08-22T22:11:20+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/2026-08-04/ANAF/20260804161643_719-proiect-4aug26.zip"
+    },
+    "ANAF::20260803160233_716-proiect-3aug26.zip": {
+      "institutie": "ANAF",
+      "url": "https://static.anaf.ro/static/33/Anaf/20260803160233_716-proiect-3aug26.zip",
+      "data": "2026-08-03",
+      "titlu": "Proiect de ordin al președintelui ANAF pentru aprobarea Procedurii privind stabilirea din oficiu a taxei pe valoarea adăugate datorate de către persoanele impozabile care nu au depus decontul de taxă pe valoarea adăugată (300), precum şi a modelului şi conţinutului unor formulare:",
+      "id": "20260803160233_716-proiect-3aug26.zip",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": "2026-08-13",
+      "fisiere": [
+        "716-proiect OPANAF.doc",
+        "716-Referat.docx",
+        "Anexa nr. 1 - Procedura stabilire din oficiu -curata.doc",
+        "Anexa nr. 2 - Notificare nedepunere.docx",
+        "Anexa nr. 3 - Invitație a 2-a audiere.docx",
+        "Anexa nr. 4 - 192 Decizie impunere din oficiu.docx",
+        "Anexa nr. 5 - 193 Decizie anulare decizie impunere.docx",
+        "Anexa nr. 6  - Caracteristici de tiparire.doc"
+      ],
+      "convertite": [
+        "716-proiect OPANAF.doc",
+        "716-Referat.docx",
+        "Anexa nr. 1 - Procedura stabilire din oficiu -curata.doc",
+        "Anexa nr. 2 - Notificare nedepunere.docx",
+        "Anexa nr. 3 - Invitație a 2-a audiere.docx",
+        "Anexa nr. 4 - 192 Decizie impunere din oficiu.docx",
+        "Anexa nr. 5 - 193 Decizie anulare decizie impunere.docx",
+        "Anexa nr. 6  - Caracteristici de tiparire.doc"
+      ],
+      "arhivat_la": "2026-08-22T22:11:23+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/2026-08-03/ANAF/20260803160233_716-proiect-3aug26.zip"
+    },
+    "ANAF::20260721085033_673-proiect082-21iulie.zip": {
+      "institutie": "ANAF",
+      "url": "https://static.anaf.ro/static/33/Anaf/20260721085033_673-proiect082-21iulie.zip",
+      "data": "2026-07-21",
+      "titlu": "Proiect de ordin al președintelui Agenției Naționale de Administrare Fiscală pentru modificarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3789/2024 pentru aprobarea Procedurii privind organizarea și înscrierea în Registrul RO e-Factura obligatoriu, precum și a modelului, conținutului și instrucțiunilor de completare ale formularului (082) ”Cerere privind înregistrarea ",
+      "id": "20260721085033_673-proiect082-21iulie.zip",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [
+        "3789/2024"
+      ],
+      "termen_observatii": "2026-07-31",
+      "fisiere": [
+        "673_Proiect.docx",
+        "673_Referat.docx",
+        "Anexa 1- formular 082.docx",
+        "Anexa 2 - instructiuni completare.docx",
+        "Anexa 3 - caracteristici tiparire.docx"
+      ],
+      "convertite": [
+        "673_Proiect.docx",
+        "673_Referat.docx",
+        "Anexa 1- formular 082.docx",
+        "Anexa 2 - instructiuni completare.docx",
+        "Anexa 3 - caracteristici tiparire.docx"
+      ],
+      "arhivat_la": "2026-08-22T22:11:24+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/2026-07-21/ANAF/20260721085033_673-proiect082-21iulie.zip"
+    },
+    "Ministerul Finanțelor::proiecthotamendamentscoliBIRD_10082026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiecthotamendamentscoliBIRD_10082026.pdf",
+      "data": "2025-07-18",
+      "titlu": "Proiect Hotărâre pentru aprobarea amendamentului convenit prin schimb de scrisori semnate la Bucureşti la și la , între Guvernul României şi Banca Internațională pentru Reconstrucție și Dezvoltare, la Acordul de împrumut (Proiect şcoli mai sigure, incluzive şi sustenabile în România) dintre România şi Banca Internațională pentru Reconstrucție și Dezvoltare, semnat la Bucureşti la Nota de fundament",
+      "id": "proiecthotamendamentscoliBIRD_10082026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3",
+        "6"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": "2025-07-28",
+      "fisiere": [
+        "proiecthotamendamentscoliBIRD_10082026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:27+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/2025-07-18/Ministerul_Finan_elor/proiecthotamendamentscoliBIRD_10082026.pdf"
+    },
+    "Ministerul Finanțelor::proiectordinformular183_11082026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiectordinformular183_11082026.pdf",
+      "data": null,
+      "titlu": "Proiect Ordin pentru aprobarea modelului și conținutului formularului 183 „Declarație privind valoarea medie anuală a adaosului comercial” Referat de aprobare Anexa 1 - Formular 183 Anexa 2 – Instrucţiuni de completare a formularului 183 „Declarație privind valoarea medie anuală a adaosului comercial” Anexa 3 - Caracteristici de editare, modul de difuzare, utilizare şi păstrare a formularului",
+      "id": "proiectordinformular183_11082026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": null,
+      "fisiere": [
+        "proiectordinformular183_11082026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:29+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectordinformular183_11082026.pdf"
+    },
+    "Ministerul Finanțelor::proiecthotamendamentcartierulptjustitieBIRD_07082026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiecthotamendamentcartierulptjustitieBIRD_07082026.pdf",
+      "data": "2025-12-04",
+      "titlu": "Proiect Hotărâre privind aprobarea amendamentelor convenite între Guvernul României şi Banca Internațională pentru Reconstrucție și Dezvoltare prin schimbul de scrisori semnate la Bruxelles la și la Bucureşti la , la și la la Scrisoarea de înțelegere privind avansul pentru pregătirea Proiectului de dezvoltare propus, “Cartierul pentru justiție”, dintre România și Banca Internaţională pentru Recons",
+      "id": "proiecthotamendamentcartierulptjustitieBIRD_07082026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3",
+        "6"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": "2025-12-14",
+      "fisiere": [
+        "proiecthotamendamentcartierulptjustitieBIRD_07082026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:30+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/2025-12-04/Ministerul_Finan_elor/proiecthotamendamentcartierulptjustitieBIRD_07082026.pdf"
+    },
+    "Ministerul Finanțelor::proiecthotamendamentBIRD_07082026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiecthotamendamentBIRD_07082026.pdf",
+      "data": "2026-04-07",
+      "titlu": "Proiect Hotărâre privind aprobarea amendamentului convenit între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, prin schimbul de scrisori semnate la Bucureşti la și la , la Acordul de împrumut (Proiect de îmbunătăţire a serviciilor judiciare) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la şi la Nota de fundamentare S",
+      "id": "proiecthotamendamentBIRD_07082026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3",
+        "6"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": "2026-04-17",
+      "fisiere": [
+        "proiecthotamendamentBIRD_07082026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:31+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/2026-04-07/Ministerul_Finan_elor/proiecthotamendamentBIRD_07082026.pdf"
+    },
+    "Ministerul Finanțelor::proiectordinPPP_06082026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiectordinPPP_06082026.pdf",
+      "data": null,
+      "titlu": "Proiect Ordin pentru aprobarea procedurii privind înrolarea, revocarea și modalitățile de acces a utilizatorilor externi în Platforma IT pentru monitorizarea proiectelor de parteneriat public privat și a riscurilor fiscale asociate contractelor de parteneriat public-privat/concesiune/performanță energetică Referat de aprobare Procedura privind înrolarea, revocarea și modalitățile de acces a utiliz",
+      "id": "proiectordinPPP_06082026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": null,
+      "fisiere": [
+        "proiectordinPPP_06082026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:33+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectordinPPP_06082026.pdf"
+    },
+    "Ministerul Finanțelor::raportbilant2025_03082026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/raportbilant2025_03082026.pdf",
+      "data": "2025-12-31",
+      "titlu": "Proiect Raport privind Bilanţul anual al instituţiilor publice încheiat la data de Anexa",
+      "id": "raportbilant2025_03082026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": "2026-01-10",
+      "fisiere": [
+        "raportbilant2025_03082026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:34+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/2025-12-31/Ministerul_Finan_elor/raportbilant2025_03082026.pdf"
+    },
+    "Ministerul Finanțelor::proiectlegeBASS_03082026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiectlegeBASS_03082026.pdf",
+      "data": null,
+      "titlu": "Proiect Lege pentru aprobarea contului general anual de execuţie a bugetului asigurărilor sociale de stat pe anul 2025 şi a contului general anual de execuţie a bugetului asigurărilor pentru şomaj pe anul 2025 Expunere de motive Contul general anual de execuție a bugetului asigurărilor sociale de stat pe anul 2025 - Sinteza Anexa la expunerea de motive",
+      "id": "proiectlegeBASS_03082026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": null,
+      "fisiere": [
+        "proiectlegeBASS_03082026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:36+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectlegeBASS_03082026.pdf"
+    },
+    "Ministerul Finanțelor::proiectlegecontBS_03082026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiectlegecontBS_03082026.pdf",
+      "data": null,
+      "titlu": "Proiect Lege pentru aprobarea contului general anual de execuţie a bugetului de stat, a contului anual de execuţie a bugetului Fondului naţional unic de asigurări sociale de sănătate şi a contului general anual al datoriei publice aferente anului 2025 Expunere de motive Contul general anual de execuție a bugetului de stat pe anul 2025 - Sinteza - Anexa la expunerea de motive",
+      "id": "proiectlegecontBS_03082026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3",
+        "18"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": null,
+      "fisiere": [
+        "proiectlegecontBS_03082026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:37+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectlegecontBS_03082026.pdf"
+    },
+    "Ministerul Finanțelor::proiectHGcompletareHG1204_28072026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiectHGcompletareHG1204_28072026.pdf",
+      "data": null,
+      "titlu": "Proiect Hotărâre pentru completarea Hotărârii Guvernului nr.1204/2022 privind constituirea, organizarea și funcționarea Băncii de Investiții și Dezvoltare - S.A. Nota de fundamentare",
+      "id": "proiectHGcompletareHG1204_28072026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [
+        "1204/2022"
+      ],
+      "termen_observatii": null,
+      "fisiere": [
+        "proiectHGcompletareHG1204_28072026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:39+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectHGcompletareHG1204_28072026.pdf"
+    },
+    "Ministerul Finanțelor::proiectamendament_17072026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiectamendament_17072026.pdf",
+      "data": "2026-06-04",
+      "titlu": "Proiect Hotărâre pentru aprobarea celui de-al șaselea Amendament convenit între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, prin Scrisoarea semnată la Bruxelles, la și la București la la Acordul de împrumut (Program pe bază de rezultate în sectorul sanitar din România) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la New York la",
+      "id": "proiectamendament_17072026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3",
+        "6",
+        "12"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": "2026-06-14",
+      "fisiere": [
+        "proiectamendament_17072026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:41+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/2026-06-04/Ministerul_Finan_elor/proiectamendament_17072026.pdf"
+    },
+    "Ministerul Finanțelor::proiectHGsituatiideurgentaORR_06072026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiectHGsituatiideurgentaORR_06072026.pdf",
+      "data": null,
+      "titlu": "Proiect Hotărâre privind aprobarea Manualului aferent Proiectului de intervenție în situații de urgență, elaborat în cadrul Opțiunii de Răspuns Rapid, instrument al Băncii Internaţionale pentru Reconstrucţie şi Dezvoltare Nota de fundamentare Manual CERP",
+      "id": "proiectHGsituatiideurgentaORR_06072026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3",
+        "4",
+        "6"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": null,
+      "fisiere": [
+        "proiectHGsituatiideurgentaORR_06072026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:42+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectHGsituatiideurgentaORR_06072026.pdf"
+    },
+    "Ministerul Finanțelor::proiectHGSIRSAAC_26062026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiectHGSIRSAAC_26062026.pdf",
+      "data": "2026-04-16",
+      "titlu": "Proiect Hotărâre pentru aprobarea amendamentului convenit prin schimbul de scrisori semnate la Bucureşti la şi la Paris la între Guvernul României şi Banca de Dezvoltare a Consiliului Europei, la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei, semnat la la Bucureşti şi la la Paris, pentru finanţarea primei faze a Proiectului “Sistem integrat de reabilitare a ",
+      "id": "proiectHGSIRSAAC_26062026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3",
+        "4"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": "2026-04-26",
+      "fisiere": [
+        "proiectHGSIRSAAC_26062026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:43+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/2026-04-16/Ministerul_Finan_elor/proiectHGSIRSAAC_26062026.pdf"
+    },
+    "Ministerul Finanțelor::Proiect_HG_2026__SAFE_19.06.2026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/Proiect_HG_2026_ SAFE_19.06.2026.pdf",
+      "data": null,
+      "titlu": "Proiect Hotărârea Guvernului pentru aprobarea repartizării fondurilor acordate României în cadrul Instrumentului \"Acţiunea pentru securitatea Europei\" Notă de fundamentare",
+      "id": "Proiect_HG_2026__SAFE_19.06.2026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3",
+        "4",
+        "18"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": null,
+      "fisiere": [
+        "Proiect_HG_2026_ SAFE_19.06.2026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:45+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/fara-data/Ministerul_Finan_elor/Proiect_HG_2026__SAFE_19.06.2026.pdf"
+    },
+    "Ministerul Finanțelor::NF_HG__SAFE_19.06.2026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/NF_HG_ SAFE_19.06.2026.pdf",
+      "data": null,
+      "titlu": "Proiect Hotărârea Guvernului pentru aprobarea repartizării fondurilor acordate României în cadrul Instrumentului \"Acţiunea pentru securitatea Europei\" Notă de fundamentare",
+      "id": "NF_HG__SAFE_19.06.2026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3",
+        "4",
+        "18"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": null,
+      "fisiere": [
+        "NF_HG_ SAFE_19.06.2026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:46+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/fara-data/Ministerul_Finan_elor/NF_HG__SAFE_19.06.2026.pdf"
+    },
+    "Ministerul Finanțelor::proiectordinlistarebursa_17062026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiectordinlistarebursa_17062026.pdf",
+      "data": null,
+      "titlu": "Proiect Ordin privind stabilirea cheltuielilor aferente procesului de admitere/menținere la tranzacționare a acțiunilor pe o piață reglementată și/sau în cadrul unui sistem multilateral de tranzacționare, luate în calcul pentru aplicarea deducerilor suplimentare prevăzute la art.25 alin.(14) din Legea nr.227/2015 privind Codul fiscal, cu modificările și completările ulterioare Referat de aprobare",
+      "id": "proiectordinlistarebursa_17062026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3",
+        "4"
+      ],
+      "acte_modificate": [
+        "227/2015"
+      ],
+      "termen_observatii": null,
+      "fisiere": [
+        "proiectordinlistarebursa_17062026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:48+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectordinlistarebursa_17062026.pdf"
+    },
+    "Ministerul Finanțelor::proiectordinSFIA_16062026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiectordinSFIA_16062026.pdf",
+      "data": null,
+      "titlu": "Proiect Ordin pentru aprobarea Procedurii privind emiterea soluției fiscale individuale anticipate Referat de aprobare",
+      "id": "proiectordinSFIA_16062026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": null,
+      "fisiere": [
+        "proiectordinSFIA_16062026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:49+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectordinSFIA_16062026.pdf"
+    },
+    "Ministerul Finanțelor::proiectordinmodifOMF3004_09062026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiectordinmodifOMF3004_09062026.pdf",
+      "data": null,
+      "titlu": "Proiect Ordin pentru modificarea și completarea Ordinului ministrului finanțelor publice nr.3004/2017 privind aprobarea procedurii de soluționare a contestațiilor prevăzute la art.366 alin.(2), art.369 alin.(5), art.374 alin.(2), art.377 alin.(4), art.382 alin.(2), art.385 alin.(4), art.390 alin.(2) și art.393 alin.(4) din Legea nr.227/2015 privind Codul fiscal Referat de aprobare",
+      "id": "proiectordinmodifOMF3004_09062026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [
+        "227/2015",
+        "3004/2017"
+      ],
+      "termen_observatii": null,
+      "fisiere": [
+        "proiectordinmodifOMF3004_09062026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:51+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectordinmodifOMF3004_09062026.pdf"
+    },
+    "Ministerul Finanțelor::proiectordinproceduraacordarebonificatie3_09062026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiectordinproceduraacordarebonificatie3_09062026.pdf",
+      "data": null,
+      "titlu": "Proiect Ordin pentru aprobarea Procedurii de acordare a bonificației de 3% din impozitul pe profit anual şi din impozitul pe veniturile microîntreprinderilor aferente anului fiscal 2025/anului fiscal modificat care începe în anul 2025 Referat de aprobare",
+      "id": "proiectordinproceduraacordarebonificatie3_09062026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": null,
+      "fisiere": [
+        "proiectordinproceduraacordarebonificatie3_09062026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:52+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectordinproceduraacordarebonificatie3_09062026.pdf"
+    },
+    "Ministerul Finanțelor::proiectordinregistruevidfisc_09062026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiectordinregistruevidfisc_09062026.pdf",
+      "data": null,
+      "titlu": "Proiect Ordin privind Registrul de evidență fiscală Referat de aprobare",
+      "id": "proiectordinregistruevidfisc_09062026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": null,
+      "fisiere": [
+        "proiectordinregistruevidfisc_09062026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:53+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectordinregistruevidfisc_09062026.pdf"
+    },
+    "Ministerul Finanțelor::proiectHGBGTS2025_08062026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiectHGBGTS2025_08062026.pdf",
+      "data": "2025-12-31",
+      "titlu": "Proiect Hotărâre privind aprobarea bilanţului general al Trezoreriei Statului şi a contului de execuţie a bugetului Trezoreriei Statului pe anul 2025 Nota de fundamentare Anexa 1 – Bilanțul general al Trezoreriei Statului la data de Anexa 2 – Contul de execuție a bugetului Trezoreriei Statului la data de",
+      "id": "proiectHGBGTS2025_08062026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": "2026-01-10",
+      "fisiere": [
+        "proiectHGBGTS2025_08062026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:55+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/2025-12-31/Ministerul_Finan_elor/proiectHGBGTS2025_08062026.pdf"
+    },
+    "Ministerul Finanțelor::proiectHGDiasporaInvesteste_26052026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiectHGDiasporaInvesteste_26052026.pdf",
+      "data": null,
+      "titlu": "Proiect Hotărârea Guvernului pentru aprobarea programului ”Diaspora Investește Acasă” si mandatarea Băncii de Investiții și Dezvoltare S.A. în vederea acordării de ajutor de minimis sub formă de granturi pentru susținerea investițiilor realizate de românii din diaspora Notă de fundamentare",
+      "id": "proiectHGDiasporaInvesteste_26052026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3",
+        "18"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": null,
+      "fisiere": [
+        "proiectHGDiasporaInvesteste_26052026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-08-22T22:11:56+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectHGDiasporaInvesteste_26052026.pdf"
     }
-  }
+  },
+  "acte_vazute": []
 }

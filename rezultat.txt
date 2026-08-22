@@ -1,35 +1,209 @@
-Citesc https://www.anaf.ro/anaf/internet/ANAF/transparenta_decizionala/ …
-Găsite pe pagină: 4 proiecte.
+SURSE DE PROIECTE
+────────────────────────────────────────────────────────────
+ANAF                               4 proiecte
+    NOU  Proiect de ordin al președintelui Agenției Naționale de Administrare F  (9/9 în text)
+    NOU  Proiect de ordin al președintelui ANAF pentru modificarea și completar  (6/6 în text)
+    NOU  Proiect de ordin al președintelui ANAF pentru aprobarea Procedurii pri  (8/8 în text)
+    NOU  Proiect de ordin al președintelui Agenției Naționale de Administrare F  (5/5 în text)
+Ministerul Finanțelor             21 proiecte
+    NOU  Proiect Hotărâre pentru aprobarea amendamentului convenit prin schimb   (0/1 în text)
+    NOU  Proiect Ordin pentru aprobarea modelului și conținutului formularului   (0/1 în text)
+    NOU  Proiect Hotărâre privind aprobarea amendamentelor convenite între Guve  (0/1 în text)
+    NOU  Proiect Hotărâre privind aprobarea amendamentului convenit între Guver  (0/1 în text)
+    NOU  Proiect Ordin pentru aprobarea procedurii privind înrolarea, revocarea  (0/1 în text)
+    NOU  Proiect Raport privind Bilanţul anual al instituţiilor publice încheia  (0/1 în text)
+    NOU  Proiect Lege pentru aprobarea contului general anual de execuţie a bug  (0/1 în text)
+    NOU  Proiect Lege pentru aprobarea contului general anual de execuţie a bug  (0/1 în text)
+    NOU  Proiect Hotărâre pentru completarea Hotărârii Guvernului nr.1204/2022   (0/1 în text)
+    NOU  Proiect Hotărâre pentru aprobarea celui de-al șaselea Amendament conve  (0/1 în text)
+    NOU  Proiect Hotărâre privind aprobarea Manualului aferent Proiectului de i  (0/1 în text)
+    NOU  Proiect Hotărâre pentru aprobarea amendamentului convenit prin schimbu  (0/1 în text)
+    NOU  Proiect Hotărârea Guvernului pentru aprobarea repartizării fondurilor   (0/1 în text)
+    NOU  Proiect Hotărârea Guvernului pentru aprobarea repartizării fondurilor   (0/1 în text)
+    NOU  Proiect Ordin privind stabilirea cheltuielilor aferente procesului de   (0/1 în text)
+    NOU  Proiect Ordin pentru aprobarea Procedurii privind emiterea soluției fi  (0/1 în text)
+    NOU  Proiect Ordin pentru modificarea și completarea Ordinului ministrului   (0/1 în text)
+    NOU  Proiect Ordin pentru aprobarea Procedurii de acordare a bonificației d  (0/1 în text)
+    NOU  Proiect Ordin privind Registrul de evidență fiscală Referat de aprobar  (0/1 în text)
+    NOU  Proiect Hotărâre privind aprobarea bilanţului general al Trezoreriei S  (0/1 în text)
+    NOU  Proiect Hotărârea Guvernului pentru aprobarea programului ”Diaspora In  (0/1 în text)
+Ministerul Economiei              EROARE: HTTPSConnectionPool(host='economie.gov.ro', port=443): Max retries exc
+Ministerul Muncii                 EROARE: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exce
+Ministerul Transporturilor        EROARE: HTTPSConnectionPool(host='www.mt.ro', port=443): Max retries exceeded 
+Vama (AVR)                        EROARE: 403 Client Error: Forbidden for url: https://www.customs.ro/info-publi
+Ministerul Mediului               EROARE: 404 Client Error: Not Found for url: https://mmediu.ro/categorie/trans
+Ministerul Agriculturii           EROARE: HTTPSConnectionPool(host='www.madr.ro', port=443): Max retries exceede
+e-consultare (agregator)          EROARE: 500 Server Error: Internal Server Error for url: https://e-consultare.
 
-NOU  2026-08-10  Proiect de ordin al președintelui Agenției Naționale de Administrare Fiscală pentru modifi
-     9 fișiere, 9 convertite în text
-NOU  2026-08-04  Proiect de ordin al președintelui ANAF pentru modificarea și completarea Ordinului președi
-     6 fișiere, 6 convertite în text
-NOU  2026-08-03  Proiect de ordin al președintelui ANAF pentru aprobarea Procedurii privind stabilirea din 
-     8 fișiere, 8 convertite în text
-NOU  2026-07-21  Proiect de ordin al președintelui Agenției Naționale de Administrare Fiscală pentru modifi
-     5 fișiere, 5 convertite în text
+Caut acte publicate care să corespundă proiectelor deschise…
+  16 titluri de acte citite.
 
-============================================================
-4 proiect(e) nou(i):
+════════════════════════════════════════════════════════════
 
+PROIECTE NOI — 25
+
+  ANAF · 2026-08-10
   Proiect de ordin al președintelui Agenției Naționale de Administrare Fiscală pentru modificarea şi c
-    publicat: 2026-08-10
-    termen observații: 2026-08-20  (EXPIRAT de 2 zile)
-    text extras în: arhiva/2026-08-10/20260810104519_734_proiect-10aug/text/
+  domenii: Fiscal general, Raportări și declarații
+  termen observații: 2026-08-20  (EXPIRAT de 2 zile)
+  text: arhiva/2026-08-10/ANAF/20260810104519_734_proiect-10aug.zip/text/
 
+  ANAF · 2026-08-04
   Proiect de ordin al președintelui ANAF pentru modificarea și completarea Ordinului președintelui ANA
-    publicat: 2026-08-04
-    termen observații: 2026-08-14  (EXPIRAT de 8 zile)
-    text extras în: arhiva/2026-08-04/20260804161643_719-proiect-4aug26/text/
+  domenii: Fiscal general, Raportări și declarații
+  termen observații: 2026-08-14  (EXPIRAT de 8 zile)
+  text: arhiva/2026-08-04/ANAF/20260804161643_719-proiect-4aug26.zip/text/
 
+  ANAF · 2026-08-03
   Proiect de ordin al președintelui ANAF pentru aprobarea Procedurii privind stabilirea din oficiu a t
-    publicat: 2026-08-03
-    termen observații: 2026-08-13  (EXPIRAT de 9 zile)
-    text extras în: arhiva/2026-08-03/20260803160233_716-proiect-3aug26/text/
+  domenii: Fiscal general, Raportări și declarații
+  termen observații: 2026-08-13  (EXPIRAT de 9 zile)
+  text: arhiva/2026-08-03/ANAF/20260803160233_716-proiect-3aug26.zip/text/
 
+  ANAF · 2026-07-21
   Proiect de ordin al președintelui Agenției Naționale de Administrare Fiscală pentru modificarea Ordi
-    publicat: 2026-07-21
-    termen observații: 2026-07-31  (EXPIRAT de 22 zile)
-    text extras în: arhiva/2026-07-21/20260721085033_673-proiect082-21iulie/text/
+  domenii: Fiscal general, Raportări și declarații
+  termen observații: 2026-07-31  (EXPIRAT de 22 zile)
+  text: arhiva/2026-07-21/ANAF/20260721085033_673-proiect082-21iulie.zip/text/
+
+  Ministerul Finanțelor · 2025-07-18
+  Proiect Hotărâre pentru aprobarea amendamentului convenit prin schimb de scrisori semnate la Bucureş
+  domenii: Fiscal general, Raportări și declarații, Construcții
+  termen observații: 2025-07-28  (EXPIRAT de 390 zile)
+  text: arhiva/2025-07-18/Ministerul_Finan_elor/proiecthotamendamentscoliBIRD_10082026.pdf/text/
+
+  Ministerul Finanțelor · ?
+  Proiect Ordin pentru aprobarea modelului și conținutului formularului 183 „Declarație privind valoar
+  domenii: Fiscal general, Raportări și declarații
+  text: arhiva/fara-data/Ministerul_Finan_elor/proiectordinformular183_11082026.pdf/text/
+
+  Ministerul Finanțelor · 2025-12-04
+  Proiect Hotărâre privind aprobarea amendamentelor convenite între Guvernul României şi Banca Interna
+  domenii: Fiscal general, Raportări și declarații, Construcții
+  termen observații: 2025-12-14  (EXPIRAT de 251 zile)
+  text: arhiva/2025-12-04/Ministerul_Finan_elor/proiecthotamendamentcartierulptjustitieBIRD_07082026.pdf/text/
+
+  Ministerul Finanțelor · 2026-04-07
+  Proiect Hotărâre privind aprobarea amendamentului convenit între Guvernul României şi Banca Internaţ
+  domenii: Fiscal general, Raportări și declarații, Construcții
+  termen observații: 2026-04-17  (EXPIRAT de 127 zile)
+  text: arhiva/2026-04-07/Ministerul_Finan_elor/proiecthotamendamentBIRD_07082026.pdf/text/
+
+  Ministerul Finanțelor · ?
+  Proiect Ordin pentru aprobarea procedurii privind înrolarea, revocarea și modalitățile de acces a ut
+  domenii: Fiscal general, Raportări și declarații
+  text: arhiva/fara-data/Ministerul_Finan_elor/proiectordinPPP_06082026.pdf/text/
+
+  Ministerul Finanțelor · 2025-12-31
+  Proiect Raport privind Bilanţul anual al instituţiilor publice încheiat la data de Anexa
+  domenii: Fiscal general, Raportări și declarații
+  termen observații: 2026-01-10  (EXPIRAT de 224 zile)
+  text: arhiva/2025-12-31/Ministerul_Finan_elor/raportbilant2025_03082026.pdf/text/
+
+  Ministerul Finanțelor · ?
+  Proiect Lege pentru aprobarea contului general anual de execuţie a bugetului asigurărilor sociale de
+  domenii: Fiscal general, Raportări și declarații
+  text: arhiva/fara-data/Ministerul_Finan_elor/proiectlegeBASS_03082026.pdf/text/
+
+  Ministerul Finanțelor · ?
+  Proiect Lege pentru aprobarea contului general anual de execuţie a bugetului de stat, a contului anu
+  domenii: Fiscal general, Raportări și declarații, Finanțări, ajutor de stat
+  text: arhiva/fara-data/Ministerul_Finan_elor/proiectlegecontBS_03082026.pdf/text/
+
+  Ministerul Finanțelor · ?
+  Proiect Hotărâre pentru completarea Hotărârii Guvernului nr.1204/2022 privind constituirea, organiza
+  domenii: Fiscal general, Raportări și declarații
+  text: arhiva/fara-data/Ministerul_Finan_elor/proiectHGcompletareHG1204_28072026.pdf/text/
+
+  Ministerul Finanțelor · 2026-06-04
+  Proiect Hotărâre pentru aprobarea celui de-al șaselea Amendament convenit între Guvernul României şi
+  domenii: Fiscal general, Raportări și declarații, Construcții, Farma și medical
+  termen observații: 2026-06-14  (EXPIRAT de 69 zile)
+  text: arhiva/2026-06-04/Ministerul_Finan_elor/proiectamendament_17072026.pdf/text/
+
+  Ministerul Finanțelor · ?
+  Proiect Hotărâre privind aprobarea Manualului aferent Proiectului de intervenție în situații de urge
+  domenii: Fiscal general, Raportări și declarații, Transport rutier, Construcții
+  text: arhiva/fara-data/Ministerul_Finan_elor/proiectHGsituatiideurgentaORR_06072026.pdf/text/
+
+  Ministerul Finanțelor · 2026-04-16
+  Proiect Hotărâre pentru aprobarea amendamentului convenit prin schimbul de scrisori semnate la Bucur
+  domenii: Fiscal general, Raportări și declarații, Transport rutier
+  termen observații: 2026-04-26  (EXPIRAT de 118 zile)
+  text: arhiva/2026-04-16/Ministerul_Finan_elor/proiectHGSIRSAAC_26062026.pdf/text/
+
+  Ministerul Finanțelor · ?
+  Proiect Hotărârea Guvernului pentru aprobarea repartizării fondurilor acordate României în cadrul In
+  domenii: Fiscal general, Raportări și declarații, Transport rutier, Finanțări, ajutor de stat
+  text: arhiva/fara-data/Ministerul_Finan_elor/Proiect_HG_2026__SAFE_19.06.2026.pdf/text/
+
+  Ministerul Finanțelor · ?
+  Proiect Hotărârea Guvernului pentru aprobarea repartizării fondurilor acordate României în cadrul In
+  domenii: Fiscal general, Raportări și declarații, Transport rutier, Finanțări, ajutor de stat
+  text: arhiva/fara-data/Ministerul_Finan_elor/NF_HG__SAFE_19.06.2026.pdf/text/
+
+  Ministerul Finanțelor · ?
+  Proiect Ordin privind stabilirea cheltuielilor aferente procesului de admitere/menținere la tranzacț
+  domenii: Fiscal general, Raportări și declarații, Transport rutier
+  text: arhiva/fara-data/Ministerul_Finan_elor/proiectordinlistarebursa_17062026.pdf/text/
+
+  Ministerul Finanțelor · ?
+  Proiect Ordin pentru aprobarea Procedurii privind emiterea soluției fiscale individuale anticipate R
+  domenii: Fiscal general, Raportări și declarații
+  text: arhiva/fara-data/Ministerul_Finan_elor/proiectordinSFIA_16062026.pdf/text/
+
+  Ministerul Finanțelor · ?
+  Proiect Ordin pentru modificarea și completarea Ordinului ministrului finanțelor publice nr.3004/201
+  domenii: Fiscal general, Raportări și declarații
+  text: arhiva/fara-data/Ministerul_Finan_elor/proiectordinmodifOMF3004_09062026.pdf/text/
+
+  Ministerul Finanțelor · ?
+  Proiect Ordin pentru aprobarea Procedurii de acordare a bonificației de 3% din impozitul pe profit a
+  domenii: Fiscal general, Raportări și declarații
+  text: arhiva/fara-data/Ministerul_Finan_elor/proiectordinproceduraacordarebonificatie3_09062026.pdf/text/
+
+  Ministerul Finanțelor · ?
+  Proiect Ordin privind Registrul de evidență fiscală Referat de aprobare
+  domenii: Fiscal general, Raportări și declarații
+  text: arhiva/fara-data/Ministerul_Finan_elor/proiectordinregistruevidfisc_09062026.pdf/text/
+
+  Ministerul Finanțelor · 2025-12-31
+  Proiect Hotărâre privind aprobarea bilanţului general al Trezoreriei Statului şi a contului de execu
+  domenii: Fiscal general, Raportări și declarații
+  termen observații: 2026-01-10  (EXPIRAT de 224 zile)
+  text: arhiva/2025-12-31/Ministerul_Finan_elor/proiectHGBGTS2025_08062026.pdf/text/
+
+  Ministerul Finanțelor · ?
+  Proiect Hotărârea Guvernului pentru aprobarea programului ”Diaspora Investește Acasă” si mandatarea 
+  domenii: Fiscal general, Raportări și declarații, Finanțări, ajutor de stat
+  text: arhiva/fara-data/Ministerul_Finan_elor/proiectHGDiasporaInvesteste_26052026.pdf/text/
+
+════════════════════════════════════════════════════════════
+
+ /!\  ALARMĂ — 2 surse care mergeau au picat
+
+  • Ministerul Economiei: HTTPSConnectionPool(host='economie.gov.ro', port=443): Max retries exceeded with url: /proiecte-de-acte-normat
+      https://economie.gov.ro/proiecte-de-acte-normative-aflate-in-consultare-publica/
+  • Ministerul Muncii: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exceeded with url: /transparenta-decizionala
+      https://mmuncii.gov.ro/transparenta-decizionala/
+
+  Astea funcționau. Cât timp sunt căzute, s-ar putea să ratezi acte.
+
+════════════════════════════════════════════════════════════
+
+DE REPARAT — 5 surse care n-au mers niciodată
+
+  • Ministerul Transporturilor: HTTPSConnectionPool(host='www.mt.ro', port=443): Max retries exceeded with url: /web14/transparenta-decizional
+      https://www.mt.ro/web14/transparenta-decizionala/consultare-publica/acte-normative-in-avizare
+  • Vama (AVR): 403 Client Error: Forbidden for url: https://www.customs.ro/info-publice/transparenta-decizionala
+      https://www.customs.ro/info-publice/transparenta-decizionala
+  • Ministerul Mediului: 404 Client Error: Not Found for url: https://mmediu.ro/categorie/transparenta-decizionala/1
+      https://www.mmediu.ro/categorie/transparenta-decizionala/1
+  • Ministerul Agriculturii: HTTPSConnectionPool(host='www.madr.ro', port=443): Max retries exceeded with url: /transparenta-decizionala.ht
+      https://www.madr.ro/transparenta-decizionala.html
+  • e-consultare (agregator): 500 Server Error: Internal Server Error for url: https://e-consultare.gov.ro/Consultare-public%C4%83
+      https://e-consultare.gov.ro/Consultare-public%C4%83
+
+  Nu e urgent, dar nici nu dispare. Când găsești adresa corectă,
+  o schimbi în SURSE și pui True la sfârșit.
 

@@ -1,0 +1,73 @@
+
+
+ AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ
+
+ORDIN NR.
+
+pentru modificarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3789/2024 pentru aprobarea Procedurii privind organizarea și înscrierea în Registrul RO e-Factura obligatoriu, precum și a modelului, conținutului și instrucțiunilor de completare ale formularului (082) ”Cerere privind înregistrarea în/scoaterea din Registrul RO e-Factura obligatoriu”
+În temeiul prevederilor art. 11 alin. (3) din Hotărârea Guvernului nr.520/2013 privind organizarea și funcționarea Agenției Naționale de Administrare Fiscală, cu modificările și completările ulterioare, ale art. 108 din Ordonanța de urgență a Guvernului nr.120/2021 privind administrarea, funcționarea și implementarea sistemului național privind factura electronică RO e-Factura și factura electronică în România, precum și pentru completarea Ordonanței Guvernului nr.78/2000 privind omologarea, eliberarea cărții de identitate a vehiculului și certificarea autenticității vehiculelor rutiere în vederea introducerii pe piață, punerii la dispoziție pe piață, înmatriculării sau înregistrării în România, precum și supravegherea pieței pentru acestea, aprobată cu modificări și completări prin Legea nr.139/2022, cu modificările și completările ulterioare și ale art.IV alin.(2) din Legea nr.88/2026 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 128/2024 pentru modificarea şi completarea Legii nr.227/2015 privind Codul fiscal şi măsuri specifice pentru digitalizare, precum şi pentru modificarea şi completarea unor acte normative, 
+
+Având în vedere dispozițiile art.106 alin.(4) și (5) din Ordonanța de urgență a Guvernului nr.120/2021, aprobată cu modificări și completări prin Legea nr. 139/2022, cu modificările și completările ulterioare, precum și avizul conform al Ministerului Finanţelor comunicat prin adresa nr. ............din ....................2026,
+
+președintele Agenției Naționale de Administrare Fiscală emite următorul 
+
+ORDIN
+	
+Art.I - Ordinul președintelui Agenției Naționale de Administrare Fiscală nr.3789/2024 pentru aprobarea Procedurii privind organizarea și înscrierea în Registrul RO e-Factura obligatoriu, precum și a modelului, conținutului și instrucțiunilor de completare ale formularului (082) ”Cerere privind înregistrarea în/scoaterea din Registrul RO e-Factura obligatoriu”, publicat în Monitorul Oficial al României, Partea I, nr.734 din 26 iulie 2024, cu modificările și completările ulterioare, se modifică după cum urmează:
+
+Anexa nr.1 se modifică, după cum urmează:
+Punctul 1 se modifică și va avea următorul cuprins:
+	”1. Potrivit prevederilor art. 106 alin.(4) teza a II-a din Ordonanţa de urgenţă a Guvernului nr. 120/2021, aprobată cu modificări şi completări prin Legea nr. 139/2022, cu modificările şi completările ulterioare, asociaţiile şi fundaţiile constituite în baza Ordonanţei Guvernului nr. 26/2000 cu privire la asociaţii şi fundaţii, aprobată cu modificări şi completări prin Legea nr. 246/2005, cu modificările şi completările ulterioare, alte asociaţii fără scop lucrativ/patrimonial, partidele politice, cultele, care nu sunt înregistrate în scopuri de TVA conform art. 316 din Legea nr. 227/2015 privind Codul fiscal, cu modificările şi completările ulterioare, denumită în continuare Codul fiscal, au obligaţia de a solicita înscrierea în Registrul RO e-Factura obligatoriu, înainte de a începe desfășurarea activităților economice, în cazul în care nu au optat deja pentru aplicarea sistemului RO e-Factura.”
+
+Punctul 11 și punctul 2 se abrogă;
+
+Punctul 3 se modifică și va avea următorul cuprins:
+	”3. Prezenta procedură se aplică de organele fiscale centrale subordonate Agenției Naționale de Administrare fiscală în a căror evidență sunt înregistrate ca plătitori de impozite și taxe entitățile prevăzute la pct.1.” 
+
+La punctul 7, literele a), b), d) și e) se modifică și vor avea următorul cuprins:
+	 	”a) codul de identificare fiscală al entităţii prevăzute la pct. 1;
+		  b) denumirea entităţii;
+		  d) adresa domiciliului fiscal al entităţii;
+		  e) data la care entitatea a solicitat înscrierea în Registrul RO e-Factura 			obligatoriu;”;
+
+La punctul 7, litera c) se abrogă;
+
+Punctul 8 se modifică și va avea următorul cuprins:
+”8. Registrul obligatoriu se actualizează permanent, pe baza cererilor de înregistrare în Registrul RO e-Factura obligatoriu (formular 082) depuse de entităţile prevăzute la pct. 1 şi a informaţiilor deţinute de organele fiscale cu privire la radierea contribuabililor din Registrul contribuabililor/plătitorilor.”
+
+Punctul 9 se modifică și va avea următorul cuprins:
+	”9. Pentru a solicita înscrierea în Registrul RO e-Factura obligatoriu, entităţile prevăzute la pct. 1 completează şi transmit formularul (082) "Cerere privind înregistrarea în/scoaterea din Registrul RO e-Factura obligatoriu”, având bifată secțiunea III din formular."
+
+Punctul 11 se modifică și va avea următorul cuprins:
+”11. Entităţile prevăzute la pct. 1 care transmit formularul (082), prin care solicită înscrierea în Registrul RO e-Factura obligatoriu, sunt înscrise în acest registru în termen de 3 zile lucrătoare de la data transmiterii formularului.”
+
+Punctul 111 se modifică și va avea următorul cuprins:
+	”111. Furnizorii/prestatorii, inclusiv agricultorii persoane fizice care aplică Regimul special pentru agricultori prevăzut la art. 3151 din Codul fiscal, care nu au obligația utilizării sistemului RO e-Factura și care au fost înregistrați în Registrul RO e-Factura obligatoriu, pot solicita scoaterea din acest registru prin completarea și transmiterea formularului (082) "Cerere privind înregistrarea în/scoaterea din Registrul RO e-Factura obligatoriu”, având bifată secțiunea IV din formular. Persoanele/entitățile care solicită scoaterea din Registrul RO e-Factura obligatoriu sunt scoase din acest registru începând cu data de 1 a lunii următoare transmiterii formularului.”
+
+Punctul 12 se modifică și va avea următorul cuprins:
+	”12. Entităţile prevăzute la pct. 1 sunt radiate din Registrul RO e-Factura obligatoriu, de la data radierii din Registrul contribuabililor/plătitorilor, potrivit legii.”
+
+Punctele 13 - 16 se modifică și vor avea următorul cuprins:
+”13. Registrul RO e-Factura obligatoriu permite următoarele:
+    a) consultarea informaţiilor pentru fiecare entitate dintre cele prevăzute la pct.1, identificată prin codul de identificare fiscală;
+    b) furnizarea, prin servicii web, a informaţiilor din Registrul RO e-Factura obligatoriu. Interogarea registrelor se face pe baza unei liste care conţine codul de identificare fiscală al entităţii prevăzute la pct.1 şi/sau denumirea acesteia. Răspunsul serviciului web furnizează informaţii privind denumirea şi adresa la care îşi are domiciliul fiscal fiecare entitate prevăzută la pct.1, care figurează în registru, starea (figurează/nu figurează) la data solicitată de către persoanele interesate, denumirea registrului în care figurează înscrisă (Registrul obligatoriu), precum şi intervalul de înregistrare corespunzător datei solicitate. Termenii şi condiţiile de utilizare a serviciului web de furnizare a informaţiilor, în condiţiile prezentului ordin, se publică pe pagina de internet a Agenţiei Naţionale de Administrare Fiscală.
+14. Mesajele care se afişează la consultarea informaţiilor din Registrul RO e-Factura obligatoriu pentru fiecare entitate dintre cele prevăzute la pct.1 în parte cuprind informaţii privind starea actuală, din ziua solicitării, a entităţii despre care se solicită informaţiile, respectiv calitatea de entitate înregistrată în Registrul RO e-Factura obligatoriu sau de entitate neînregistrată în Registrul RO e-Factura obligatoriu.
+15. Pentru furnizarea informaţiilor din acest registru, la solicitarea oricărei persoane interesate, pe pagina de internet www.anaf.ro/Informaţii publice/Informaţii privind agenţii economici se publică un mesaj de informare, de tipul:
+ "Entitatea ....................................... (denumirea), cu domiciliul fiscal ..................., identificată prin codul de identificare fiscală ................., figurează la data de .................................... (data solicitării) ca entitate înregistrată în Registrul RO e-Factura obligatoriu. Entitatea a fost înregistrată în Registrul RO e-Factura obligatoriu la data de ................. ."
+16. Pentru furnizarea informaţiilor privind entităţile care nu figurează în registrul obligatoriu se publică un mesaj de informare, de tipul:
+"Entitatea.......................................(denumirea), cu domiciliul fiscal ................., identificat prin codul de identificare fiscală ................, nu figurează la data de......................... (data solicitării) ca operator înregistrat în Registrul RO e-Factura obligatoriu."
+
+Anexa nr. 2 se modifică și se înlocuiește cu Anexa nr. 1 la prezentul ordin.
+
+Anexa nr. 3 se modifică și se înlocuiește cu Anexa nr. 2 la prezentul ordin.
+
+Anexa nr. 4 se modifică și se înlocuiește cu Anexa nr. 3 la prezentul ordin.
+
+	Art. II - La data intrării în vigoare a acestui ordin, se înscriu, cu ajutorul sistemului informatic, în Registrul RO e-Factura obligatoriu, asociaţiile şi fundaţiile constituite în baza Ordonanţei Guvernului nr. 26/2000 cu privire la asociaţii şi fundaţii, aprobată cu modificări şi completări prin Legea nr. 246/2005, cu modificările şi completările ulterioare, alte asociaţii fără scop lucrativ/patrimonial, partide politice, culte care nu sunt înregistrate în scopuri de TVA conform art. 316 din Codul fiscal, care erau înscrise în Registrul RO e-Factura opțional, organizat potrivit Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3788/2024 pentru aprobarea Procedurii privind organizarea și înscrierea în Registrul RO e-Factura opțional, precum și a modelului, conținutului și instrucțiunilor de completare ale formularului (081) ”Cerere privind înregistrarea în/scoaterea din Registrul RO e-Factura opțional/renunțarea la cererea privind înregistrarea în Registrul RO e-Factura opțional”.
+Art.III - Anexele nr. 1 - 3 fac parte integrantă din prezentul ordin.
+	Art. IV- Structurile competente din cadrul Agenţiei Naţionale de Administrare Fiscală, inclusiv Direcţia generală de administrare a marilor contribuabili, direcţiile generale regionale ale finanţelor publice şi organele fiscale din subordine vor lua măsuri pentru ducerea la îndeplinire a prevederilor prezentului ordin.
+Art. V - Prezentul ordin se publică în Monitorul Oficial al României, Partea I.
+
+	Emis la București, în data de              .2026
+PREȘEDINTE,
+ADRIAN NICUȘOR NICA

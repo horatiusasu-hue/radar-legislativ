@@ -1,0 +1,63 @@
+﻿ Anexa nr. 6
+
+CARACTERISTICILE
+de tipărire, modul de difuzare, de utilizare și depăstrare a formularelor
+
+    1. Denumirea formularului: ”Notificare privind nedepunerea decontului de taxă pe valoarea adăugată (300)”
+1.1. Format: A4/t1;
+1.2. Caracteristicile de tipărire: 
+- pe o singură faţă;
+- se poate utiliza şi echipament informatic pentru editare şi completare;
+1.3. Se utilizează la notificarea persoanelor impozabile care nu și-au îndeplinit obligația de depunere a decontului taxei pe valoarea adăugată (300) prevăzut la art.323 alin.(1) din Codul fiscal;
+1.4. Se întocmeşte în 2 exemplare de organul fiscal competent;
+1.5. Circulă: 
+- 1 exemplar la persoana impozabilă;
+    - 1 exemplar la organul fiscal competent;
+1.6. Se arhivează la dosarul fiscal al persoanei impozabile.
+
+    2. Denumirea formularului: ”Invitație privind exercitarea dreptului de a fi ascultat, în cazul neprezentării la primul termen stabilit de organul fiscal în vederea audierii”
+2.1. Format: A4/t1;
+2.2. Caracteristicile de tipărire: 
+- pe o singură faţă;
+- se poate utiliza şi echipament informatic pentru editare şi completare;
+2.3. Se utilizează pentru invitarea la sediul organului fiscal competent a persoanelor impozabile care, urmare ”Notificării privind nedepunerea decontului de taxă pe valoarea adăugată (300)” nu au depus decontul de taxă pe valoarea adăugată (300), nu s-au prezentat la sediul unităţii fiscale, în vederea audierii, conform prevederilor art.9 alin.(1) din Codul de procedură fiscală și nu au refuzat explicit să-și exercite dreptul de a fi ascultat; 
+2.4. Se întocmeşte în 2 exemplare de organul fiscal competent;
+2.5. Circulă: 
+- 1 exemplar la persoana impozabilă;
+    - 1 exemplar la organul fiscal competent;
+2.6. Se arhivează la dosarul fiscal al persoanei impozabile.
+
+    3. Denumirea formularului: ”Referat privind impunerea din oficiu a taxei pe valoarea adăugată datorate de către persoanele impozabile care nu au depus decontul de taxă pe valoarea adăugată (300)”
+3.1. Format: A4/t1;
+3.2. Caracteristicile de tipărire: 
+- pe o singură faţă;
+- se poate utiliza şi echipament informatic pentru editare şi completare;
+3.3. Se utilizează la stabilirea din oficiu a taxei pe valoarea adăugată datorate de persoanele impozabile care nu au depus decontul de taxă pe valoarea adăugată (300);
+3.4. Se întocmeşte într-un singur exemplar, de organul fiscal competent;
+3.5. Se arhivează la dosarul fiscal al persoanei impozabile.
+
+    4. Denumirea formularului: ”Decizie de impunere din oficiu a taxei pe valoarea adăugată datorate de către persoanele impozabile care nu au depus decontul de taxă pe valoarea adăugată (300)” (192);
+4.1. Format: A4/t1.
+4.2. Caracteristicile de tipărire: 
+- pe o singură faţă;
+    - se poate utiliza şi echipament informatic pentru editare şi completare.
+4.3. Se utilizează la stabilirea din oficiu a taxei pe valoarea adăugată datorate de persoanele impozabile care nu au depus 	decontul de taxă pe valoarea adăugată (300) ;
+4.4. Se difuzează gratuit;
+4.5. Se întocmeşte în 2 exemplare de organul fiscal competent;
+4.6. Circulă: 
+- 1 exemplar la persoana impozabilă;
+    - 1 exemplar la organul fiscal competent.
+4.7. Se arhivează: copia se arhivează la dosarul fiscal al persoanei impozabile.
+
+    5. Denumirea: "Decizie de anulare a Deciziei de impunere din oficiu a taxei pe valoarea adăugată datorate de către persoanele impozabile care nu au depus decontul de taxă pe valoarea adăugată (300)” (193);
+5.1. Format: A4/t1;
+5.2. Caracteristicile de tipărire:
+ - pe o singură faţă;
+- se poate utiliza şi echipament informatic pentru editare şi completare.;
+5.3. Se utilizează la anularea deciziei de impunere din oficiu a taxei pe valoarea adăugată  datorate de către persoanele impozabile care nu au depus decontul de taxă pe valoarea adăugată (300) ;
+5.4. Se difuzează gratuit;
+5.5. Se întocmeşte în 2 exemplare de organul fiscal competent.;
+5.6. Circulă: 
+- 1 exemplar la persoana impozabilă;
+    - 1 exemplar la organul fiscal competent.
+5.7. Se arhivează: copia se arhivează la dosarul fiscal al persoanei impozabile.

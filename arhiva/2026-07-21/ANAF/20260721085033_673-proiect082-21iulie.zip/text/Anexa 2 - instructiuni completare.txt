@@ -1,0 +1,49 @@
+											Anexa nr.2				                                                          
+(Anexa nr. 3 la OPANAF nr.3789/2024)
+
+
+Instrucţiuni de completare a formularului (082)
+”Cerere privind înregistrarea în/scoaterea din Registrul RO e-Factura obligatoriu”
+
+
+
+	Formularul (082) ”Cerere privind înregistrarea în/scoaterea din Registrul RO e-Factura obligatoriu” se completează și se transmite de către asociațiile și fundațiile constituite în baza Ordonanței Guvernului nr.26/2000 cu privire la asociații și fundații, aprobată cu modificări și completări prin Legea nr.246/2005, cu modificările și completările ulterioare, alte asociații fără scop lucrativ/patrimonial, partidele politice, cultele, care nu sunt înregistrate în scopuri de TVA conform art.316 din Codul fiscal, și care solicită înscrierea în Registrul RO e-Factura obligatoriu, înainte de a începe desfășurarea activităților economice, potrivit prevederilor art. 106 alin.(4) teza a II-a din Ordonanţa de urgenţă a Guvernului nr.120/2021 aprobată cu modificări şi completări prin Legea nr. 139/2022, cu modificările şi completările ulterioare.
+
+Formularul se completează și se transmite și de către furnizorii/prestatorii care nu au obligaţia utilizării sistemului, care au fost înregistraţi în Registrul RO e-Factura obligatoriu și care solicită scoaterea din acest registru, în temeiul art.108 alin.(2) din Ordonanţa de urgenţă a Guvernului nr. 120/2021, aprobată cu modificări şi completări prin Legea nr. 139/2022cu modificările și completările ulterioare.
+   
+Formularul se completează și se transmite și de către agricultorii persoane fizice care aplică Regimul special pentru agricultori prevăzut la art. 3151 din Codul fiscal, care au fost înregistraţi în Registrul RO e-Factura obligatoriu pentru facturile emise începând cu data de 1 iulie 2025 și care solicită scoaterea din acest registru.
+
+Formularul se completează cu ajutorul programului de asistență pus la dispoziție de Centrul Național pentru Informații Financiare și se transmite prin mijloace electronice de transmitere la distanță, potrivit legii.
+ 
+Completarea formularului se face astfel:
+
+În prima casetă se bifează categoria din care face parte solicitantul.
+
+Secțiunea I "Date de identificare ale solicitantului"
+Caseta "Denumire/Nume, prenume" se completează cu denumirea entității sau, după caz, cu numele și prenumele persoanei care solicită înregistrarea în/scoaterea din registru.
+
+Caseta "Cod de identificare fiscală" se completează cu codul de înregistrare fiscală atribuit entității, conform legii, sau cu codul numeric personal, după caz, înscriindu-se cifrele cu aliniere la dreapta.  
+
+Caseta "Domiciliul fiscal" se completează cu datele privind adresa domiciliului fiscal al entității sau, după caz, al persoanei fizice.
+
+În situaţia în care formularul se completează de către împuternicit ori reprezentantul legal/desemnat potrivit legii, secțiunea se completează cu datele de identificare ale entității/persoanei pentru care se solicită înregistrarea în/scoaterea din registru.
+
+Secțiunea II.  Reprezentare prin -	se marchează cu "X", în cazul în care, în relația cu organul fiscal, entitatea/persoana este reprezentată prin împuternicit ori reprezentant legal/desemnat.
+În casetele "Nr. document" și "Dată document (zz/ll/aaaa)" se înscriu numărul și data înregistrării la organul fiscal, de către împuternicit, a actului de împuternicire, în original sau în copie legalizată sau după caz, numărul și data documentului care atestă calitatea de reprezentant legal/desemnat.
+
+Date de identificare - se completează cu datele de identificare ale împuternicitului ori reprezentantului legal/desemnat.
+Caseta “Țara” se completează dacă s-a marcat cu "X" căsuța “Reprezentant legal/desemnat”.
+
+Secţiunea III. ”Cerere privind înregistrarea în Registrul RO e-Factura obligatoriu” se bifează de către entitățile care solicită  înregistrarea în Registrul RO e-Factura obligatoriu, în vederea utilizării sistemului național privind factura electronică RO e-Factura, potrivit dispozițiilor art.106 alin.(4) teza a II-a din Ordonanța de urgență a Guvernului nr.120/2021, aprobată cu modificări şi completări prin Legea nr. 139/2022 cu modificările și completările ulterioare.
+	Aceste entități sunt înscrise în registru în termen de 3 zile lucrătoare de la data solicitării.
+	
+
+Secțiunea IV ”Cerere privind scoaterea din Registrul RO e-Factura obligatoriu” se bifează de către furnizorii/prestatorii și de către agricultorii persoane fizice care aplică Regimul special pentru agricultori prevăzut la art. 3151 din Codul fiscal, înregistrați în Registrul RO e-Factura obligatoriu, care nu au obligația utilizării sistemului RO e-Factura și care au dreptul să solicite scoaterea din acest registru în temeiul dispozițiilor art.108 alin.(2) din Ordonanța de urgență a Guvernului nr.120/2021, aprobată cu modificări şi completări prin Legea nr. 139/2022 cu modificările și completările ulterioare.
+Aceste persoane sunt scoase din registru începând cu data de 1 a lunii următoare transmiterii formularului.
+
+Caseta ”Numele persoanei care face declaraţia” se completează cu numele persoanei care întocmește formularul (082).
+
+Caseta ”Funcția/Calitatea” se completează cu funcția/calitatea pe care o are persoana care întocmește formularul (082). În situaţia în care formularul (082) se completează de către împuternicit ori reprezentant legal/desemnat potrivit legii, se înscrie "Împuternicit", ”Reprezentant legal” sau ”Reprezentant desemnat”, după caz.
+
+
+
