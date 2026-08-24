@@ -1,6 +1,6 @@
 SURSE DE PROIECTE
 ────────────────────────────────────────────────────────────
-ANAF                               4 proiecte
+ANAF                              EROARE: HTTPSConnectionPool(host='www.anaf.ro', port=443): Read timed out. (re
 Ministerul Finanțelor             21 proiecte
 Ministerul Economiei              EROARE: HTTPSConnectionPool(host='economie.gov.ro', port=443): Max retries exc
 Ministerul Muncii                 EROARE: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exce
@@ -20,8 +20,10 @@ Niciun proiect nou.
 Nimic de raportat. Nu se trimite nimic.
 ════════════════════════════════════════════════════════════
 
- /!\  ALARMĂ — 2 surse care mergeau au picat
+ /!\  ALARMĂ — 3 surse care mergeau au picat
 
+  • ANAF: HTTPSConnectionPool(host='www.anaf.ro', port=443): Read timed out. (read timeout=60)
+      https://www.anaf.ro/anaf/internet/ANAF/transparenta_decizionala/
   • Ministerul Economiei: HTTPSConnectionPool(host='economie.gov.ro', port=443): Max retries exceeded with url: /proiecte-de-acte-normat
       https://economie.gov.ro/proiecte-de-acte-normative-aflate-in-consultare-publica/
   • Ministerul Muncii: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exceeded with url: /transparenta-decizionala
