@@ -1,6 +1,8 @@
 SURSE DE PROIECTE
 ────────────────────────────────────────────────────────────
-ANAF                              EROARE: HTTPSConnectionPool(host='www.anaf.ro', port=443): Read timed out. (re
+ANAF                               4 proiecte
+    NOU  Proiect de ordin al președinrelui ANAF privind modificarea şi completa  (2/2 în text)
+    NOU  Proiect de ordin al președintelui ANAF pentru aprobarea Procedurii pri  (8/8 în text)
 Ministerul Finanțelor             21 proiecte
 Ministerul Economiei              EROARE: HTTPSConnectionPool(host='economie.gov.ro', port=443): Max retries exc
 Ministerul Muncii                 EROARE: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exce
@@ -11,19 +13,28 @@ Ministerul Agriculturii           EROARE: HTTPSConnectionPool(host='www.madr.ro'
 e-consultare (agregator)          EROARE: 500 Server Error: Internal Server Error for url: https://e-consultare.
 
 Caut acte publicate care să corespundă proiectelor deschise…
-  16 titluri de acte citite.
+  13 titluri de acte citite.
 
 ════════════════════════════════════════════════════════════
 
-Niciun proiect nou.
+PROIECTE NOI — 2
 
-Nimic de raportat. Nu se trimite nimic.
+  ANAF · 2026-08-24
+  Proiect de ordin al președinrelui ANAF privind modificarea şi completarea Ordinului preşedintelui AN
+  domenii: Fiscal general, Raportări și declarații
+  termen observații: 2026-09-03  (9 zile rămase)
+  text: arhiva/2026-08-24/ANAF/20260824113528_771-proiect-24aug.zip/text/
+
+  ANAF · 2026-08-24
+  Proiect de ordin al președintelui ANAF pentru aprobarea Procedurii privind stabilirea din oficiu a c
+  domenii: Fiscal general, Salarizare și muncă, Raportări și declarații
+  termen observații: 2026-09-03  (9 zile rămase)
+  text: arhiva/2026-08-24/ANAF/20260824112423_774-proiect-24aug.zip/text/
+
 ════════════════════════════════════════════════════════════
 
- /!\  ALARMĂ — 3 surse care mergeau au picat
+ /!\  ALARMĂ — 2 surse care mergeau au picat
 
-  • ANAF: HTTPSConnectionPool(host='www.anaf.ro', port=443): Read timed out. (read timeout=60)
-      https://www.anaf.ro/anaf/internet/ANAF/transparenta_decizionala/
   • Ministerul Economiei: HTTPSConnectionPool(host='economie.gov.ro', port=443): Max retries exceeded with url: /proiecte-de-acte-normat
       https://economie.gov.ro/proiecte-de-acte-normative-aflate-in-consultare-publica/
   • Ministerul Muncii: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exceeded with url: /transparenta-decizionala

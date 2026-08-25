@@ -745,6 +745,73 @@
       "stare": "in_consultare",
       "act_publicat": null,
       "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectHGDiasporaInvesteste_26052026.pdf"
+    },
+    "ANAF::20260824113528_771-proiect-24aug.zip": {
+      "institutie": "ANAF",
+      "url": "https://static.anaf.ro/static/33/Anaf/20260824113528_771-proiect-24aug.zip",
+      "data": "2026-08-24",
+      "titlu": "Proiect de ordin al președinrelui ANAF privind modificarea şi completarea Ordinului preşedintelui ANAF nr.587/2016 pentru aprobarea modelului şi conţinutului formularelor utilizate pentru declararea impozitelor şi taxelor cu regim de stabilire prin autoimpunere sau reţinere la sursă",
+      "id": "20260824113528_771-proiect-24aug.zip",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [
+        "587/2016"
+      ],
+      "termen_observatii": "2026-09-03",
+      "fisiere": [
+        "ordin.doc",
+        "referat .docx"
+      ],
+      "convertite": [
+        "ordin.doc",
+        "referat .docx"
+      ],
+      "arhivat_la": "2026-08-25T04:31:26+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/2026-08-24/ANAF/20260824113528_771-proiect-24aug.zip"
+    },
+    "ANAF::20260824112423_774-proiect-24aug.zip": {
+      "institutie": "ANAF",
+      "url": "https://static.anaf.ro/static/33/Anaf/20260824112423_774-proiect-24aug.zip",
+      "data": "2026-08-24",
+      "titlu": "Proiect de ordin al președintelui ANAF pentru aprobarea Procedurii privind stabilirea din oficiu a contribuţiei de asigurări sociale și a contribuției de asigurări sociale de sănătate datorate de persoanele fizice, precum și a modelului și conținutului unor formulare",
+      "id": "20260824112423_774-proiect-24aug.zip",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "2",
+        "3"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": "2026-09-03",
+      "fisiere": [
+        "Anexa 1 procedura.docx",
+        "Anexa 2 Notificare.docx",
+        "anexa 3 Invitatie audiere.doc",
+        "Anexa 4 referat estimare.docx",
+        "anexa 5 Decizie impunere oficiu.docx",
+        "Anexa 6 Decizie anulare.docx",
+        "ordin.docx",
+        "referat.doc"
+      ],
+      "convertite": [
+        "Anexa 1 procedura.docx",
+        "Anexa 2 Notificare.docx",
+        "anexa 3 Invitatie audiere.doc",
+        "Anexa 4 referat estimare.docx",
+        "anexa 5 Decizie impunere oficiu.docx",
+        "Anexa 6 Decizie anulare.docx",
+        "ordin.docx",
+        "referat.doc"
+      ],
+      "arhivat_la": "2026-08-25T04:31:28+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/2026-08-24/ANAF/20260824112423_774-proiect-24aug.zip"
     }
   },
   "acte_vazute": []
