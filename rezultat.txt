@@ -1,8 +1,6 @@
 SURSE DE PROIECTE
 ────────────────────────────────────────────────────────────
 ANAF                               4 proiecte
-    NOU  Proiect de ordin al președinrelui ANAF privind modificarea şi completa  (2/2 în text)
-    NOU  Proiect de ordin al președintelui ANAF pentru aprobarea Procedurii pri  (8/8 în text)
 Ministerul Finanțelor             21 proiecte
 Ministerul Economiei              EROARE: HTTPSConnectionPool(host='economie.gov.ro', port=443): Max retries exc
 Ministerul Muncii                 EROARE: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exce
@@ -13,23 +11,29 @@ Ministerul Agriculturii           EROARE: HTTPSConnectionPool(host='www.madr.ro'
 e-consultare (agregator)          EROARE: 500 Server Error: Internal Server Error for url: https://e-consultare.
 
 Caut acte publicate care să corespundă proiectelor deschise…
-  13 titluri de acte citite.
+  19 titluri de acte citite.
 
 ════════════════════════════════════════════════════════════
 
-PROIECTE NOI — 2
+Niciun proiect nou.
 
-  ANAF · 2026-08-24
-  Proiect de ordin al președinrelui ANAF privind modificarea şi completarea Ordinului preşedintelui AN
-  domenii: Fiscal general, Raportări și declarații
-  termen observații: 2026-09-03  (9 zile rămase)
-  text: arhiva/2026-08-24/ANAF/20260824113528_771-proiect-24aug.zip/text/
+════════════════════════════════════════════════════════════
 
-  ANAF · 2026-08-24
-  Proiect de ordin al președintelui ANAF pentru aprobarea Procedurii privind stabilirea din oficiu a c
-  domenii: Fiscal general, Salarizare și muncă, Raportări și declarații
-  termen observații: 2026-09-03  (9 zile rămase)
-  text: arhiva/2026-08-24/ANAF/20260824112423_774-proiect-24aug.zip/text/
+POSIBILE POTRIVIRI — de confirmat de tine
+
+  PROIECT: Proiect de ordin al președintelui Agenției Naționale de Administrare Fiscală pentru modifi
+           publicat 2026-07-21
+    → 83%  Ordin pentru modificarea Ordinului președintelui Agenției Naționale de Administrare F
+           (titluri asemănătoare (83%); sursa: Monitorul Oficial — sumar)
+    Dacă e corect, în index.json pune:
+      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
+
+  PROIECT: Proiect de ordin al președintelui Agenției Naționale de Administrare Fiscală pentru modifi
+           publicat 2026-07-21
+    → 83%  Ordin pentru modificarea Ordinului președintelui Agenției Naționale de Administrare F
+           (titluri asemănătoare (83%); sursa: Monitorul Oficial — sumar)
+    Dacă e corect, în index.json pune:
+      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
 
 ════════════════════════════════════════════════════════════
 
