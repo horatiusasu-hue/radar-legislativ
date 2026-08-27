@@ -11,30 +11,13 @@ Ministerul Agriculturii           EROARE: HTTPSConnectionPool(host='www.madr.ro'
 e-consultare (agregator)          EROARE: 500 Server Error: Internal Server Error for url: https://e-consultare.
 
 Caut acte publicate care să corespundă proiectelor deschise…
-  19 titluri de acte citite.
+  15 titluri de acte citite.
 
 ════════════════════════════════════════════════════════════
 
 Niciun proiect nou.
 
-════════════════════════════════════════════════════════════
-
-POSIBILE POTRIVIRI — de confirmat de tine
-
-  PROIECT: Proiect de ordin al președintelui Agenției Naționale de Administrare Fiscală pentru modifi
-           publicat 2026-07-21
-    → 83%  Ordin pentru modificarea Ordinului președintelui Agenției Naționale de Administrare F
-           (titluri asemănătoare (83%); sursa: Monitorul Oficial — sumar)
-    Dacă e corect, în index.json pune:
-      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
-
-  PROIECT: Proiect de ordin al președintelui Agenției Naționale de Administrare Fiscală pentru modifi
-           publicat 2026-07-21
-    → 83%  Ordin pentru modificarea Ordinului președintelui Agenției Naționale de Administrare F
-           (titluri asemănătoare (83%); sursa: Monitorul Oficial — sumar)
-    Dacă e corect, în index.json pune:
-      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
-
+Nimic de raportat. Nu se trimite nimic.
 ════════════════════════════════════════════════════════════
 
  /!\  ALARMĂ — 2 surse care mergeau au picat
