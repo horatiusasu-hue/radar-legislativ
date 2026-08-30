@@ -11,7 +11,7 @@ Ministerul Agriculturii           EROARE: HTTPSConnectionPool(host='www.madr.ro'
 e-consultare (agregator)          EROARE: 500 Server Error: Internal Server Error for url: https://e-consultare.
 
 Caut acte publicate care să corespundă proiectelor deschise…
-  15 titluri de acte citite.
+  17 titluri de acte citite.
 
 ════════════════════════════════════════════════════════════
 
