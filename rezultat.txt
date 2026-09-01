@@ -2,7 +2,6 @@ SURSE DE PROIECTE
 ────────────────────────────────────────────────────────────
 ANAF                               4 proiecte
 Ministerul Finanțelor             21 proiecte
-    NOU  Proiect Hotărâre privind aprobarea Metodologiei de stabilire a indicat  (0/1 în text)
 Ministerul Economiei              EROARE: HTTPSConnectionPool(host='economie.gov.ro', port=443): Max retries exc
 Ministerul Muncii                 EROARE: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exce
 Ministerul Transporturilor        EROARE: HTTPSConnectionPool(host='www.mt.ro', port=443): Max retries exceeded 
@@ -12,16 +11,22 @@ Ministerul Agriculturii           EROARE: HTTPSConnectionPool(host='www.madr.ro'
 e-consultare (agregator)          EROARE: 500 Server Error: Internal Server Error for url: https://e-consultare.
 
 Caut acte publicate care să corespundă proiectelor deschise…
-  14 titluri de acte citite.
+  19 titluri de acte citite.
 
 ════════════════════════════════════════════════════════════
 
-PROIECTE NOI — 1
+Niciun proiect nou.
 
-  Ministerul Finanțelor · ?
-  Proiect Hotărâre privind aprobarea Metodologiei de stabilire a indicatorilor-cheie de performanță și
-  domenii: Fiscal general, Raportări și declarații
-  text: arhiva/fara-data/Ministerul_Finan_elor/proiecthotmetodologierecompenseANAF_28082026.pdf/text/
+════════════════════════════════════════════════════════════
+
+POSIBILE POTRIVIRI — de confirmat de tine
+
+  PROIECT: Proiect Hotărâre privind aprobarea Metodologiei de stabilire a indicatorilor-cheie de perf
+           publicat None
+    → 74%  Hotărâre privind aprobarea Metodologiei de stabilire a indicatorilor-cheie de perform
+           (titluri asemănătoare (74%); sursa: Monitorul Oficial — sumar)
+    Dacă e corect, în index.json pune:
+      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
 
 ════════════════════════════════════════════════════════════
 
