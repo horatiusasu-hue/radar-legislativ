@@ -17,17 +17,7 @@ Caut acte publicate care să corespundă proiectelor deschise…
 
 Niciun proiect nou.
 
-════════════════════════════════════════════════════════════
-
-POSIBILE POTRIVIRI — de confirmat de tine
-
-  PROIECT: Proiect Hotărâre privind aprobarea Metodologiei de stabilire a indicatorilor-cheie de perf
-           publicat None
-    → 74%  Hotărâre privind aprobarea Metodologiei de stabilire a indicatorilor-cheie de perform
-           (titluri asemănătoare (74%); sursa: Monitorul Oficial — sumar)
-    Dacă e corect, în index.json pune:
-      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
-
+Nimic de raportat. Nu se trimite nimic.
 ════════════════════════════════════════════════════════════
 
  /!\  ALARMĂ — 2 surse care mergeau au picat
