@@ -834,6 +834,32 @@
       "stare": "in_consultare",
       "act_publicat": null,
       "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiecthotmetodologierecompenseANAF_28082026.pdf"
+    },
+    "Ministerul Finanțelor::proiectHGmodifHG1094_03092026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiectHGmodifHG1094_03092026.pdf",
+      "data": null,
+      "titlu": "Proiect Hotărâre privind pentru modificarea și completarea Hotărârii Guvernului nr.1094/2025 privind instituirea unei scheme de ajutor de stat pentru compensarea creșterii prețului la motorină prin compensarea parțială a accizei la motorina utilizată drept combustibil pentru motor Nota de fundamentare",
+      "id": "proiectHGmodifHG1094_03092026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3",
+        "8",
+        "18"
+      ],
+      "acte_modificate": [
+        "1094/2025"
+      ],
+      "termen_observatii": null,
+      "fisiere": [
+        "proiectHGmodifHG1094_03092026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-09-03T08:25:47+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectHGmodifHG1094_03092026.pdf"
     }
   },
   "acte_vazute": []
