@@ -860,6 +860,72 @@
       "stare": "in_consultare",
       "act_publicat": null,
       "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectHGmodifHG1094_03092026.pdf"
+    },
+    "ANAF::20260903142559_807_proiect_3sept.zip": {
+      "institutie": "ANAF",
+      "url": "https://static.anaf.ro/static/33/Anaf/20260903142559_807_proiect_3sept.zip",
+      "data": "2026-09-03",
+      "titlu": "Proiect de ordin al președintelui ANAF pentru aprobarea Procedurii de atragere a răspunderii solidare reglementată de dispozițiile art. 25 și 26 din Legea nr. 207/2015 privind Codul de procedură fiscală",
+      "id": "20260903142559_807_proiect_3sept.zip",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [
+        "207/2015"
+      ],
+      "termen_observatii": "2026-09-13",
+      "fisiere": [
+        "807_REFERAT.docx",
+        "ANAE11~1.DOC",
+        "ANEXAN~1.DOC",
+        "ANEXAN~1.ODT",
+        "ANEXAN~2.DOC",
+        "ANEXAN~2.ODT",
+        "ANEXAN~3.DOC",
+        "ANEXAN~3.ODT",
+        "ANEXAN~4.DOC",
+        "PROIEC~1.ODT"
+      ],
+      "convertite": [
+        "807_REFERAT.docx",
+        "ANAE11~1.DOC",
+        "ANEXAN~1.DOC",
+        "ANEXAN~1.ODT",
+        "ANEXAN~2.DOC",
+        "ANEXAN~2.ODT",
+        "ANEXAN~3.DOC",
+        "ANEXAN~3.ODT",
+        "ANEXAN~4.DOC",
+        "PROIEC~1.ODT"
+      ],
+      "arhivat_la": "2026-09-04T08:21:40+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/2026-09-03/ANAF/20260903142559_807_proiect_3sept.zip"
+    },
+    "Ministerul Finanțelor::proiectordingarantii_04092026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiectordingarantii_04092026.pdf",
+      "data": null,
+      "titlu": "Proiect Ordin privind constituirea unei garanții financiare necesare în vederea obținerii statutului de declarant autorizat CBAM de către operatorii economici care nu au fost stabiliți pe parcursul celor două exerciții financiare anterioare anului în care a fost depusă cererea de obținere a acestui statut Referat de aprobare",
+      "id": "proiectordingarantii_04092026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": null,
+      "fisiere": [
+        "proiectordingarantii_04092026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-09-04T08:21:43+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectordingarantii_04092026.pdf"
     }
   },
   "acte_vazute": []
