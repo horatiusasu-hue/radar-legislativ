@@ -1,9 +1,7 @@
 SURSE DE PROIECTE
 ────────────────────────────────────────────────────────────
 ANAF                               4 proiecte
-    NOU  Proiect de ordin al președintelui ANAF pentru aprobarea Procedurii de   (10/10 în text)
 Ministerul Finanțelor             21 proiecte
-    NOU  Proiect Ordin privind constituirea unei garanții financiare necesare î  (0/1 în text)
 Ministerul Economiei              EROARE: HTTPSConnectionPool(host='economie.gov.ro', port=443): Max retries exc
 Ministerul Muncii                 EROARE: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exce
 Ministerul Transporturilor        EROARE: HTTPSConnectionPool(host='www.mt.ro', port=443): Max retries exceeded 
@@ -13,23 +11,13 @@ Ministerul Agriculturii           EROARE: HTTPSConnectionPool(host='www.madr.ro'
 e-consultare (agregator)          EROARE: 500 Server Error: Internal Server Error for url: https://e-consultare.
 
 Caut acte publicate care să corespundă proiectelor deschise…
-  18 titluri de acte citite.
+  15 titluri de acte citite.
 
 ════════════════════════════════════════════════════════════
 
-PROIECTE NOI — 2
+Niciun proiect nou.
 
-  ANAF · 2026-09-03
-  Proiect de ordin al președintelui ANAF pentru aprobarea Procedurii de atragere a răspunderii solidar
-  domenii: Fiscal general, Raportări și declarații
-  termen observații: 2026-09-13  (9 zile rămase)
-  text: arhiva/2026-09-03/ANAF/20260903142559_807_proiect_3sept.zip/text/
-
-  Ministerul Finanțelor · ?
-  Proiect Ordin privind constituirea unei garanții financiare necesare în vederea obținerii statutului
-  domenii: Fiscal general, Raportări și declarații
-  text: arhiva/fara-data/Ministerul_Finan_elor/proiectordingarantii_04092026.pdf/text/
-
+Nimic de raportat. Nu se trimite nimic.
 ════════════════════════════════════════════════════════════
 
  /!\  ALARMĂ — 2 surse care mergeau au picat
