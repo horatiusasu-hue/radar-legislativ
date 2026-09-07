@@ -926,6 +926,28 @@
       "stare": "in_consultare",
       "act_publicat": null,
       "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectordingarantii_04092026.pdf"
+    },
+    "Ministerul Finanțelor::proiectordinraportaredurabilitate_03092026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiectordinraportaredurabilitate_03092026.pdf",
+      "data": null,
+      "titlu": "Proiect Ordin referitor la simplificarea raportării privind durabilitatea Referat de aprobare",
+      "id": "proiectordinraportaredurabilitate_03092026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": null,
+      "fisiere": [
+        "proiectordinraportaredurabilitate_03092026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-09-07T08:47:22+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectordinraportaredurabilitate_03092026.pdf"
     }
   },
   "acte_vazute": []
