@@ -11,23 +11,13 @@ Ministerul Agriculturii           EROARE: HTTPSConnectionPool(host='www.madr.ro'
 e-consultare (agregator)          EROARE: 500 Server Error: Internal Server Error for url: https://e-consultare.
 
 Caut acte publicate care să corespundă proiectelor deschise…
-  17 titluri de acte citite.
+  21 titluri de acte citite.
 
 ════════════════════════════════════════════════════════════
 
 Niciun proiect nou.
 
-════════════════════════════════════════════════════════════
-
-POSIBILE POTRIVIRI — de confirmat de tine
-
-  PROIECT: Proiect Ordin pentru aprobarea Procedurii privind emiterea soluției fiscale individuale an
-           publicat None
-    → 71%  Ordin pentru aprobarea Procedurii privind emiterea soluției fiscale individuale antic
-           (titluri asemănătoare (71%); sursa: Monitorul Oficial — sumar)
-    Dacă e corect, în index.json pune:
-      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
-
+Nimic de raportat. Nu se trimite nimic.
 ════════════════════════════════════════════════════════════
 
  /!\  ALARMĂ — 2 surse care mergeau au picat
