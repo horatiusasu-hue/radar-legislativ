@@ -1,6 +1,7 @@
 SURSE DE PROIECTE
 ────────────────────────────────────────────────────────────
 ANAF                               4 proiecte
+    NOU  Proiect de ordin al presedintelui ANAF pentru aprobarea condiţiilor de  (2/2 în text)
 Ministerul Finanțelor             21 proiecte
 Ministerul Economiei              EROARE: HTTPSConnectionPool(host='economie.gov.ro', port=443): Max retries exc
 Ministerul Muncii                 EROARE: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exce
@@ -11,13 +12,18 @@ Ministerul Agriculturii           EROARE: HTTPSConnectionPool(host='www.madr.ro'
 e-consultare (agregator)          EROARE: 500 Server Error: Internal Server Error for url: https://e-consultare.
 
 Caut acte publicate care să corespundă proiectelor deschise…
-  21 titluri de acte citite.
+  18 titluri de acte citite.
 
 ════════════════════════════════════════════════════════════
 
-Niciun proiect nou.
+PROIECTE NOI — 1
 
-Nimic de raportat. Nu se trimite nimic.
+  ANAF · 2026-09-11
+  Proiect de ordin al presedintelui ANAF pentru aprobarea condiţiilor de furnizare a informaţiilor, mo
+  domenii: Fiscal general, Raportări și declarații, Transport rutier
+  termen observații: 2026-09-21  (9 zile rămase)
+  text: arhiva/2026-09-11/ANAF/20260911135604_831-proiect11_sept.zip/text/
+
 ════════════════════════════════════════════════════════════
 
  /!\  ALARMĂ — 2 surse care mergeau au picat

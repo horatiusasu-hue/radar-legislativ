@@ -1,0 +1,28 @@
+﻿MINISTERUL FINANȚELOR
+Agenția Națională de Administrare Fiscală
+
+Referat de aprobare 
+a proiectului de ordin al președintelui A.N.A.F. (OPANAF) pentru aprobarea condiţiilor de furnizare a informaţiilor, modelului-cadru al protocolului de colaborare, procedurii privind schimbul de informaţii între Agenţia Naţională de Administrare Fiscală şi persoanele juridice de drept privat (PJDP) semnatare, precum şi a modalităţilor de acces în sistemele informatice dedicate conform art. 70^1 alin. (1) lit. b) din Legea nr. 207/2015 privind Codul de procedură fiscală
+
+Proiectul de ordin supus aprobării are la bază, pe de o parte, imperativul îmbunătățirii securității și confidențialității informațiilor și eficienței modalității de furnizare a acestora (ca aspect inerent al progresului tehnologic), iar pe de altă parte, solicitarea Asociației Române a Băncilor (ARB) de includere a anumitor informații furnizate în prezent prin declarațiile fiscale:
+    • D100 – declarație privind obligațiile de plată la bugetul de stat;
+    • D101 – declarație privind impozitul pe profit;
+    • D300 – decontul de taxă pe valoarea adăugată.
+Din practica aplicării prevederilor OPANAF nr. 146/2022 de către PJDP semnatare s-a constatat necesitatea suplimentarii detaliilor referitoare la:
+    • obligațiile auditării IT ex-ante și ex-post;
+    • modalitățile de înrolare/revocare a administratorilor platformei ”schimb de informații ANAF-PJDP”;
+    • modalitățile de reînnoire a certificatelor digitale ale administratorilor platformei ”schimb de informații ANAF-PJDP”;
+    • modalitatea de identificare la distanță de către PJDP a clienților potențiali/existenți.
+Introducerea unor noi categorii de informaţii disponibile prin intermediul sistemului informatic dedicat (platforma ”schimb de informații ANAF-PJDP”) impune abrogarea OPANAF nr. 146/2022 și adoptarea noului ordin ce reglementează accesul instituțiilor de credit la informațiile fiscale suplimentare, precum și actualizarea fluxului de transmitere a consimțământului contribuabililor (persoane juridice și persoane fizice deținătoare de cont activ în Spațiul Privat Virtual) prin SPV.
+Întrucât instituțiile de credit, în calitate de PJDP reglementate prin OUG nr. 99/2006, au obligația legală de a analiza bonitatea clienților și de a preveni fraudele în procesul de creditare, pentru îndeplinirea acestei obligații, se constată nevoia accesării unor declarații fiscale depuse la ANAF (D100, D101, D300) exclusiv în scopul gestionării riscului de credit și prevenirii fraudei.
+În acest sens, ordinul aduce clarificări referitoare la noul flux SPV → CNIF → ANAF și la implementarea validării automate a acordurilor și trasabilității acestora, reducându-se riscurile de securitate.
+Potrivit art. 11 alin. (3) lit. d) din Codul de procedură fiscală, furnizarea de informații fiscale se face pe baza consimțământului expres și neechivoc al contribuabilului/plătitorului. În practică, pentru persoanele fizice, transmiterea acordului prin intermediul instituției de credit generează:
+    • risc de utilizare frauduloasă a acordurilor semnate;
+    • costuri de procesare și arhivare;
+    • risc de divulgare accidentală.
+Prin exprimarea acordului exclusiv în SPV, identificarea se realizează prin mecanisme electronice conforme Legii nr. 214/2024 privind utilizarea semnăturii electronice, a mărcii temporale și prestarea serviciilor de încredere bazate pe acestea, eliminând necesitatea transmiterii acordului prin intermediul instituției de credit, iar impunerea obligației pentru toate PJDP de a întreprinde demersurile ce asigură granularitatea acordului contribuabilului/plătitorului (separarea scopurilor de către operator şi obţinerea consimţământului distinct pentru fiecare dintre scopurile prelucrării) reprezintă soluția pentru a îndeplini condiţiile validităţii consimţământului.
+În cazul în care procedura de obţinere a consimţământului nu permite persoanelor vizate să acorde consimţământul separat pentru diferitele operaţiuni de prelucrare a datelor cu caracter personal sau pentru diferitele scopuri ale prelucrării, este afectată însăşi cerinţa unui consimţământ liber exprimat, iar caracterul granular al consimţământului reprezintă o condiţie indispensabilă atunci când prelucrarea datelor personale vizează scopuri multiple.
+Având în vedere cele de mai sus, prin prezentul referat se propun următoarele:
+- aprobarea proiectului de ordin înaintat;
+- abrogarea OPANAF nr. 146 din 1 februarie 2022 pentru aprobarea condiţiilor de furnizare a informaţiilor, modelului-cadru al protocolului de colaborare, procedurii privind schimbul de informaţii între Agenţia Naţională de Administrare Fiscală şi persoanele juridice de drept privat semnatare, precum şi a modalităţilor de acces în sistemele informatice dedicate conform art. 70^1 alin. (1) lit. b) din Legea nr. 207/2015 privind Codul de procedură fiscală.
+

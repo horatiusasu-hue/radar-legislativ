@@ -948,6 +948,33 @@
       "stare": "in_consultare",
       "act_publicat": null,
       "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectordinraportaredurabilitate_03092026.pdf"
+    },
+    "ANAF::20260911135604_831-proiect11_sept.zip": {
+      "institutie": "ANAF",
+      "url": "https://static.anaf.ro/static/33/Anaf/20260911135604_831-proiect11 sept.zip",
+      "data": "2026-09-11",
+      "titlu": "Proiect de ordin al presedintelui ANAF pentru aprobarea condiţiilor de furnizare a informaţiilor, modelului-cadru al protocolului de colaborare, procedurii privind schimbul de informaţii între Agenţia Naţională de Administrare Fiscală şi persoanele juridice de drept privat semnatare, precum şi a modalităţilor de acces în sistemele informatice dedicate conform art. 70^1 alin. (1) lit. b) din Legea ",
+      "id": "20260911135604_831-proiect11_sept.zip",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3",
+        "4"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": "2026-09-21",
+      "fisiere": [
+        "2026-09-11 - Proiectul de OPANAF .docx",
+        "2026-09-11 - Referat aprobare OPANAF .doc"
+      ],
+      "convertite": [
+        "2026-09-11 - Proiectul de OPANAF .docx",
+        "2026-09-11 - Referat aprobare OPANAF .doc"
+      ],
+      "arhivat_la": "2026-09-12T08:15:39+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/2026-09-11/ANAF/20260911135604_831-proiect11_sept.zip"
     }
   },
   "acte_vazute": []

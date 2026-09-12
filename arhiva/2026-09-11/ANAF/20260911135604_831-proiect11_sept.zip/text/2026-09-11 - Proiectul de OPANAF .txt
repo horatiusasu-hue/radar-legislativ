@@ -1,0 +1,1357 @@
+ORDIN  Nr. 
+pentru aprobarea condiţiilor de furnizare a informaţiilor, modelului-cadru al protocolului de colaborare, procedurii privind schimbul de informaţii între Agenţia Naţională de Administrare Fiscală şi persoanele juridice de drept privat semnatare, precum şi a modalităţilor de acces în sistemele informatice dedicate conform art. 70^1 alin. (1) lit. b) din Legea nr. 207/2015 privind Codul de procedură fiscală
+
+    În temeiul prevederilor art. 11 alin. (3) din Hotărârea Guvernului nr. 520/2013 privind organizarea şi funcţionarea Agenţiei Naţionale de Administrare Fiscală, cu modificările şi completările ulterioare, având în vedere prevederile art. 11 alin. (3) lit. d), ale art. 11 alin. (6^1) şi ale art. 70^1 alin. (1) lit. b) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările şi completările ulterioare, precum şi avizul conform comunicat de Ministerul Finanţelor prin Adresa nr. ____ din data de __.__.2026, 
+
+preşedintele Agenţiei Naţionale de Administrare Fiscală emite următorul ordin:
+
+
+    ART. 1
+
+    Se aprobă condiţiile de furnizare a informaţiilor, modelul-cadru al protocolului de colaborare, procedura privind schimbul de informaţii între Agenţia Naţională de Administrare Fiscală, denumită în continuare ANAF, şi persoanele juridice de drept privat semnatare, precum şi modalităţile de acces în sistemele informatice dedicate conform art. 70^1 alin. (1) lit. b) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările şi completările ulterioare.
+
+
+    ART. 2 - Definiții și acronime
+
+	În sensul prezentului ordin, acronimele, termenii și expresiile de mai jos au următoarele semnificații:
+PJDP - persoana juridică/persoanele juridice de drept privat reglementată/reglementate de Legea nr. 287/2009 privind Codul Civil, cu modificările și completările ulterioare;
+MF - Ministerul Finanțelor;
+CNIF - Centrul Național pentru Informații Financiare;
+ADR - Autoritatea pentru Digitalizarea României;
+ANSPDCP - Autoritatea Naţională de Supraveghere a Prelucrării Datelor cu Caracter Personal;
+OPANAF - Ordinul preşedintelui Agenţiei Naţionale de Administrare Fiscală;
+SPV - Spațiul Privat Virtual prin care persoanele fizice, persoanele juridice şi alte entităţi fără personalitate juridică pot efectua comunicarea electronică cu organul fiscal central a cererilor, înscrisurilor sau a oricăror alte documente, disponibil pe portalul ANAF și reglementat de OPANAF nr. 1090/2022, cu modificările şi completările ulterioare;
+Platforma ”Schimb de informații ANAF-PJDP” - sistemul informatic dedicat schimbului de informații între ANAF și PJDP, în înțelesul art. 11, alin (6^1) și art. 70^1, alin. (1), lit. b) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările şi completările ulterioare;
+CNP - cod numeric personal atribuit potrivit legii speciale, alocat persoanelor fizice, altele decât cele care desfășoară activități economice în mod independent sau exercită profesii liberale;
+CIF - cod de identificare fiscală atribuit de organul fiscal, alocat:
+persoanelor fizice care desfășoară activități economice în mod independent sau exercită profesii liberale, cu excepția celor care se înregistrează potrivit legii speciale la registrul comerțului;
+persoanelor juridice, precum și pentru asocieri și altor entități fără personalitate juridică, cu excepția celor care se înregistrează potrivit legii speciale la registrul comerțului
+CUI - cod unic de înregistrare atribuit potrivit legii speciale, alocat persoanelor fizice și juridice, precum și altor entități care se înregistrează potrivit legii speciale la registrul comerțului;
+Certificat calificat - certificat calificat eliberat de furnizorii de servicii de certificare, acreditaţi în condiţiile Legii nr. 214/2024 privind utilizarea semnăturii electronice, a mărcii temporale și prestarea serviciilor de încredere bazate pe acestea, sau ale Regulamentului (UE) nr. 910/2014 al Parlamentului European şi al Consiliului din 23 iulie 2014 privind identificarea electronică şi serviciile de încredere pentru tranzacţiile electronice pe piaţa internă şi de abrogare a Directivei 1999/93/CE, denumit în continuare Regulamentul (UE) nr. 910/2014;
+Identificare fizică - procesul de recunoaştere unică a persoanei (fizice, juridice sau entităţii fără personalitate juridică) în baza informaţiilor prezentate de persoana fizică, reprezentantul legal, împuternicitul sau reprezentantul desemnat din documentele de identitate, de reprezentare sau de împuternicire, după caz, valabile, emise de autorităţile competente conform legii.
+Consimțământ/acord expres și neechivoc - în conformitate cu art. 4, pct. 11 din Regulamentul (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE, care definește consimțământul ca fiind: „orice manifestare de voință liberă, specifică, informată și lipsită de ambiguitate a persoanei vizate prin care aceasta acceptă, printr-o declarație sau printr-o acțiune fără echivoc, ca datele cu caracter personal care o privesc să fie prelucrate”.
+IC - instituție/instituții de credit reglementată/reglementate de Ordonanța de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului, cu modificările și completările ulterioare;
+D100 - Declarație privind obligațiile de plată la bugetul de stat;
+D101 - Declarație privind impozitul pe profit;
+D300 - Decont de taxă pe valoarea adăugată.
+
+
+    ART. 3
+
+    (1) PJDP care prin natura activităţii solicită frecvent informaţii de natura secretului fiscal despre clienţii/partenerii lor, în conformitate cu prevederile art. 11 alin. (3) lit. d) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările şi completările ulterioare, denumită în continuare Codul de procedură fiscală, pot încheia un protocol privind schimbul de informaţii cu organul fiscal deţinător al informaţiei în baza art. 11 alin. (6^1) din Codul de procedură fiscală.
+    (2) Furnizarea de informaţii către instituţiile de credit, instituţiile financiare nebancare şi alte PJDP se realizează în conformitate cu prevederile art. 70^1 alin. (1) lit. b) din Codul de procedură fiscală, în scopul realizării activităţilor stabilite prin actul constitutiv al PJDP și justificate de codurile CAEN principale înscrise în acesta.
+    (3) Furnizarea de informaţii PJDP, în baza consimţământului contribuabilului/plătitorului potrivit art. 11 alin. (3) lit. d) din Codul de procedură fiscală, se poate realiza în baza unui protocol, încheiat potrivit prezentului ordin, dacă sunt îndeplinite, cumulativ, următoarele condiţii:
+    a) informaţiile sunt necesare pentru soluţionarea unor cereri ale persoanelor fizice sau juridice;
+    b) Codul CAEN principal prevăzut în actul constitutiv al PJDP include servicii prestate persoanelor fizice şi juridice pentru care sunt necesare informaţii de natura celor definite la art. 4, alin. (1);
+    c) solicitările de furnizare a informaţiilor se realizează în mod frecvent;
+    d) PJDP dispun de proceduri care asigură păstrarea în condiţii de siguranţă a datelor cu caracter personal şi sisteme informatice de securitate, auditate de către un auditor IT extern independent din lista auditorilor IT gestionată de ADR şi publicată pe pagina web a acesteia (https://www.adr.gov.ro/lista-auditorilor-it). În concluziile raportului de audit IT trebuie să se regăsească specificarea care să ateste într-o manieră directă și explicită că: ”sistemul informatic şi procedurile informatice aplicabile nu permit obţinerea și gestionarea de informaţii cu încălcarea prevederilor legale în materia datelor cu caracter personal şi care reprezintă secret fiscal.”
+    (4) Auditarea se face de către un auditor IT extern independent, astfel:
+    a) auditarea ex-ante, este inclusă în documentaţia necesară în vederea încheierii protocolului;
+    b) auditarea ex-post se efectuează anual, până la data de 31 martie a anului curent pentru anul precedent.
+   (5) Raportul de audit IT va conține obligatoriu următoarele elemente, fără a se limita la acestea:
+    a) Destinatarii raportului şi orice restricţii privind conţinutul şi circulaţia raportului;
+    b) Obiectivele activităţii de audit IT și perioada auditată;
+    c) Responsabilitatea auditorului IT, prin raportarea la standardul de audit utilizat;
+    d) Modalitatea de identificare de către entitatea auditată a clienților existenți/potențiali: exclusiv fizică, exclusiv de la distanță sau mixtă (atât de la distanță, cât și fizică);
+    e) Sediul desfăşurării activităţii de audit IT (adresa sediului unde a avut loc activitatea de audit IT - sediu central/sucursală/filială), data întocmirii raportului de audit IT;
+    f) Declaraţia pe propria răspundere, din care să rezulte independenţa auditorului faţă de sistemul informatic auditat şi faţă de prestatorul auditat.
+    (6) Raportul auditorului IT va fi transmis în format electronic cu semnătură electronică cu certificat calificat la adresele de email exchange.info@anaf.ro și info.fiscale@anaf.ro sau va fi depus letric la registratura generală a ANAF din str. Apolodor nr. 17, sectorul 5, Bucureşti, până la data de 15 aprilie a anului următor celui pentru care se face auditarea, cu transmiterea în aceeași zi a informării pe adresa de email exchange.info@anaf.ro privind depunerea acestuia în format letric. 
+   (7) Obligaţia de auditare ex-ante se consideră îndeplinită de către PJDP şi prin prezentarea dovezilor de implementare a standardului european EN ISO/IEC 27001:2023.
+   (8) Nedepunerea raportului ex-post până la data de 15 aprilie a anului următor celui pentru care se face auditarea conduce la suspendarea automată a protocolului, ANAF notifică în acest sens PJDP după sistarea accesului acesteia la platforma ”Schimb de informații ANAF-PJDP” începând cu data de 16 aprilie. În cazul neconformării de către PJDP în termen de 15 zile lucrătoare de la data sistării accesului, protocolul va fi reziliat de drept.
+   (9) Prin excepţie de la prevederile menţionate la alin. (8), auditarea ex-post nu este obligatorie dacă PJDP este nou-înfiinţată, iar perioada de la semnarea protocolului până la sfârşitul anului este mai mică de 6 luni. 
+
+
+    ART. 4 - Categorii de informații
+
+    (1) Prin platforma ”Schimb de informații ANAF-PJDP”, ANAF poate transmite către PJDP solicitante, pe bază de protocol semnat în conformitate cu modelul-cadru al protocolului de colaborare prevăzut în anexa nr. 1 la prezentul ordin, următoarele informaţii:
+    a) informaţii referitoare la natura, sursa şi cuantumul veniturilor contribuabilului/plătitorului persoană fizică, respectiv informaţii pentru perioada aferentă ultimilor 3 ani fiscali, inclusiv, acolo unde este posibil, informaţiile aferente perioadei cuprinse între ultimul an fiscal încheiat şi data solicitării acestora;
+    b) informaţii din situațiile financiare pentru perioada aferentă ultimilor trei ani fiscali, inclusiv, acolo unde este posibil, informaţiile aferente perioadei cuprinse între ultimul an fiscal încheiat şi data solicitării acestora, în cazul contribuabilului/plătitorului persoană juridică;
+    c) certificatul de atestare fiscală pentru persoane juridice;
+    d) informaţii privind existenţa pe numele contribuabilului/plătitorului a unui cont curent declarat deschis la altă instituţie de credit din România la data solicitării, pentru PJDP care oferă servicii din sfera de aplicare a Legii nr. 258/2017 privind comparabilitatea comisioanelor aferente conturilor de plăţi, schimbarea conturilor de plăţi şi accesul la conturile de plăţi cu servicii de bază, cu modificările ulterioare.
+   (2) În contextul creșterii importanței serviciilor digitale, pentru prevenirea unor fenomene care pot afecta stabilitatea financiară, precum și în scopul evaluării riscului de credit și prevenirii sau detectării fraudelor în procesul de creditare de către instituțiile de credit reglementate de Ordonanța de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului, cu modificările și completările ulterioare, instituțiile de credit pot solicita încheierea unui protocol de colaborare cu ANAF, conform modelului prevăzut în anexa nr. 2 la prezentul ordin, care să includă, exclusiv pentru persoane juridice, pe baza consimțământului reprezentantului legal al acestora denumit generic ”acord pentru IC”, informații privind declarațiile fiscale D100, D101 și D300 depuse de respectivele persoane juridice, pentru perioada din ultimele 12 luni încheiate.
+
+
+    ART. 5 - Consimțământul persoanelor juridice
+
+   (1) Pentru persoanele juridice, consimțământul prevăzut la art. 11 alin. (3) lit. d) din Codul de procedură fiscală, se exprimă exclusiv prin intermediul SPV, în format electronic.
+   (2) Acordul pentru IC are formatul electronic standardizat conform anexei nr. 1 la protocol și este disponibil în SPV.
+   (3) Consimțământul exprimat de către reprezentantul legal al persoanei juridice are o valabilitate de 5 zile lucrătoare de la data completării.
+   (4) PJDP transmite solicitarea prin intermediul platformei ”Schimb de informații ANAF-PJDP” iar ANAF, prin CNIF, verifică automat valabilitatea acordului și concordanța dintre CIF/CUI din solicitare cu cel din acordul special pentru persoane juridice transmis prin SPV, respectiv dacă toate câmpurile obligatorii sunt completate corespunzător, iar dacă toate cerințele sunt îndeplinite atunci ANAF, prin CNIF, transmite declarațiile fiscale depuse de persona juridică cu CIF/CUI indicat în acordul special pentru persoane juridice instituției de credit solicitante (menționate în rubrica dedicată din acord).
+   (5) Responsabilitatea privind modalitatea de utilizare a informaţiilor astfel obţinute revine solicitantului, potrivit art. 11, alin. (3), lit. d) teza a doua din Codul de procedură fiscală.
+
+
+    ART. 6 - Consimțământul persoanelor fizice titulari ai unui cont SPV
+
+   (1) Pentru persoanele fizice care dețin cont activ în SPV, consimțământul prevăzut la art. 11, alin. (3), lit. d) din Codul de procedură fiscală, se exprimă exclusiv prin intermediul SPV, în format electronic.
+   (2) Acordul/consimțământul are formatul electronic standardizat, conform anexei nr. 1 la protocol și este disponibil în SPV.
+   (3) Consimțământul exprimat de către persoana fizică titulară este valabil 5 zile lucrătoare de la data semnării.
+   (4) PJDP transmite solicitarea prin intermediul platformei ”Schimb de informații ANAF-PJDP” iar ANAF, prin CNIF, verifică automat valabilitatea acordului transmis prin SPV, concordanța dintre CNP din solicitare cu cel din acord, respectiv dacă toate câmpurile obligatorii sunt completate corespunzător, iar dacă toate cerințele sunt îndeplinite atunci ANAF, prin CNIF, transmite informațiile solicitate pentru CNP indicat în acord către PJDP solicitantă (menționată în rubrica dedicată din acord).
+   (5) Responsabilitatea privind modalitatea de utilizare a informaţiilor astfel obţinute revine solicitantului, potrivit art. 11, alin. (3), lit. d) teza a doua din Codul de procedură fiscală.
+
+
+    ART. 7 - Consimțământul persoanelor fizice fără cont SPV
+
+   (1) Pentru persoanele fizice fără cont SPV activ, consimțământul prevăzut la art. 11, alin. (3), lit. d) din Codul de procedură fiscală, se exprimă utilizând modelele de acord prevăzute în anexele nr. 5 și 6 la protocolul prevăzut în anexa nr. 1 la ordin.
+   (2) PJDP solicită persoanelor fizice semnarea acordului/consimţământului expres şi neechivoc, olograf sau electronic, sau acceptarea expresă şi neechivocă a acestuia în cadrul aplicațiilor informatice utilizate, acord ce conţine datele de identificare, precum şi menţiunea expresă cu privire la valabilitatea acordului. În cazul utilizării semnăturii electronice simple/acordului acceptat expres, acordul se generează în format PDF, iar semnătura trebuie să cuprindă numele şi prenumele în clar ale persoanei fizice, data şi ora acceptării exprese, precum şi IP-ul staţiei de unde s-a dat acordul. 
+   (3) Acordul/consimțământul este valabil 5 zile lucrătoare de la data semnării, respectiv a acceptării de către persoana fizică.
+   (4) PJDP transmite solicitarea prin intermediul platformei ”Schimb de informații ANAF-PJDP” simultan cu transmiterea acordului în format electronic, iar ANAF, prin CNIF,  transmite informațiile solicitate pentru CNP indicat în acord către PJDP solicitantă.
+   (5) Responsabilitatea privind modalitatea de utilizare a informaţiilor astfel obţinute, precum și responsabilitatea respectării condiţiilor de formă şi de fond ale acordului transmis la ANAF, revin solicitantului.
+
+
+
+    ART. 8
+
+   (1) În vederea obţinerii de informaţii, potrivit art. 3, alin. (3) din prezentul ordin, PJDP semnatară a protocolului are următoarele obligaţii:
+   a) să se asigure că acordul/consimţământul solicitat persoanelor fizice este expres şi neechivoc, exprimat în condiţiile art. 7 din prezentul ordin;
+   b) să arhiveze acordurile astfel exprimate;
+   c) la solicitarea punctuală a reprezentanţilor MF/ANAF, PJDP să pună la dispoziţia acestora acordurile;
+   d) să pună în practică proceduri de revocare a drepturilor utilizatorilor (persoanele special desemnate de către PJDP care prelucrează datele) cărora le încetează/suspendă raporturile de muncă în conformitate cu Legea nr. 53/2003 - Codul muncii, republicată, cu modificările şi completările ulterioare, sau în alte cazuri în care se consideră că este necesar;
+   e) să anunțe de îndată orice modificare a persoanelor de contact pe tema protocolului prin transmiterea informațiilor actualizate la adresa de email exchange.info@anaf.ro;
+   f) în cazul operațiunilor de fuziune, divizare sau dizolvare, precum și în alte situații de restructurare/reorganizare, PJDP este obligată să informeze ANAF de îndată cu privire la acestea (prin adresa de email exchange.info@anaf.ro);
+   g) să folosească informațiile astfel obținute de la MF/ANAF exclusiv în scopul soluționării cererii clientului existent/potențial.
+   (2) În scopul asigurării caracterului expres și neechivoc al acordului/consimțământului contribuabilului/plătitorului despre care se solicită informații, PJDP au obligația să întreprindă toate demersurile necesare și suficiente astfel încât pagina din aplicația electronică sau din pagina web prin care consimțământul este exprimat să fie distinctă, nicidecum inclusă la comun cu termenii și condițiile aplicației/produsului PJDP, pentru a fi respectat caracterul granular al consimțământului.
+   (3) PJDP au obligația transmiterii pe adresa de email exchange.info@anaf.ro dovada implementării soluției ce permite persoanelor vizate să acorde consimţământul separat pentru diferitele operaţiuni de prelucrare a datelor cu caracter personal sau pentru diferitele scopuri ale prelucrării, în termen de 30 de zile calendaristice de la:
+   a) publicarea în Monitorul Oficial a prezentului ordin, în cazul protocoalelor existente;
+   b) data semnării de către reprezentanții tehnici ai părților a formularului de acceptanță, anexa nr. 3 la protocol, în cazul protocoalelor semnate după publicarea în Monitorul Oficial a prezentului ordin.
+   (4) Solicitarea consimţământului expres şi neechivoc prevăzut la art. 11, alin. (3), lit. d) din Codul de procedură fiscală persoanelor fizice şi persoanelor juridice (în continuare ”clienți existenți/potențiali”) în vederea furnizării de informaţii de către ANAF către PJDP prin platforma ”Schimb de informații ANAF-PJDP” reprezintă o etapă ulterioară identificării clienților existenți/potențiali de către PJDP.
+   (5) În cazul identificării fizice procesul de recunoaștere unică a clienților existenți/potențiali are la bază documentele prezentate de persoana fizică, emise de autoritățile competente conform legii și aflate în termenul de valabilitate.
+   (6) În cazul identificării la distanță procesul de identificare și verificare a identității are la bază documentele emise de autoritățile competente conform legii și aflate în termenul de valabilitate prezentate, imaginile capturate și/sau informațiile comunicate de persoana fizică, utilizând mijloace video sau certificatele calificate.
+   (7) Identificarea la distanță poate fi efectuată doar după prezentarea de către PJDP a dovezii dispunerii și implementării măsurilor legale și tehnico-procedurale necesare pentru îndeplinirea cerințelor prezentate în Normele privind reglementarea, recunoașterea aprobarea sau acceptarea procedurii de identificare a persoanei la distanță utilizând mijloace video, aprobate prin Decizia președintelui Autorității pentru Digitalizarea României nr. 564/2021.
+   (8) Dacă PJDP efectuează procesul de verificare a identităţii persoanei la distanţă prin utilizarea serviciilor furnizate de către terţi în baza unui contract, orice modificare a terțului va fi comunicată pe adresa exchange.info@anaf.ro în maxim 5 zile lucrătoare de la depunerea contractului, a poliței de asigurare și a raportului de evaluare a conformității la ADR, urmând ca imediat ce va intra în posesia avizului/notificării ADR, PJDP să trimită o copie pe aceeași adresă de email prin care a comunicat modificarea.
+   (9) Dacă PJDP efectuează procesul de verificare a identităţii persoanei la distanţă prin mijloace proprii, eventuala retragere a avizului tehnic de către ADR va fi comunicată în maxim o zi lucrătoare de la data retragerii pe adresa exchange.info@anaf.ro.
+   (10) Lista terţilor care pot efectua identificarea persoanei la distanţă utilizând mijloace video, gestionată de ADR, Normele privind reglementarea, recunoaşterea, aprobarea sau acceptarea procedurii de identificare a persoanei la distanţă utilizând mijloace video precum și Procedura privind înscrierea/radierea terţilor de verificare a identităţii persoanei la distanţă utilizând mijloace video sunt disponibile la adresa:
+https://www.adr.gov.ro/identificare-la-distanta-prin-mijloace-video/.
+
+
+    ART. 9
+
+   (1) Administrarea platformei ”Schimb de informații ANAF-PJDP” se realizează de către ANAF, prin CNIF conform competenţelor stabilite prin Ordonanța de urgență a Guvernului nr. 77/2017 privind înființarea Centrului Național pentru Informații Financiare, cu completările ulterioare.
+   (2) În situația în care PJDP întâmpină probleme de ordin tehnic care apar în utilizarea platformei, vor comunica acest lucru prin FORMULARUL DE CONTACT disponibil la adresa web: https://www.anaf.ro/asistpublic, selectând categoria ”Asistență tehnică servicii informatice”.
+
+
+    ART. 10
+
+    În situaţia în care interfeţele de acces la sistemul informatic dedicat se modifică, PJDP vor fi informate de către ANAF, prin CNIF, în prealabil în timp util pentru a lua măsurile care se impun pentru adaptarea sistemelor lor informatice în mod corespunzător.
+
+
+    ART. 11
+
+   Sistemul informatic al părţilor semnatare asigură evidenţa accesărilor, a stocării acordurilor electronice transmise de PJDP sau exprimate prin SPV, acestea fiind păstrate pe o perioadă de 10 ani.
+
+
+    ART. 12
+
+   (1) Prelucrările de date cu caracter personal se realizează în conformitate cu Regulamentul (UE) 2016/679 al Parlamentului European şi al Consiliului din 27 aprilie 2016 privind protecţia persoanelor fizice în ceea ce priveşte prelucrarea datelor cu caracter personal şi privind libera circulaţie a acestor date şi de abrogare a Directivei 95/46/CE.
+   (2) ANAF, prin Compartimentul pentru protecţia datelor cu caracter personal, publică pe portalul de internet propriu o notă de informare privind protecţia datelor cu caracter personal conform prevederilor legale prevăzute de Regulamentul (UE) 2016/679 cu privire la modul de ducere la îndeplinire a prevederilor legale, cu excepţiile prevăzute în mod expres, care conţine:
+    a) identitatea operatorului şi a reprezentantului acestuia, dacă este cazul;
+    b) scopul în care se face prelucrarea datelor;
+    c) categoriile de date vizate, destinatarii sau categoriile de destinatari ai datelor;
+    d) existenţa drepturilor pentru persoana vizată, precum şi condiţiile în care pot fi exercitate.
+
+
+    ART. 13
+
+   (1) Furnizarea de informații care se efectuează în prezent între ANAF și PJDP în baza protocoalelor existente continuă, cu condiția modificării corespunzătoare a formatului acordurilor prevăzute în anexele 5 și 6 la protocolul prevăzut în anexa nr. 1 la ordin, precum și a modalităților de transmitere a acestora.
+   (2) La data intrării în vigoare a prezentului ordin, prevederile ordinului preşedintelui Agenției Nationale de Administrare Fiscală nr. 146/2022 pentru aprobarea condiţiilor de furnizare a informaţiilor, modelului-cadru al protocolului de colaborare, procedurii privind schimbul de informaţii între Agenţia Naţională de Administrare Fiscală şi persoanele juridice de drept privat semnatare, precum şi a modalităţilor de acces în sistemele informatice dedicate conform art. 70^1 alin. (1) lit. b) din Legea nr. 207/2015 privind Codul de procedură fiscală, publicat în Monitorul Oficial al României, Partea I, nr. 157 din 16 februarie 2022, se abrogă.
+   (3) La data intrării în vigoare a prezentului ordin, PJDP sunt responsabile de efectuarea tuturor modificărilor necesare ale sistemelor informatice proprii.
+   (4) Instituțiile de credit care solicită informațiile indicate la art. 4, alin. (2) din prezentul ordin, semnează protocolul prevăzut la anexa nr. 2 la ordin.
+   (5) Nerespectarea obligaţiilor asumate de către PJDP prin protocoalele semnate în baza prezentului ordin dă dreptul ANAF să suspende accesul acestora la platforma ”Schimb de informații ANAF-PJDP”. În cazul în care către PJDP nu se conformează în termen de 15 zile lucrătoare de la data suspendării accesului, protocolul se reziliază de drept.
+
+
+    ART. 14
+
+    Prevederile prezentului ordin vor fi duse la îndeplinire de către Direcţia Generală de Informaţii Fiscale, Compartimentul pentru protecţia datelor cu caracter personal şi cu suportul de specialitate al CNIF din cadrul MF.
+
+
+    ART. 15
+
+    Anexele nr. 1 și 2 fac parte integrantă din prezentul ordin.
+
+
+
+
+    ART. 16
+
+    Prezentul ordin se publică în Monitorul Oficial al României, Partea I.
+
+
+
+                              Preşedintele Agenţiei Naţionale de Administrare Fiscală,
+                              Adrian Nicușor NICA
+
+
+
+    Bucureşti, __.__.2026.
+    Nr. ___
+
+
+
+    ANEXA nr. 1
+
+Modelul-cadru al protocolului de colaborare în vederea transmiterii informațiilor enumerate la art. 4, alin. (1) din Ordinul președintelui ANAF nr. ____/2026
+
+    Agenţia Naţională de Administrare Fiscală - ANAF
+    Nr. ............./............
+    Persoana juridică de drept privat - PJDP ...............................
+    Nr. ............./............
+
+
+
+PROTOCOL DE COLABORARE
+
+    În temeiul:
+    - art. 11 alin. (3) lit. d), art. 11 alin. (6^1) şi art. 70^1 alin. (1) lit. b) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările şi completările ulterioare;
+    - art. 7 lit. A pct. 23 din Hotărârea Guvernului nr. 520/2013 privind organizarea şi funcţionarea Agenţiei Naţionale de Administrare Fiscală, cu modificările şi completările ulterioare;
+    ...................................................................
+    (Se completează cu legislaţia specifică domeniului de activitate/de reglementare a PJDP.)
+
+Având în vedere:
+    - Legea nr. 258/2017 privind comparabilitatea comisioanelor aferente conturilor de plăţi, schimbarea conturilor de plăţi şi accesul la conturile de plăţi cu servicii de bază;
+    - prevederile Regulamentului (UE) 2016/679 al Parlamentului European şi al Consiliului din 27 aprilie 2016 privind protecţia persoanelor fizice în ceea ce priveşte prelucrarea datelor cu caracter personal şi privind libera circulaţie a acestor date şi de abrogare a Directivei 95/46/CE (Regulamentul general privind protecţia datelor);
+   - Ordinul președintelui ANAF (OPANAF) nr. ____/2026, pentru aprobarea condiţiilor de furnizare a informaţiilor, modelului-cadru al protocolului de colaborare, procedurii privind schimbul de informaţii între Agenţia Naţională de Administrare Fiscală şi persoanele juridice de drept privat semnatare, precum şi a modalităţilor de acces în sistemele informatice dedicate conform art. 70^1 alin. (1) lit. b) din Legea nr. 207/2015 privind Codul de procedură fiscală.
+
+    Agenţia Naţională de Administrare Fiscală - ANAF, cu sediul în Bucureşti, str. Apolodor nr. 17, sectorul 5, reprezentată prin .........................................................., în calitate de preşedinte,
+    şi
+    Persoana juridică de drept privat (instituţia de credit, instituția financiară nebancară, CAR, etc.) .................................., cu sediul în ......................., înscrisă la ONRC cu nr. .................., având atribuit codul de identificare fiscală nr. ..., activitate principală conform cod CAEN ........................., reprezentată prin ............................................., în calitate de ................................, (înscrisă în Registrul ............................. al Băncii Naţionale a României, după caz) cu nr. ................. la data de ......................,
+    denumite în continuare părţi, au convenit de comun acord încheierea prezentului protocol.
+
+
+
+    ART. 1
+    Obiectul protocolului constă în stabilirea condiţiilor şi modalităţilor pentru realizarea furnizării de informaţii în conformitate cu prevederile art. 11 alin. (3) lit. d), ale art. 11 alin. (6^1) şi ale art. 70^1 alin. (1) lit. b) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările şi completările ulterioare.
+
+
+    ART. 2
+    (1) Furnizarea de informaţii PJDP, în baza consimţământului contribuabilului/plătitorului prevăzut la art. 11 alin. (3) lit. d) din Codul de procedură fiscală, cu modificările şi completările ulterioare, se poate realiza, dacă sunt îndeplinite, cumulativ, următoarele condiţii:
+    a) informaţiile sunt necesare pentru soluţionarea unor cereri ale persoanelor fizice sau juridice;
+    b) codul CAEN principal prevăzut în actul constitutiv al PJDP include servicii prestate persoanelor fizice şi juridice pentru care sunt necesare informaţii de natura celor definite la art. 4, alin. (1) din OPANAF nr. ____/2026;
+    c) solicitările de furnizare a informaţiilor se realizează în mod frecvent;
+    d) PJDP dispune de proceduri care asigură păstrarea în condiţii de siguranţă a datelor cu caracter personal şi sisteme informatice de securitate, auditate de către un auditor IT extern independent din lista auditorilor IT gestionată de Autoritatea pentru Digitalizarea României (ADR) şi publicată pe pagina web a acesteia (https://www.adr.gov.ro/lista-auditorilor-it). În concluziile raportului de audit IT trebuie să se regăsească specificarea care să ateste într-o manieră directă și explicită că: ”sistemul informatic şi procedurile informatice aplicabile nu permit obţinerea și gestionarea de informaţii cu încălcarea prevederilor legale în materia datelor cu caracter personal şi care reprezintă secret fiscal.”
+    (2) Auditarea se face de către un auditor IT extern independent astfel:
+    a) auditarea ex-ante este inclusă în documentaţia necesară încheierii protocolului;
+    b) auditarea ex-post se efectuează anual, până la data de 31 martie a anului curent pentru anul precedent.
+   (3) Raportul de audit IT va conține obligatoriu următoarele elemente, fără a se limita la acestea:
+    a) destinatarii raportului şi orice restricţii privind conţinutul şi circulaţia raportului;
+    b) obiectivele activităţii de audit IT și perioada auditată;
+    c) responsabilitatea auditorului IT, prin raportarea la standardul de audit utilizat;
+    d) modalitatea de identificare de către entitatea auditată a clienților existenți/potențiali:  exclusiv fizică, exclusiv de la distanță sau mixtă (atât de la distanță, cât și fizică);
+    e) sediul desfăşurării activităţii de audit IT (adresa sediului unde a avut loc activitatea de audit IT - sediu central/sucursală/filială), data întocmirii raportului de audit IT;
+    f) declaraţia pe propria răspundere, din care să rezulte independenţa auditorului faţă de sistemul informatic auditat şi faţă de prestatorul auditat.
+    (4) Raportul auditorului IT va fi transmis în format electronic cu semnătură electronică cu certificat calificat la adresele de email exchange.info@anaf.ro și info.fiscale@anaf.ro sau va fi depus letric la registratura generală a ANAF din str. Apolodor nr. 17, sectorul 5, Bucureşti, până la data de 15 aprilie a anului următor celui pentru care se face auditarea, cu transmiterea în aceeași zi a informării pe adresa de email exchange.info@anaf.ro privind depunerea acestuia în format letric.
+   (5) Obligaţia de auditare ex-ante se consideră îndeplinită de către PJDP şi prin prezentarea dovezilor de implementare a standardului european EN ISO/IEC 27001:2023.
+   (6) Nedepunerea raportului ex-post până la data de 15 aprilie a anului următor celui pentru care se face auditarea conduce la suspendarea automată a protocolului, ANAF notificând în acest sens PJDP după sistarea accesului acesteia la platforma ”Schimb de informații ANAF-PJDP” începând cu data de 16 aprilie. În cazul neconformării de către PJDP în termen de 15 zile lucrătoare de la data suspendării accesului, protocolul va fi reziliat de drept.
+    (7) Prin excepţie de la prevederile menţionate la alin. (6), auditarea ex-post nu este obligatorie dacă PJDP este nou-înfiinţată, iar perioada de la semnarea protocolului până la sfârşitul anului este mai mică de 6 luni.
+
+    ART. 3
+    În îndeplinirea obiectivelor prezentului protocol, părţile semnatare au obligaţia respectării prevederilor referitoare la protejarea secretului fiscal, conform Legii nr. 207/2015 privind Codul de procedură fiscală, cu modificările şi completările ulterioare.
+
+   ART. 4
+   (1) În vederea furnizării de informaţii de către ANAF către PJDP, potrivit art. 1, PJDP semnatară a protocolului are următoarele obligaţii:
+    a) să solicite consimţământul expres şi neechivoc, prevăzut la art. 11, alin. (3), lit. d) din Codul de procedură fiscală, cu modificările şi completările ulterioare, persoanelor fizice, respectiv semnarea, olograf sau electronic, sau acceptarea expresă şi neechivocă a unui acord de consultare, transmitere şi prelucrare a informaţiilor din bazele de date ale MF/ANAF, precum şi a datelor cu caracter personal aparţinând clienților existenți/potențiali, în conformitate cu art. 7 din OPANAF nr. ____/2026;
+   b) să se asigure că acordul/consimţământul solicitat persoanelor fizice este expres şi neechivoc, exprimat în condiţiile art. 7 și art. 8, alin. (2) din OPANAF nr. ____/2026;
+   c) să arhiveze acordurile astfel exprimate;
+   d) la solicitarea punctuală a reprezentanţilor MF/ANAF, PJDP să pună la dispoziţia acestora acordurile;
+   e) să pună în practică proceduri de revocare a drepturilor utilizatorilor (persoanele special desemnate de către PJDP care prelucrează datele) cărora le încetează/suspendă raporturile de muncă în conformitate cu Legea nr. 53/2003 - Codul muncii, republicată, cu modificările şi completările ulterioare, sau în alte cazuri în care se consideră că este necesar;
+   f) să anunțe de îndată orice modificare a persoanelor de contact pe tema protocolului prin transmiterea informațiilor actualizate la adresa de email exchange.info@anaf.ro;
+   g) în cazul operațiunilor de fuziune, divizare sau dizolvare, precum și în alte situații de restructurare/reorganizare, PJDP este obligată să informeze ANAF de îndată (prin adresa de email exchange.info@anaf.ro);
+   h) în cazul identificării la distanță a clienților existenți/potențiali prin utilizarea serviciilor furnizate de către terţi în baza unui contract, să comunice orice modificare a terțului pe adresa exchange.info@anaf.ro în maxim 5 zile lucrătoare de la depunerea contractului, a poliței de asigurare și a raportului de evaluare a conformității la Autoritatea pentru Digitalizarea României, urmând ca, imediat ce va intra în posesia avizului/notificării ADR, să trimită o copie pe aceeași adresă de email prin care a comunicat modificarea;
+   i) în cazul identificării la distanță a clienților existenți/potențiali prin mijloace proprii, în eventuala retragere a avizului tehnic de către ADR, să comunice în maxim o zi lucrătoare de la data retragerii pe adresa exchange.info@anaf.ro;
+   j) să folosească informațiile astfel obținute de la MF/ANAF exclusiv în scopul soluționării cererii clientului existent/potențial.
+   (2) Modelul acordului pentru solicitarea veniturilor persoanelor fizice fără cont SPV este prevăzut în anexa nr. 5 la prezentul protocol.
+   (3) Modelul acordului prevăzut în anexa nr. 1 la prezentul protocol (formatul electronic standardizat disponibil în SPV) se utilizează pentru:
+    a) solicitarea veniturilor persoanelor fizice care dețin cont activ în SPV;
+    b) solicitarea informaţiilor din situațiile financiare ale persoanelor juridice;
+    c) eliberarea CAF din bazele de date ale MF/ANAF pentru reprezentanții legali (ai persoanelor juridice) care dețin cont activ în SPV;
+    d) interogarea şi prelucrarea informaţiilor din bazele de date ale MF/ANAF în scopul deschiderii unui cont de plăţi cu servicii de bază, în condiţiile Legii nr. 258/2017 privind comparabilitatea comisioanelor aferente conturilor de plăţi, schimbarea conturilor de plăţi şi accesul la conturile de plăţi cu servicii de bază pentru persoanele fizice care dețin cont activ în SPV.
+   (4) Modelul acordului de interogare şi prelucrare a informaţiilor din bazele de date ale MF/ANAF în scopul deschiderii unui cont de plăţi cu servicii de bază, în condiţiile Legii nr. 258/2017 privind comparabilitatea comisioanelor aferente conturilor de plăţi, schimbarea conturilor de plăţi şi accesul la conturile de plăţi cu servicii de bază pentru persoanele fizice fără cont SPV este prevăzut în anexa nr. 6 la prezentul protocol.
+   (5) Procedura privind înrolarea, precum şi modalităţile de acces în platforma dedicată schimbului de informații este prevăzută în anexa nr. 4 la prezentul protocol.
+
+
+   ART. 5
+   (1) Solicitarea consimţământului expres şi neechivoc, prevăzut la art. 11 alin. (3) lit. d) din Codul de procedură fiscală, persoanelor fizice şi persoanelor juridice (generic denumite ”clienți existenți/potențiali”) în vederea furnizării de informaţii de către ANAF către PJDP prin platforma ”Schimb de informații ANAF-PJDP” reprezintă o etapă ulterioară identificării clienților existenți/potențiali de către PJDP.
+   (2) În cazul identificării fizice procesul de recunoaștere unică a clienților existenți/potențiali are la bază documentele prezentate de persoana fizică, emise de autoritățile competente conform legii și aflate în termenul de valabilitate.
+   (3) În cazul identificării la distanță procesul de identificare și verificare a identității are la bază documentele emise de autoritățile competente conform legii și aflate în termenul de valabilitate prezentate, imaginile capturate și/sau informațiile comunicate de persoana fizică, utilizând mijloace video sau certificatele calificate.
+   (4) Identificarea la distanță poate fi efectuată doar după prezentarea de către PJDP a dovezii dispunerii și implementării măsurilor legale și tehnico-procedurale necesare pentru îndeplinirea cerințelor prezentate în Normele privind reglementarea, recunoașterea aprobarea sau acceptarea procedurii de identificare a persoanei la distanță utilizând mijloace video, aprobate prin Decizia președintelui Autorității pentru Digitalizarea României nr. 564/2021.
+   (5) Dacă PJDP efectuează procesul de verificare a identităţii persoanei la distanţă prin utilizarea serviciilor furnizate de către terţi în baza unui contract, orice modificare a terțului va fi comunicată pe adresa exchange.info@anaf.ro, în maxim 5 zile lucrătoare de la depunerea contractului, a poliței de asigurare și a raportului de evaluare a conformității la ADR, urmând ca, imediat ce va intra în posesia avizului/notificării ADR, PJDP să trimită o copie pe aceeași adresă de email prin care a comunicat modificarea.
+   (6) Dacă PJDP efectuează procesul de verificare a identităţii persoanei la distanţă prin mijloace proprii, eventuala retragere a avizului tehnic de către ADR va fi comunicată în maxim o zi lucrătoare de la data retragerii, pe adresa exchange.info@anaf.ro.
+   (7) Lista terţilor care pot efectua identificarea persoanei la distanţă utilizând mijloace video, gestionată de ADR, Normele privind reglementarea, recunoaşterea, aprobarea sau acceptarea procedurii de identificare a persoanei la distanţă utilizând mijloace video precum și Procedura privind înscrierea/radierea terţilor de verificare a identităţii persoanei la distanţă utilizând mijloace video sunt disponibile la adresa:
+https://www.adr.gov.ro/identificare-la-distanta-prin-mijloace-video/.
+
+
+    ART. 6
+    ANAF, prin CNIF, va transmite, în termen de maximum 3 (trei) zile lucrătoare de la data solicitării, cu excepţia cazurilor de forţă majoră, informaţiile de natură fiscală în limita consimțământului exprimat de contribuabil/plătitor, prevăzute la art. 4 alin. (1) din Ordinul președintelui Agenţiei Naţionale de Administrare Fiscală (OPANAF) nr. ___/2026 pentru aprobarea condiţiilor de furnizare a informaţiilor, modelului-cadru al protocolului de colaborare, procedurii privind schimbul de informaţii între ANAF şi PJDP semnatare, precum şi a modalităţilor de acces în sistemele informatice dedicate conform art. 70^1 alin. (1) lit. b) din Legea nr. 207/2015 privind Codul de procedură fiscală, personalului desemnat al PJDP semnatare, potrivit Procedurii comune de lucru privind schimbul de informaţii între ANAF şi PJDP, prevăzută la anexa nr. 2 la prezentul protocol. Reprezentanţii tehnici ai părţilor certifică prin semnarea formularului de acceptanţă, prevăzut la anexa nr. 3 la prezentul protocol, faptul că au fost efectuate toate testele și că este permis schimbul fişierelor agreate.
+
+
+    ART. 7
+    (1) Prelucrarea datelor cu caracter personal ce constituie obiectul prezentului protocol se realizează în conformitate cu prevederile Regulamentului (UE) 2016/679 al Parlamentului European şi al Consiliului din 27 aprilie 2016 privind protecţia persoanelor fizice în ceea ce priveşte prelucrarea datelor cu caracter personal şi privind libera circulaţie a acestor date şi de abrogare a Directivei 95/46/CE (Regulamentul general privind protecţia datelor). În limitele şi în înţelesul prezentului protocol, fiecare parte este de acord că acţionează ca operator independent al datelor cu caracter personal, activităţile de prelucrare fiind realizate în conformitate cu Regulamentul (UE) 2016/679 al Parlamentului European şi al Consiliului din 27 aprilie 2016 privind protecţia persoanelor fizice în ceea ce priveşte prelucrarea datelor cu caracter personal şi privind libera circulaţie a acestor date ("Regulamentul"), inclusiv din perspectiva îndeplinirii obligaţiilor ce le revin în conformitate cu principiile legalităţii, echităţii şi transparenţei, limitării legate de scop şi stocare, reducerii la minimum a datelor, exactităţii şi integrităţii şi confidenţialităţii. Datele personale ale persoanelor vizate vor fi prelucrate de către părţi pe perioada de valabilitate a prezentului protocol, precum şi ulterior acestei perioade, în conformitate cu dispoziţiile legale şi/sau interesele legitime ale părţilor, în baza cărora sunt reglementate termene de prelucrare a unor astfel de date. Fiecare parte, în calitate de operator, este responsabilă şi confirmă faptul că a luat toate măsurile de precauţie pentru a asigura securitatea şi prevenirea oricăror distrugeri, pierderi, modificări, dezvăluiri, achiziţii sau accesări ilegale sau neautorizate cu privire la datele cu caracter personal deţinute despre cealaltă parte.
+    (2) Datele cu caracter personal ce sunt prelucrate de către părţi în scopul menţionat la art. 1 din prezentul protocol sunt următoarele: nume, prenume, CNP/CIF, informaţii fiscale, IP şi semnătura.
+    (3) Datele cu caracter personal în cauză sunt prelucrate numai pentru realizarea scopului prevăzut la art. 1 din prezentul protocol, cu respectarea legislaţiei în vigoare, şi nu pot face obiectul diseminării către alte instituţii/persoane fizice/persoane juridice (cu excepţia persoanelor vizate) decât în condiţiile legii sau cu acordul prealabil al părţilor, după caz.
+    (4) Părţile se vor informa reciproc privind iniţierea de controale sau investigaţii de către Autoritatea Naţională de Supraveghere a Prelucrării Datelor cu Caracter Personal (ANSPDCP) ce vizează activitatea de prelucrare (furnizarea de informaţii) reglementată de prezentul protocol. Informarea se va face în formă scrisă cu utilizarea datelor de contact ale responsabilului cu protecţia datelor relevant, publicate de către fiecare dintre părţi.
+    (5) În conformitate cu prevederile Regulamentului (UE) 2016/679, persoanele vizate ale căror date cu caracter personal sunt prelucrate beneficiază de următoarele drepturi: dreptul la informare, dreptul de acces la datele cu caracter personal, dreptul la rectificarea datelor cu caracter personal, dreptul la ştergerea datelor cu caracter personal (dreptul de a fi uitat), dreptul la restricţionarea prelucrării, dreptul la opoziţie, dreptul de a nu face obiectul unei decizii bazate exclusiv pe prelucrarea automată, inclusiv crearea de profiluri, precum şi dreptul de a depune plângere către ANSPDCP.
+    (6) Orice persoană fizică care acţionează sub autoritatea uneia dintre părţi şi are acces la datele cu caracter personal ce fac obiectul prezentului protocol are obligaţia să păstreze confidenţialitatea acestor date şi nu le prelucrează decât la cererea părţilor, cu excepţia cazului în care dreptul Uniunii Europene sau dreptul intern o obligă să facă acest lucru.
+
+
+    ART. 8
+   (1) Datele şi informaţiile furnizate de către ANAF sunt confidenţiale şi se utilizează şi se păstrează conform prevederilor legale, normelor interne în vigoare şi prezentului protocol.
+   (2) PJDP vor trata informaţiile pe care le dobândesc prin intermediul platformei dedicate - ”Schimb de informații ANAF-PJDP” ca fiind confidenţiale şi nu le vor dezvălui terţilor, cu excepţia cazurilor prevăzute de lege.
+   (3) În scopul informării în mod legal, echitabil şi transparent faţă de contribuabil/plătitor, atât ANAF, cât şi ...................... PJDP asigură publicarea pe site-ul/portalul propriu a unei informări privind obiectul prezentului protocol.
+   (4) În scopul asigurării caracterului expres și neechivoc al acordului/consimțământului contribuabilului/plătitorului despre care se solicită informații, PJDP au obligația să întreprindă demersurile necesare și suficiente astfel încât pagina din aplicația electronică sau din pagina web prin care consimțământul este oferit să fie distinctă, nicidecum inclusă la comun cu termenii și condițiile aplicației/produsului PJDP, pentru a fi respectat caracterul granular al consimțământului.
+   (5) ANAF poate vizualiza lista accesărilor utilizatorilor, respectiv poate solicita PJDP să prezinte, prin sondaj, acordurile semnate/acceptate expres, pentru a verifica dacă interogările au fost făcute în conformitate cu prevederile protocolului şi s-au respectat dispoziţiile Regulamentului (UE) 2016/679 al Parlamentului European şi al Consiliului din 27 aprilie 2016 privind protecţia persoanelor fizice în ceea ce priveşte prelucrarea datelor cu caracter personal şi privind libera circulaţie a acestor date. De asemenea, ori de câte ori se impune, ANAF poate solicita formularele de acord în original de la PJDP, potrivit art. 8, alin. (1), lit. c) din Ordinul preşedintelui ANAF nr. ____/2026, în termenul de arhivare a documentaţiei aplicabil PJDP.
+   (6) Prezentul protocol intră în vigoare în 5 (cinci) zile de la data semnării lui.
+   (7) Prezentul protocol este valabil pe o perioadă de un an, cu prelungire automată dacă nu este denunţat unilateral de una dintre părţile semnatare în baza unui preaviz scris adresat celeilalte părţi cu minimum 30 de zile calendaristice înainte de expirarea valabilităţii acestuia.
+   (8) Oricare dintre părţi are dreptul de a denunţa unilateral prezentul protocol, cu înştiinţarea celeilalte părţi, prin notificare adresată cu cel puţin 30 de zile calendaristice înaintea denunţării.
+   (9) Prezentul protocol poate fi modificat sau completat numai cu acordul scris al părţilor, prin act adiţional, care va deveni parte integrantă a prezentului protocol. Modificările ulterioare referitoare la aspecte tehnice reglementate în procedura comună de lucru pot fi efectuate de reprezentanţii structurilor tehnice ale părţilor, desemnaţi în acest sens.
+   (10) Anexele nr. 1 - 6 fac parte integrantă din prezentul protocol.
+   (11) Nerespectarea obligaţiilor asumate de către PJDP prin prezentul protocol dă dreptul ANAF să suspende accesul acesteia la platforma ”Schimb de informații ANAF-PJDP”. În cazul în care către PJDP nu se conformează în termen de 15 zile lucrătoare de la data sistării accesului, protocolul se reziliază de drept.
+
+
+    Acest protocol s-a semnat astăzi, .................., în două exemplare originale, câte unul pentru fiecare parte.
+
+      AGENŢIA NAŢIONALĂ DE         PERSOANA JURIDICĂ DE DREPT PRIVAT
+      ADMINISTRARE FISCALĂ
+      .....................                                     .....................
+          Preşedinte,                                         Reprezentant,
+      .....................                                     .....................
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ANEXA nr. 1
+    la protocol
+
+A101 - ACORD DE CONSULTARE INFORMAȚII
+Formular pentru exprimarea consimțământului expres și neechivoc - prevăzut la art. 11, alin. (3), lit. d) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare
+Data semnării: x  zz.ll.aaaa ; hh:mm
+Valabilitate acord: x+5 zile lucrătoare  zz.ll.aaaa ; hh:mm
+
+I. TIPUL CONTRIBUABILULUI/PLĂTITORULUI
+ 
+II. DATE DE IDENTIFICARE
+A. Persoană fizică
+ 
+B. Persoană juridică / Persoană fizică ce desfășoară activități economice în mod independent sau exercită profesii liberale
+III. CATEGORII DE INFORMAȚII PENTRU CARE SE ACORDĂ CONSIMȚĂMÂNTUL
+A. Persoane fizice
+Perioada vizată: __________________
+□ A1. Toate categoriile de venituri înregistrate:
+
+Perioada vizată: __________________
+□ A2. Informații privind existența unui cont de plăți:
+ 
+B. Persoane juridice
+Perioada vizată: __________________
+□ B1. Informații din situații financiare.
+□ B2. Certificatul de atestare fiscală.
+
+IV. CINE POATE CONSULTA INFORMAȚIILE
+
+
+V. SCOPUL PRELUCRĂRII
+
+ 
+VI. ACORDURI
+ 
+ATENȚIE: pentru ca formularul A101 să producă efecte, este necesar ca ambele acorduri să fie bifate cu „DA”. Bifarea „NU” la oricare dintre ele determină imposibilitatea utilizării acordului pentru interogarea datelor în sistemele ANAF.
+
+VII. DREPTURI GDPR ȘI RETRAGEREA CONSIMȚĂMÂNTULUI
+□ Am luat cunoștință de drepturile GDPR, inclusiv dreptul de retragere în termen de 5 zile, prin notificare transmisă la: __________@________.
+ 
+VIII. DECLARAȚIE FINALĂ ȘI SEMNĂTURA
+□ Declar că informațiile sunt reale și corecte.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrucțiuni de editare, completare, utilizare și păstrare a Acordului de consultare a informațiilor
+
+I. CARACTERISTICI
+Formularul A101 – „Acord de consultare informații” este documentul prin care persoanele fizice, persoanele fizice care desfășoară activități economice în mod independent sau exercită profesii liberale și persoanele juridice își exprimă consimțământul expres și neechivoc pentru consultarea unor informații fiscale din evidențele ANAF.
+Persoanele fizice care desfășoară activități economice în mod independent sau exercită profesii liberale sunt:
+persoanele fizice autorizate conform Ordonanței de Urgență a Guvernului nr. 44/2008, cu modificările și completările ulterioare;
+persoanele fizice care exercită profesii liberale;
+persoanele fizice care desfășoară activități economice a căror desfășurare este organizată și reglementată prin legi speciale.
+ Formularul se utilizează și se completează în Spațiul Privat Virtual (SPV), în condițiile prevăzute de OPANAF nr. 1090/2022 și de reglementările privind schimbul de informații între ANAF și persoanele juridice de drept privat.
+Acordul este valabil pentru o perioadă de maximum 5 zile lucrătoare de la data exprimării consimțământului, în conformitate cu Ordinul nr. ____/2026.
+Acordul se arhivează în format electronic, de catre CNIF, împreună cu metadatele corespunzătoare (data, ora, identitatea utilizatorului, mijlocul de autentificare).
+II. INSTRUCȚIUNI DE COMPLETARE
+1.  TIPUL CONTRIBUABILULUI/PLĂTITORULUI
+În această secțiune se bifează categoria în care se încadrează contribuabilul/plătitorul, după cum urmează:
+„Persoană fizică” - se bifează dacă acordul este dat de o persoană fizică, pentru veniturile și informațiile proprii; 
+„ Persoană fizică ce desfășoară activități economice în mod independent sau exercită profesii liberale” - se bifează dacă contribuabilul/plătitorul este titular al unei activități independente ce se încadrează la caracterizarea de la punctul I.1; 
+„Persoană juridică” - se bifează dacă acordul privește o societate sau altă entitate juridică; 
+2.  DATE DE IDENTIFICARE
+2.1. Secțiunea A – Persoană fizică
+Nume: Se înscrie numele de familie al persoanei, conform actului de identitate. 
+Prenume: Se înscrie prenumele/prenumele persoanei, conform actului de identitate. 
+CNP: Se înscrie codul numeric personal, utilizat în evidența fiscala.
+Act identitate (CI/CEI/Pașaport): Se menționează tipul actului de identitate utilizat și, după caz, se păstrează copia acestuia conform procedurilor interne. 
+Adresă completă: Se înscrie adresa de domiciliu sau reședință: strada, număr, localitate, județ/sector, cod poștal, țară. 
+Telefon / Email: Se înscriu datele de contact (număr de telefon și adresă de e-mail) pentru comunicări ulterioare. 
+2.2. Secțiunea B – Persoană juridică / persoană fizică ce desfășoară activități economice în mod independent sau exercită profesii liberale
+Denumire persoană juridică / persoană fizică ce desfășoară activități economice în mod independent sau exercită profesii liberale: Se înscrie denumirea completă, conform documentelor de înregistrare. 
+CIF / CUI: Se înscrie codul de identificare fiscală/codul unic de înregistrare al persoanei juridice/persoanei fizice ce desfășoară activități economice în mod independent sau exercită profesii liberale. 
+Nr. înregistrare: Se înscrie numărul de înregistrare în registrul comerțului sau alt registru relevant. 
+Sediu social / Sediu profesional: Se înscrie adresa completă a sediului social/profesional: strada, numărul, localitatea, județ/sector, cod poștal, țara. 
+Reprezentant legal (nume, funcție, CNP): Se înscriu numele și prenumele reprezentantului legal, funcția deținută și CNP-ul acestuia. 
+Telefon / Email: Se înscriu datele de contact ale persoanei juridice: telefon și e-mail. 
+3. CATEGORII DE INFORMAȚII PENTRU CARE SE ACORDĂ CONSIMȚĂMÂNTUL
+3.1. Secțiunea A – Persoane fizice
+Perioada vizată: se completează cu anul fiscal sau perioada pentru care se solicită consultarea veniturilor.
+A1. Toate categoriile de venituri înregistrate:
+Se bifează această secțiune atunci când contribuabilul/plătitorul își dă acordul pentru consultarea veniturilor sale înregistrate la ANAF. Categoriile de venituri care pot fi vizate includ:
+Venituri salariale - venituri din salarii și asimilate salariilor.
+Pensii - venituri din pensii și alte drepturi de asigurări sociale.
+Cedarea folosinței bunurilor - venituri din închirierea sau arendarea bunurilor.
+Investiții - venituri din investiții (dobânzi, dividende etc.), acolo unde sunt raportate.
+Alte venituri - orice alte venituri declarate la ANAF, care nu se regăsesc în categoriile de mai sus.
+A2. Informații privind existența unui cont de plăți:
+Se bifează atunci când se dorește consultarea informațiilor privind conturile de plăți ale persoanei fizice. Sunt vizate următoarele elemente:
+Existența unui cont de plăți - confirmarea existenței sau inexistenței unui cont de plăți deschis la o instituție de credit din România.
+Tipul contului - natura contului (de exemplu, cont curent, cont de economii), în măsura în care această informație este disponibilă.
+Instituția unde este deschis contul - denumirea instituției de credit la care este deschis contul.
+3.2. Secțiunea B – Persoane juridice
+Perioada vizată: se completează cu anul fiscal sau perioada pentru care se solicită consultarea datelor.
+B1. Informații din situații financiare:
+Se solicită consultarea informațiilor din situațiile financiare ale persoanei juridice, respectiv bilanțul (cod 10), contul de profit și pierdere (cod 20) și date informative (cod 30).
+B2. Certificatul de atestare fiscală:
+Se bifează dacă contribuabilul/plătitorul își dă acordul pentru consultarea informațiilor din certificatul de atestare fiscală emis pentru persoana juridică. 
+4. CINE POATE CONSULTA INFORMAȚIILE
+În această rubrică se va selecta din lista disponibilă în sistem persoana juridică de drept privat care solicită consultarea informațiilor potrivit protocolului semnat cu ANAF.
+
+5.  SCOPUL PRELUCRĂRII
+În această secțiune se bifează unul sau mai multe dintre scopurile pentru care se solicită consultarea datelor, în conformitate cu prevederile privind temeiurile legale ale prelucrării datelor.
+ Inițierea sau derularea relațiilor contractuale specifice activității entității solicitante;
+ Realizarea intereselor legitime ale entității solicitante (de exemplu, evaluarea bonității, analiza riscului);
+Îndeplinirea obligațiilor legale ale entității solicitante (inclusiv obligații de raportare, prevenire a fraudei, conformitate).
+Se recomandă bifarea tuturor scopurilor care reflectă temeiul legal și necesitatea efectivă a consultării datelor, în concordanță cu documentația internă și cu actele normative aplicabile.
+6. ACORDURI
+„Exprim acordul de consultare” – se bifează „DA” dacă persoana își exprimă consimțământul expres și neechivoc ca entitatea indicată la Capitolul IV să consulte informațiile bifate la Capitolul III, pentru scopurile bifate la Capitolul V.
+„Exprim acordul privind prelucrarea datelor personale” – se bifează „DA” dacă persoana își dă acordul pentru prelucrarea datelor sale cu caracter personal în vederea consultării, în limitele și condițiile indicate în formular și în Ordinul nr. ____/2026.
+Instrucțiune esențială: pentru ca formularul A101 să producă efecte, este necesar ca ambele acorduri să fie bifate cu „DA”. Bifarea cu „NU” la oricare dintre ele determină imposibilitatea utilizării acordului pentru interogarea datelor în sistemele ANAF.
+Aceste prevederi reflectă caracterul „expres și neechivoc” al consimțământului, în sensul art. 11 alin. (3) lit. d) din Codul de procedură fiscală.
+
+7.  DREPTURI GDPR ȘI RETRAGEREA CONSIMȚĂMÂNTULUI
+Drepturile persoanei vizate includ:
+Dreptul la informare și acces la datele personale prelucrate;
+Dreptul la rectificarea datelor inexacte sau incomplete;
+Dreptul la ștergerea datelor („dreptul de a fi uitat”), în condițiile prevăzute de lege;
+Dreptul la restricționarea prelucrării;
+Dreptul la portabilitatea datelor;
+Dreptul la opoziție;
+Dreptul de a nu fi supus unei decizii individuale automate, inclusiv profilare;
+Dreptul de a se adresa autorității de supraveghere (ANSPDCP) sau instanțelor de judecată.
+Dreptul de retragere a consimțământului: persoana vizată poate retrage consimțământul acordat prin formularul A101 în orice moment, în interiorul termenului de 5 zile lucrătoare de la semnare, printr-o notificare scrisă, datată și semnată, adresată entității care a solicitat acordul (PJDP sau instituție de credit).
+Retragerea consimțământului nu afectează legalitatea prelucrărilor efectuate înainte de momentul retragerii, dar împiedică orice prelucrare ulterioară în baza acordului A101.
+Instrucțiunile privind adresa de contact, formatul notificării și eventualele formulare standard pentru retragerea consimțământului sunt stabilite de fiecare entitate solicitantă în parte și trebuie comunicate persoanei vizate.
+8.  DECLARAȚIE FINALĂ ȘI SEMNĂTURĂ
+La acest capitol, persoana vizată declară pe propria răspundere că informațiile furnizate sunt reale și corecte și își asumă conținutul acordului.
+În cazul utilizării SPV, semnătura este reprezentată de mecanismul de autentificare și confirmare utilizat în portal (de exemplu, certificat digital calificat sau alt mijloc acceptat), iar data și ora sunt generate automat de sistem.
+
+
+
+
+
+    ANEXA nr. 2
+    la protocol
+
+
+                         PROCEDURĂ COMUNĂ
+de lucru privind schimbul de informaţii între Agenţia Naţională de Administrare Fiscală şi persoanele juridice de drept privat
+
+Principii:
+
+    • Dreptul de acces al angajaţilor desemnaţi de persoanele juridice de drept privat (PJDP) la Sistemul informatic dedicat al Agenţiei Naţionale de Administrare Fiscală (ANAF) se solicită şi se înregistrează la Centrul Naţional pentru Informaţii Financiare (CNIF), în conformitate cu prezenta procedură.
+    • Identificarea persoanelor se face cu instrumente specifice, respectiv certificate digitale calificate, eliberate în condiţiile Legii nr. 214/2024 privind utilizarea semnăturii electronice, a mărcii temporale şi prestarea serviciilor de încredere bazate pe acestea, pentru asigurarea nivelului de încredere necesar pentru acordarea dreptului de acces.
+    • Persoanelor li se atribuie drepturi de acces la aplicaţii informatice în funcţie de atribuţiile de serviciu stabilite de către PJDP.
+
+Realizarea schimbului de date:
+
+    • Schimbul de date se va face prin documente semnate, în format PDF cu fişier xml ataşat, în format standardizat.
+    • Pentru realizarea acestuia, ANAF pune la dispoziţia instituţiilor semnatare ale protocolului, în spaţiul privat de pe portalul ANAF, un sistem informatic prin care utilizatorii vor putea încărca şi descărca documente.
+    • Responsabilitatea obţinerii certificatelor digitale calificate utilizate în procesul de autentificare va rămâne în sarcina participanţilor.
+    • Aceste certificate vor fi utilizate atât pentru autentificarea pe portal a participanţilor, cât şi pentru semnarea electronică a documentelor schimbate între părţi.
+    • Instituţiile emitente de certificate digitale vor fi cele din lista furnizorilor de certificate acreditate, disponibilă pe site-ul Autorităţii pentru Digitalizarea României, secţiunea Societate informaţională, subsecţiunea Semnătura electronică, documentul Registrul furnizorilor de servicii de certificare pentru semnătura electronică.
+    • ANAF, prin CNIF, este responsabilă de administrarea şi disponibilitatea portalului de acces.
+    • Participanţii sunt responsabili cu administrarea sistemelor proprii.
+    • Fiecare solicitare/răspuns va avea asignat un status pentru identificare, iar în termen de maximum 2 zile lucrătoare de la afişarea în aplicaţia web a răspunsului, acestea trebuie descărcate, urmând ca ANAF să mute în arhivă fişierul respectiv în termen de 5 zile lucrătoare de la postare. În cazul în care există probleme de conectare sau de procesare a fişierelor pentru o perioadă mai mare de 3 zile, părţile vor decide de comun acord cum trebuie procedat până la rezolvarea problemei.
+    • Pentru solicitarea unui fişier din arhivă PJDP va trimite un mesaj prin Formularul de contact, secţiunea Asistenţă tehnică servicii informatice, cu subiectul "Protocol PJDP", disponibil pe portalul ANAF, pentru a repune fişierul în spaţiul dedicat.
+    • ANAF va monitoriza dacă fişierele publicate pe portal (solicitări ANAF/răspunsurile la solicitări bancă) sunt descărcate şi va trimite o alertă pe e-mail la adresa stabilită cu o zi înainte ca acestea să fie şterse/mutate.
+    • ANAF va asigura un raport pentru a facilita monitorizarea activităţii pe pagina web, privind încărcarea sau descărcarea acestora, ce va conţine minimum următoarele câmpuri: numele fişierului, data încărcării, data descărcării şi utilizatorul, potrivit art. ........ din Ordinul preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 146/2022 pentru aprobarea condiţiilor de furnizare a informaţiilor, modelului-cadru al protocolului de colaborare, procedurii privind schimbul de informaţii între Agenţia Naţională de Administrare Fiscală şi persoanele juridice de drept privat semnatare, precum şi a modalităţilor de acces în sistemele informatice dedicate conform art. 70^1 alin. (1) lit. b) din Legea nr. 207/2015 privind Codul de procedură fiscală.
+
+    • Transmitere/solicitare date de la PJDP la ANAF:
+
+    - PJDP va transmite:
+    • un fişier de solicitare, conform specificaţiilor din anexa A (disponibil pe platforma informatică dedicată), pentru a obţine informaţii despre:
+    1. veniturile persoanelor fizice: salariaţi sau pensionari pe ultimii trei ani;
+    2. veniturile persoanelor fizice care desfășoară activități economice în mod independent sau exercită profesii liberale pe perioada ultimilor trei ani, respectiv ultimele trei declaraţii de impunere depuse;
+    3. situaţiile financiare ale persoanelor juridice pe perioada ultimilor trei ani fiscali încheiaţi, inclusiv informaţiile aferente perioadei cuprinse între ultimul an fiscal încheiat şi data solicitării acestora.
+    Termenul de răspuns pentru fişierul electronic va fi conform celor specificate în protocol, răspunsul în format hârtie fiind transmis prin mijloace tradiţionale, urmând să ajungă ulterior, în cazul în care este solicitat.
+    - ANAF va transmite în termen de o zi lucrătoare, cu excepţia cazurilor de forţă majoră:
+    • un fişier de răspuns conform specificaţiilor din anexa B1 (disponibil pe platforma informatică dedicată), pentru a trimite informaţii despre veniturile persoanelor fizice / persoanelor fizice care desfășoară activități economice în mod independent sau exercită profesii liberale. Răspunsul ANAF va conţine tot atâtea înregistrări câte coduri de identificare fiscală au fost trimise în solicitare;
+    • un fişier de răspuns conform specificaţiilor din anexa B2 (disponibil pe platforma informatică dedicată) însoţit de un fişier PDF, pentru a trimite informaţii despre veniturile persoanelor juridice. Răspunsul ANAF va conţine informaţii despre veniturile unei singure persoane juridice, în cazul în care în solicitare se regăseşte un singur CIF/CUI. Ca răspuns la o solicitare ce conţine CIF/CUI-uri multiple, se va returna un fişier de eroare.
+    În cazul în care se solicită informaţiile în format hârtie pentru un fişier trimis deja în format electronic, solicitarea se va trimite în format hârtie şi răspunsul va fi trimis doar în format hârtie.
+    • Modelul de date specific fiecărui tip de informaţie
+    • Termenul de transmitere a răspunsurilor
+    • Denumirea standardizată a fişierelor
+    - ANAF va pune la dispoziţia participanţilor:
+    • schema xsd pentru toate tipurile de fişiere xml schimbate de părţi;
+    • aplicaţia de împachetare a fişierului xml într-un fişier PDF şi semnare a acestuia cu certificatul digital;
+    • aplicaţia de extragere a fişierului xml ataşat fişierului PDF.
+    - Corectarea erorilor de validare
+    • Pentru introducerea în baza de date a ANAF a informaţiilor din fişierele transmise se efectuează validarea fişierelor primite (verificarea semnăturii, validarea fişierului xml).
+    • În cazul în care există erori de validare şi datele nu se pot introduce în bază se generează un mesaj de eroare, care se transmite unităţii expeditoare. Obligaţia acesteia este să corecteze erorile şi să trimită o nouă cerere.
+    • După corecţie se retransmite fişierul cu o denumire diferită de cea a fişierului cu erori.
+
+Continuitatea:
+
+    • În cazul în care PJDP nu pot descărca fişierele în format electronic sau nu primesc răspuns la o solicitare, acestea se vor adresa serviciului HelpDesk prin Formularul de contact, secţiunea Asistenţă tehnică servicii informatice, cu subiectul "Protocol PJDP", disponibil pe portalul ANAF.
+    • În cazurile în care platforma nu este funcţională, timpii de răspuns al ANAF sau PJDP se vor majora corespunzător.
+    • În cazul în care apar alte probleme de comunicaţie/procesare a documentelor cele două părţi vor discuta şi vor alege de comun acord o soluţie pentru rezolvarea problemei.
+
+                              *
+
+    F2101 - Structura propusă pentru XML solicitare făcută de PJDP
+    F2102 - Structura propusă pentru XML răspuns ANAF - venituri persoane fizice
+    F2103 - Structura propusă pentru XML răspuns ANAF - venituri persoane juridice
+    Specificaţiile tehnice (de exemplu, structurile fişierelor F2101, F2102 şi F2103) pentru fişierele de schimb de informaţii se publică şi se actualizează pe platformele dedicate.
+    În condiţiile în care structura anexelor suferă modificări, acestea vor fi efectuate fără a fi necesară modificarea protocolului prin act adiţional, PJDP fiind notificate prin platforma informatică.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ANEXA nr. 3
+    la protocol
+
+                         FORMULAR DE ACCEPTANŢĂ
+
+    Prin prezenta se certifică faptul că au fost finalizate:
+    - dezvoltarea de ambele părţi a sistemelor informatice care permit schimbul fişierelor agreate, în conformitate cu specificaţiile Protocolului de colaborare şi ale procedurii de lucru;
+    - testarea de ambele părţi a tuturor modulelor sistemului informatic (Portal), în conformitate cu specificaţiile Protocolului de colaborare şi ale Procedurii de lucru.
+    Reprezentanţii tehnici ai părţilor certifică faptul că soluţia poate fi promovată în producţie în termen de 5 zile lucrătoare de la semnare:
+ ______________________________________________________
+|     PJDP    | Reprezentant| Funcţie | Semnătura  | Observaţii  | Data |
+|                  | tehnic           |              |                    |                    |          |
+|_________|___________|_______|__________|__________|_____|
+|                  |                      |              |                    |                    |          |
+|_________|___________|_______|__________|__________|_____|
+
+ ___________________________________________________________
+| Agenţia             | Reprezentant | Funcţie | Semnătura  | Observaţii  | Data  |
+| Naţională de     | tehnic             |              |                    |                    |          |
+| Administrare    |                        |              |                    |                    |          |
+| Fiscală              |                        |              |                    |                    |          |
+|_____________|____________|_______|__________|__________|_____|
+|                          |                        |              |                    |                    |          |
+|_____________|____________|_______|__________|__________|_____|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ANEXA nr. 4
+    la protocol
+
+PROCEDURĂ
+privind înrolarea, precum şi modalităţile de acces în platforma dedicată schimbului de informații
+
+1. Principii
+1.1. Dreptul de acces la platforma dedicată schimbului de informații se acordă persoanelor juridice de drept privat, denumite în continuare PJDP, după îndeplinirea condiţiilor prevăzute la art. 3 din ordinul președintelui ANAF nr. ____/2026.
+1.2. Dreptul de acces al PJDP se exercită de către personalul desemnat în acest scop de către PJDP dintre angajaţii proprii.
+1.3. Dreptul de acces se solicită şi se înregistrează prin organele fiscale competente, conform prezentei proceduri.
+1.4. Identificarea fizică a persoanelor reprezentante ale PJDP se face de către reprezentanții organelor fiscale competente în baza informaţiilor prezentate de persoana fizică, reprezentantul legal, împuternicitul sau reprezentantul desemnat din documentele de identitate, de reprezentare sau de împuternicire, după caz, valabile, emise de autorităţile competente conform legii.
+1.5. Persoanelor li se atribuie drepturi de acces, denumite roluri, în funcţie de atribuţiile de serviciu stabilite de către PJDP.
+1.6. Procesul prin care unei persoane i se atribuie un rol se numeşte înrolare.
+1.7. Unul dintre rolurile atribuite cel puţin unei persoane din cadrul PJDP semnatare a protocolului este acela de "administrator al drepturilor de acces ale utilizatorilor", pe scurt "administrator de interoperabilitate".
+1.8. Pentru fiecare PJDP pot fi acordate maximum două roluri "administrator de interoperabilitate".
+1.9. Procedurile de înregistrare a administratorilor de interoperabilitate și cele de înregistrare  a altor categorii de utilizatori sunt diferite.
+1.10. O persoană cu rolul de administrator de interoperabilitate nu poate avea în același timp și rolul de utilizator.
+1.11. Pentru a putea înrola alte categorii de utilizatori este obligatoriu ca PJDP să aibă cel puţin un administrator de interoperabilitate înrolat.
+1.12. Pentru a se putea înrola alte categorii de utilizatori de către administratorul de interoperabilitate nu este necesară prezenţa fizică a persoanei sau prezentarea de documente pe hârtie. 
+1.13. Utilizatorii platformei sunt gestionați exclusiv de către administratorii de interoperabilitate.
+1.14. PJDP asigură mijloacele de verificare a accesului la sistemul informatic şi înscrie motivul accesării datelor din sistemul informatic, astfel încât din analiza acestora să rezulte dacă datele au fost accesate în conformitate cu legislaţia în vigoare şi pentru îndeplinirea sarcinilor de serviciu sau în alte scopuri.
+
+2. Înrolarea şi revocarea administratorului de interoperabilitate
+2.1. În vederea înrolării administratorului de interoperabilitate, PJDP prezintă şi depune, după caz, prin persoana identificată conform pct. 1.4, la organul fiscal prevăzut la pct. 1.3, următoarele documente/fişiere:
+a) prezintă cartea de identitate a persoanei în original;
+b) depune pe suport electronic fişierul de export al certificatului calificat (cu extensia ”.cer”) deţinut de persoană;
+c) formularul de acceptanță (anexa nr. 3 la protocol) semnat de reprezentanții tehnici ai ambelor părți la trecerea de la mediul de test la cel de producție;
+d) cererea de numire sau revocare a administratorului de interoperabilitate pentru gestionarea drepturilor de acces ale utilizatorilor PJDP, pe suport hârtie, semnată de persoana identificată conform pct. 1.4, conform modelului prevăzut în anexa care face parte integrantă din prezenta procedură.
+2.2. Înregistrarea persoanelor cu rol de administrator de interoperabilitate se face de către organul fiscal competent în termen de maximum 3 zile lucrătoare de la depunerea documentelor.
+2.3. Organul fiscal prevăzut la pct. 1.3 verifică identitatea persoanei, copiază şi stochează documentul de identitate, verifică corectitudinea datelor înscrise şi stochează documentele depuse pe suport hârtie şi specimenul de semnătură al reprezentantului legal al PJDP. După verificarea documentelor depuse pe suport hârtie, cererile se avizează de către şeful organului fiscal competent, definit potrivit art. 30 din Codul de procedură fiscală, pentru conformitatea datelor verificate, şi se introduc în sistem, în baza de date a drepturilor de acces, prin aplicaţia informatică disponibilă în acest scop.
+2.4. Se vor înregistra maximum două persoane cu drept de administrator de interoperabilitate pentru o PJDP.
+2.5. Revocarea dreptului de administrator de interoperabilitate se face de către PJDP în oricare dintre următoarele situaţii:
+a) persoana cu drept de administrator de interoperabilitate nu mai este angajat al PJDP;
+b) certificatul calificat utilizat la autentificare de administratorul de interoperabilitate a fost pierdut, furat, distrus etc.;
+c) PJDP decide să revoce unei persoane dreptul de administrator de interoperabilitate.
+2.6. PJDP are obligaţia de a anunţa de îndată revocarea dreptului de administrator de interoperabilitate:
+a) folosind sistemul informatic, în cazul administratorului de interoperabilitate care nu are revocat dreptul de administrator; sau
+b) prin prezentarea pe suport hârtie şi depunerea la organul fiscal competent a cererii de numire sau revocare a administratorului de interoperabilitate pentru gestionarea drepturilor de acces ale utilizatorilor PJDP, semnată de persoana identificată conform pct. 1.4, conform modelului prevăzut în anexa la prezenta procedură.
+2.7. În situaţia în care a expirat perioada de valabilitate a instrumentului de autentificare deţinut de persoana cu drept de administrator de interoperabilitate, reînnoirea certificatului se face prin:
+a) introducerea datelor noului certificat, folosind sistemul informatic, de către administratorul de interoperabilitate care nu are revocat dreptul de administrator; sau
+b) prezentarea pe suport electronic şi depunerea la organul fiscal competent (indicat la pct. 1.3) a fişierului de export (cu extensia ”.cer”) al noului certificat.
+
+3. Obligaţiile administratorului de interoperabilitate
+3.1. Se prezintă personal la organul fiscal prevăzut la pct. 1.3 împreună cu documentele necesare pentru înrolare.
+3.2. Verifică şi certifică realitatea datelor de identificare ale persoanelor pe care le înrolează, precum şi a celorlalte date necesare înrolării.
+3.3. Înrolează persoane cu rol de utilizator al sistemului informatic, conform deciziei reprezentantului legal al PJDP.
+3.4. Modifică sau revocă, după caz, drepturile de acces ale utilizatorilor, conform deciziei reprezentantului legal al PJDP.
+3.5. Notifică revocarea drepturilor de acces ale administratorului de interoperabilitate, dacă:
+a) persoana cu drept de administrator de interoperabilitate nu mai este angajat al PJDP;
+b) certificatul calificat utilizat la autentificare a fost pierdut, furat, distrus etc.;
+c) reprezentantul legal PJDP ia o decizie în acest sens;
+3.6. Verifică jurnalul de acces al utilizatorilor la sistemul informatic.
+3.7. Asigură salvarea şi păstrarea pe termen de minimum 10 ani a jurnalului de acces al utilizatorilor la sistemul informatic.
+
+4. Gestiunea drepturilor administratorului de interoperabilitate
+4.1. O persoană cu rolul de administrator de interoperabilitate nu poate avea în același timp și rolul de utilizator.
+4.2. Dreptul de administrator de interoperabilitate se alocă automat, după verificarea de către organul fiscal competent a documentelor necesare înrolării.
+4.3. Revocarea dreptului de administrator de interoperabilitate se decide de către reprezentantul legal al PJDP şi se operează prin sistemul informatic dedicat sau de către organul fiscal competent unde au fost prezentate documentele necesare.
+
+5. Înrolarea şi revocarea utilizatorilor
+5.1. Înrolarea şi revocarea utilizatorilor PJDP se fac exclusiv de către administratorul de interoperabilitate, prin aplicaţia pusă la dispoziţie în acest scop în sistemul informatic, prin completarea informaţiilor despre persoane şi instrumentele de autentificare deţinute de acestea.
+5.2. În cazul în care persoana cu drept de utilizator nu mai este angajat al PJDP sau în cazul pierderii, furtului sau distrugerii certificatului calificat utilizat la autentificare sau ori de câte ori PJDP decide astfel, PJDP are obligaţia de a lua de îndată, prin administratorul de interoperabilitate, măsurile necesare în vederea retragerii imediate a dreptului de utilizator persoanei care nu mai îndeplineşte condiţiile pentru acest rol.
+
+6. Drepturile şi responsabilităţile utilizatorilor
+6.1. Utilizatorul răspunde de respectarea regulilor de acces la sistemul informatic în conformitate cu drepturile conferite în sistemul informatic şi atribuţiile de serviciu.
+6.2. Utilizatorul PJDP accesează datele cu caracter personal ale persoanelor fizice numai în contextul atribuţiilor/responsabilităţilor de serviciu.
+6.3. Atribuţiile/Responsabilităţile de serviciu prevăzute la pct. 6.2 trebuie menţionate în fişa postului.
+
+
+
+
+
+
+
+
+
+
+
+ANEXA 
+la procedura privind înrolarea, precum şi modalităţile de acces în platforma dedicată schimbului de informații
+
+CERERE
+de numire sau revocare administrator de interoperabilitate ANAF - PJDP
+
+
+Prin prezenta cerere
+
+__________________________________________________________________________,
+(Se completează denumirea PJDP)
+cu codul de identificare fiscală
+
+___________________________________,
+(Se completează CIF,CUI.)
+reprezentată prin
+
+__________________________________________________________________________,
+(Se completează numele şi prenumele reprezentantului legal)
+în calitate de
+
+____________________________________,
+(Se completează funcţia)
+solicităm (se bifează numai una dintre opţiuni):
+
+înregistrarea cu rol de administrator de interoperabilitate pentru accesul la platforma de schimb de informații ANAF-PJDP
+
+înregistrarea revocării dreptului de administrator de interoperabilitate pentru accesul la platforma de schimb de informații ANAF-PJDP
+  
+pentru urmăoarele persoane:
+
+
+
+
+Semnătura									Data						
+
+
+		
+    ANEXA nr. 5
+    la protocol
+
+    Număr de înregistrare: ...........................
+
+ACORD
+pentru solicitarea veniturilor persoanelor fizice
+
+    Subsemnatul(a), ..................................................., cu domiciliul în ......................................., identificat(ă) cu CNP (codul numeric personal) ....................................., în calitate de client, declar în mod expres următoarele:
+
+    A. Declaraţii referitoare la consultarea informaţiilor din bazele de date ale Agenţiei Naţionale de Administrare Fiscală
+    Am fost informat că ................................... [PJDP] (denumită în cele ce urmează destinatarul) doreşte să consulte pe o durată maximă de 5 zile lucrătoare de la data semnării sau a acceptării exprese a prezentului acord şi să prelucreze informaţiile, inclusiv datele mele cu caracter personal indicate mai jos, înregistrate pe numele subsemnatului/subsemnatei în evidenţele Ministerului Finanţelor, Agenţia Naţională de Administrare Fiscală (ANAF) în scopul:
+(i) iniţierii sau derulării relaţiilor contractuale specifice activităţii destinatarului;
+(ii) realizării intereselor legitime ale destinatarului; şi/sau
+(iii) îndeplinirii obligaţiilor legale ce îi revin destinatarului, inclusiv a celor privind administrarea riscurilor sau a celor derivând din acte administrative emise de autorităţile competente în aplicarea legii:
+    a) date de identificare a persoanei fizice: numele şi prenumele, codul numeric personal, IP şi semnătura;
+    b) veniturile realizate din orice fel de activităţi (salariale, pensii, asigurări sociale, închirieri etc.) pentru perioada .................... ;
+    Am luat cunoştinţă de faptul că am dreptul de a-mi retrage acordul cu privire la prelucrarea datelor mele cu caracter personal în orice moment, în interiorul termenului de 5 zile, situaţie în care, odată ce a primit notificarea, ................................... [PJDP] nu va mai prelucra datele mele cu caracter personal în scopul sau scopurile menţionate mai sus. Înţeleg că prin retragerea acordului nu va fi afectată legalitatea prelucrării datelor cu caracter personal efectuate înainte de momentul retragerii acordului.
+    Pentru exercitarea dreptului de retragere a acordului cu privire la prelucrarea datelor mele cu caracter personal, înţeleg că voi adresa o notificare către ................................... [PJDP], în atenţia: responsabilului cu protecţia datelor la adresa de corespondenţă/contact de mai jos, întocmită în formă scrisă, datată şi semnată, în care voi menţiona că îmi retrag consimţământul exprimat prin prezentul acord.
+
+    B. Declaraţii referitoare la drepturile persoanei vizate/care a dat declaraţiile de mai sus
+    Am luat cunoştinţă de faptul că îmi pot exercita toate drepturile prevăzute de Regulamentul (UE) 2016/679 al Parlamentului European şi al Consiliului din 27 aprilie 2016 privind protecţia persoanelor fizice în ceea ce priveşte prelucrarea datelor cu caracter personal şi privind libera circulaţie a acestor date şi de abrogare a Directivei 95/46/CE (Regulamentul general privind protecţia datelor) (RGPD), publicat în Jurnalul Oficial al Uniunii Europene L119/1 din 4 mai 2016, în condiţiile şi limitele prevăzute de legislaţia în materia protecţiei datelor cu caracter personal, astfel:
+    (i) dreptul la informare şi acces la datele cu caracter personal;
+    (ii) dreptul la rectificarea datelor;
+    (iii) dreptul la ştergerea datelor ("dreptul de a fi uitat");
+    (iv) dreptul la restricţionarea prelucrării;
+    (v) dreptul la portabilitatea datelor;
+    (vi) dreptul de opoziţie;
+    (vii) dreptul de a nu fi supus unui proces decizional automatizat, inclusiv crearea de profiluri;
+    (viii) dreptul de a se adresa Autorităţii Naţionale de Supraveghere a Prelucrării Datelor cu Caracter Personal sau justiţiei pentru apărarea oricăror drepturi garantate de RGPD, care le-au fost încălcate.
+    Pentru exercitarea drepturilor prevăzute la pct. (vii), clientul va adresa o cerere către ...................................  [PJDP] (de completat datele de contact) întocmită în formă scrisă, datată şi semnată, în care se vor menţiona datele asupra cărora se solicită opoziţia şi motivul întemeiat şi legitim legat de situaţia particulară a persoanei.
+    Am luat cunoştinţă de prevederile Regulamentului general privind protecţia datelor (RGPD) şi despre drepturile mele în contextul prelucrării datelor cu caracter personal, drepturi care pot fi exercitate în limitele legii, trimiţând o adresă scrisă, datată şi semnată, către ...................................  [PJDP], însoţită de o copie a actului de identitate, dreptul de a mă adresa Autorităţii Naţionale de Supraveghere a Prelucrării Datelor cu Caracter Personal sau justiţiei.
+    Am luat cunoştinţă de faptul că am dreptul de a-mi retrage acordul cu privire la prelucrarea datelor mele cu caracter personal în orice moment, în interiorul termenului de 5 zile, situaţie în care, odată ce a primit notificarea, ...................................  [PJDP] nu va mai prelucra datele mele cu caracter personal în scopul sau scopurile menţionate mai sus. Înţeleg că prin retragerea acordului nu va fi afectată legalitatea prelucrării datelor cu caracter personal efectuată înainte de momentul retragerii acordului.
+    Pentru exercitarea dreptului de retragere a acordului cu privire la prelucrarea datelor mele cu caracter personal, înţeleg că voi adresa o notificare către ................................... [PJDP], în atenţia: responsabilului cu protecţia datelor la adresa de corespondenţă/contact de mai jos, întocmită în formă scrisă, datată şi semnată, în care voi menţiona că îmi retrag consimţământul exprimat prin prezentul acord.
+        _      _
+    DA |_| NU |_| sunt de acord ca ...................................  [PJDP] să consulte şi să prelucreze informaţiile şi datele mele cu caracter personal din bazele de date ale ANAF.
+    Înţeleg şi accept că dezacordul meu (răspunsul NU) conduce la imposibilitatea ................................... [PJDP] de a interoga electronic baza de date a ANAF cu privire la informaţiile de la lit. A. În consecinţă, înţeleg şi accept să fac dovada veniturilor în modalităţile prevăzute de lege, aşa cum îmi sunt solicitate de persoana juridică de drept privat.
+    Am luat cunoştinţă de faptul că prezentul acord poate fi semnat olograf, cu semnătură electronică cu certificat calificat, sau cu semnătură electronică simplă supusă condițiilor de identificare prealabilă descrise în art. 8, alin. (4), (5) și (6) din Ordinul președintelui ANAF nr. ____/2026.
+
+
+    Data .....................        Semnătura clientului
+
+
+
+    ANEXA nr. 6
+    la protocol
+
+    Număr de înregistrare: ...........................
+
+                         ACORD
+de interogare şi prelucrare a informaţiilor din bazele de date ale Ministerului Finanţelor/Agenţiei Naţionale de Administrare Fiscală, în scopul deschiderii unui cont de plăţi cu servicii de bază în condiţiile Legii nr. 258/2017 privind comparabilitatea comisioanelor aferente conturilor de plăţi, schimbarea conturilor de plăţi şi accesul la conturile de plăţi cu servicii de bază
+
+    Subsemnatul(a), ................................, cu domiciliul/sediul în ..........................................., identificat(ă) cu CNP (codul numeric personal) .........................................., declar în mod în mod expres următoarele:
+
+    1. Am fost informat că instituţia de credit [..............................] doreşte să consulte pe o durată de maximum 5 zile lucrătoare de la data semnării prezentului acord şi să prelucreze informaţiile, inclusiv datele mele cu caracter personal indicate mai jos, înregistrate pe numele subsemnatului/subsemnatei/subscrisei în evidenţele Ministerului Finanţelor, Agenţia Naţională de Administrare Fiscală (ANAF) în scopul asigurării unui mecanism adecvat care să conducă la creşterea gradului de bancarizare a populaţiei, prin facilitarea accesului consumatorilor persoane fizice la un cont de plăţi cu servicii de bază în condiţiile Legii nr. 258/2017:
+    - date de identificare a persoanei fizice: numele şi prenumele, codul numeric personal/numărul de identificare fiscală, cod ţară şi serie/număr paşaport în cazul persoanelor fizice nerezidente, colectate prin efectuarea de copii ale documentelor care le conţin;
+    - informaţii privind natura, sursa şi cuantumul veniturilor realizate din orice fel de activităţi (salariale, independente, pensii, asigurări sociale, închirieri etc.) pentru perioada aferentă ultimului an fiscal încheiat, inclusiv informaţiile aferente perioadei cuprinse între ultimul an fiscal încheiat şi data solicitării acestora;
+    - informaţii privind existenţa pe numele subsemnatului/subsemnatei a unui cont de plăţi deschis la altă instituţie de credit din România.
+    Am luat cunoştinţă de faptul că în cazul în care refuz să permit instituţiei de credit să consulte informaţiile, inclusiv datele mele cu caracter personal indicate mai sus, înregistrate pe numele subsemnatului/subsemnatei în evidenţele ANAF, procedurile pentru deschiderea unui cont de plăţi cu servicii de bază vor presupune dovezi suplimentare de eligibilitate din partea mea.
+    Am luat cunoştinţă de faptul că am dreptul de a-mi retrage acordul în orice moment, situaţie în care, odată ce a primit notificarea, instituţia de credit nu va mai procesa datele mele cu caracter personal în scopul sau scopurile de mai sus, cu excepţia cazului în care există un alt temei legitim în acest sens. Înţeleg că legalitatea prelucrării efectuate pe baza acordului înainte de retragerea acestuia nu va fi afectată.
+    Pentru exercitarea dreptului de retragere a acordului, înţeleg că voi adresa o notificare către [de completat datele de contact ale instituţiei de credit] întocmită în formă scrisă, datată şi semnată, în care voi menţiona că îmi retrag consimţământul exprimat prin Acordul din data de [..................], având numărul de înregistrare [......................].
+    În aceste condiţii, declar că:
+    Sunt de acord ca instituţia de credit [...................................] să consulte şi să prelucreze informaţiile din bazele de date ale ANAF.
+    Nu sunt de acord ca instituţia de credit [.................................] să consulte şi să prelucreze informaţiile din bazele de date ale ANAF.
+    Data ........................
+    Semnătura .................
+
+    2. Am luat cunoştinţă de faptul că îmi pot exercita drepturile prevăzute de Regulamentul (UE) 2016/679 al Parlamentului European şi al Consiliului din 27 aprilie 2016 privind protecţia persoanelor fizice în ceea ce priveşte prelucrarea datelor cu caracter personal şi privind libera circulaţie a acestor date şi de abrogare a Directivei 95/46/CE (Regulamentul general privind protecţia datelor), în condiţiile şi limitele prevăzute de legislaţia în materie, respectiv (i) dreptul la informare şi acces la datele cu caracter personal; (ii) dreptul la rectificare; (iii) dreptul la ştergerea datelor ("dreptul de a fi uitat"); (iv) dreptul la restricţionarea prelucrării; (v) dreptul la portabilitatea datelor; (vi) dreptul de opoziţie; (vii) dreptul de a nu fi supus unui proces decizional automatizat, inclusiv crearea de profiluri; (viii) dreptul de a mă adresa Autorităţii Naţionale de Supraveghere a Prelucrării Datelor cu Caracter Personal sau justiţiei, pentru apărarea oricăror drepturi garantate de RGPD, care mi-au fost încălcate.
+
+    3. O informare detaliată asupra temeiurilor legale, scopurilor prelucrării datelor cu caracter personal de mai sus şi modului de exercitare a drepturilor se regăseşte la adresa [..............................] sau poate fi consultată la orice ghişeu al PJDP. Pentru a exercita unul sau mai multe dintre aceste drepturi sau pentru a adresa orice întrebare despre oricare dintre aceste drepturi sau despre oricare alte aspecte ale prelucrării datelor mele cu caracter personal, puteţi folosi şi detaliile de contact de mai jos.
+
+[Datele de contact ale PJDP]
+
+   4. Am luat cunoştinţă de faptul că prezentul acord poate fi semnat olograf, cu semnătură electronică cu certificat calificat, sau cu semnătură electronică simplă supusă condițiilor de identificare prealabilă descrise în art. 8, alin. (4), (5) și (6) din Ordinul președintelui ANAF nr. ____/2026.
+
+
+   
+
+    Data .......................
+    Semnătura client
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ANEXA nr. 2
+
+
+Modelul-cadru al protocolului de colaborare în vederea transmiterii informațiilor enumerate în art. 4, alin. (2) din Ordinul președintelui ANAF nr. ____/2026
+
+    Agenţia Naţională de Administrare Fiscală - ANAF
+    Nr. ............./............
+    Instituția de credit - IC ...............................
+    Nr. ............./............
+
+
+
+PROTOCOL DE COLABORARE
+
+    În temeiul:
+    - art. 11 alin. (3) lit. d), art. 11 alin. (6^1) şi art. 70^1 alin. (1) lit. b) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările şi completările ulterioare;
+    - art. 7 lit. A pct. 23 din Hotărârea Guvernului nr. 520/2013 privind organizarea şi funcţionarea Agenţiei Naţionale de Administrare Fiscală, cu modificările şi completările ulterioare;
+    ...................................................................
+    (Se completează cu legislaţia specifică domeniului de activitate/de reglementare a instituției de credit.)
+
+Având în vedere:
+
+    - prevederile Regulamentului (UE) 2016/679 al Parlamentului European şi al Consiliului din 27 aprilie 2016 privind protecţia persoanelor fizice în ceea ce priveşte prelucrarea datelor cu caracter personal şi privind libera circulaţie a acestor date şi de abrogare a Directivei 95/46/CE (Regulamentul general privind protecţia datelor);
+   - Ordinul președintelui ANAF (OPANAF) nr. ____/2026 pentru aprobarea condiţiilor de furnizare a informaţiilor, modelului-cadru al protocolului de colaborare, procedurii privind schimbul de informaţii între Agenţia Naţională de Administrare Fiscală şi persoanele juridice de drept privat semnatare, precum şi a modalităţilor de acces în sistemele informatice dedicate conform art. 70^1 alin. (1) lit. b) din Legea nr. 207/2015 privind Codul de procedură fiscală,
+
+    Agenţia Naţională de Administrare Fiscală - ANAF, cu sediul în Bucureşti, str. Apolodor nr. 17, sectorul 5, reprezentată prin ..........................................................., în calitate de preşedinte,
+    şi
+    Instituţia de credit reglementată de OUG nr. 99/2006 privind instituțiile de credit și adecvarea capitalului, aprobată cu modificări și completări prin Legea nr. 227/2007, cu modificările și completările ulterioare .................................., cu sediul în ......................., înscrisă la ONRC cu nr. .................., având atribuit codul de identificare fiscală nr. ............., activitate principală conform cod CAEN ........................., reprezentată prin ............................................., în calitate de ................................, (înscrisă în Registrul ............................. al Băncii Naţionale a României, după caz) cu nr. ................. la data de ......................,
+    denumite în continuare părţi, au convenit de comun acord încheierea prezentului protocol.
+    ART. 1
+    Obiectul protocolului constă în stabilirea condiţiilor şi modalităţilor pentru realizarea furnizării de informaţii în conformitate cu prevederile art. 11 alin. (3) lit. d), ale art. 11 alin. (6^1) şi ale art. 70^1 alin. (1) lit. b) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările şi completările ulterioare.
+
+
+    ART. 2
+   (1) Furnizarea de informaţii instituției de credit, în baza consimţământului contribuabilului/plătitorului prevăzut la art. 11 alin. (3) lit. d) din Codul de procedură fiscală, cu modificările şi completările ulterioare, se poate realiza în baza unui protocol, încheiat potrivit ordinului președintelui (OPANAF) nr. ____/2026, dacă sunt îndeplinite, cumulativ, următoarele condiţii:
+    a) informaţiile sunt necesare pentru soluţionarea unor cereri ale persoanelor juridice;
+    b) Codul CAEN principal prevăzut în actul constitutiv al instituției de credit include servicii prestate persoanelor juridice pentru care sunt necesare informaţii de natura celor definite la art. 4, alin. (2) din OPANAF nr. ____/2026;
+    c) solicitările de furnizare a informaţiilor se realizează în mod frecvent;
+    d) instituția de credit dispune de proceduri care asigură păstrarea în condiţii de siguranţă a datelor cu caracter personal şi sisteme informatice de securitate, auditate de către un auditor IT extern independent din lista auditorilor IT gestionată de Autoritatea pentru Digitalizarea României (ADR) şi publicată pe pagina web a acesteia (https://www.adr.gov.ro/lista-auditorilor-it). În concluziile raportului de audit IT trebuie să se regasească specificarea care să ateste într-o manieră directă și explicită că: ”sistemul informatic şi procedurile informatice aplicabile nu permit obţinerea și gestionarea de informaţii cu încălcarea prevederilor legale în materia datelor cu caracter personal şi care reprezintă secret fiscal.”
+   (2) Auditarea se face de către un auditor IT extern independent astfel:
+    a) auditarea ex-ante este inclusă în documentaţia necesară încheierii protocolului;
+    b) auditarea ex-post se efectuează anual, până la data de 31 martie a anului curent pentru anul precedent.
+   (3) Raportul de audit IT va conține obligatoriu următoarele elemente, fără a se limita la acestea:
+    a) destinatarii raportului şi orice restricţii privind conţinutul şi circulaţia raportului;
+    b) obiectivele activităţii de audit IT și perioada auditată;
+    c) responsabilitatea auditorului IT, prin raportarea la standardul de audit utilizat;
+    d) modalitatea de identificare de către entitatea auditată a clienților existenți/potențiali: exclusiv fizică, exclusiv de la distanță sau mixtă (atât de la distanță, cât și fizică);
+    e) sediul desfăşurării activităţii de audit IT (adresa sediului unde a avut loc activitatea de audit IT - sediu central/sucursală/filială), data întocmirii raportului de audit IT;
+    f) declaraţia pe propria răspundere, din care să rezulte independenţa auditorului faţă de sistemul informatic auditat şi faţă de prestatorul auditat.
+   (4) Raportul auditorului IT va fi transmis în format electronic cu semnătură electronică cu certificat calificat la adresele de email exchange.info@anaf.ro și info.fiscale@anaf.ro sau va fi depus letric la registratura generală a ANAF din str. Apolodor nr. 17, sectorul 5, Bucureşti, până la data de 15 aprilie a anului următor celui pentru care se face auditarea, cu transmiterea în aceeași zi a informării pe adresa de email exchange.info@anaf.ro privind depunerea acestuia în format letric.
+   (5) Obligaţia de auditare ex-ante se consideră îndeplinită de către instituția de credit şi prin prezentarea dovezilor de implementare a standardului european EN ISO/IEC 27001:2023.
+   (6) Nedepunerea raportului ex-post până la data de 15 aprilie a anului următor celui pentru care se face auditarea conduce la suspendarea automată a protocolului, ANAF notificând în acest sens instituția de credit după suspendarea accesului acesteia la platforma ”Schimb de informații ANAF-PJDP” începând cu data de 16 aprilie. În cazul neconformării de către instituția de credit în termen de 15 zile lucrătoare de la data sistării accesului, protocolul va fi reziliat de drept.
+   (7) Prin excepţie de la prevederile menţionate la alin. (6), auditarea ex-post nu este obligatorie dacă instituția de credit este nou-înfiinţată, iar perioada de la semnarea protocolului până la sfârşitul anului este mai mică de 6 luni.
+
+    ART. 3
+    În îndeplinirea obiectivelor prezentului protocol, părţile semnatare au obligaţia respectării prevederilor referitoare la protejarea secretului fiscal, conform Legii nr. 207/2015 privind Codul de procedură fiscală, cu modificările şi completările ulterioare.
+
+   ART. 4
+   (1) În vederea furnizării de informaţii de către ANAF către instituția de credit, potrivit art. 1, instituția de credit semnatară a protocolului are următoarele obligaţii:
+   a) să pună în practică proceduri de revocare a drepturilor utilizatorilor (persoanele special desemnate de către instituția de credit care prelucrează datele) cărora le încetează/suspendă raporturile de muncă în conformitate cu Legea nr. 53/2003 - Codul muncii, republicată, cu modificările şi completările ulterioare, sau în alte cazuri în care se consideră că este necesar;
+   b) să anunțe de îndată orice modificare a persoanelor de contact pe tema protocolului prin transmiterea informațiilor actualizate la adresa de email exchange.info@anaf.ro;
+   c) în cazul operațiunilor de fuziune, divizare sau dizolvare, precum și în alte situații de restructurare/reorganizare, instituția de credit este obligată să informeze ANAF de îndată (prin adresa de email exchange.info@anaf.ro);
+   d) în cazul identificării la distanță a clienților existenți/potențiali prin utilizarea serviciilor furnizate de către terţi în baza unui contract, să comunice orice modificare a terțului pe adresa exchange.info@anaf.ro în maxim 5 zile lucrătoare de la depunerea contractului, a poliței de asigurare și a raportului de evaluare a conformității la Autoritatea pentru Digitalizarea României, urmând ca imediat ce va intra în posesia avizului/notificării ADR să trimită o copie pe aceeași adresă de email prin care a comunicat modificarea;
+   e) în cazul identificării la distanță a clienților existenți/potențiali prin mijloace proprii, în eventuala retragere a avizului tehnic de către ADR, să comunice în maxim o zi lucrătoare de la data retragerii pe adresa exchange.info@anaf.ro;
+   f) să folosească informațiile astfel obținute de la MF/ANAF exclusiv în scopul soluționării cererii clientului existent/potențial.
+   (2) Modelul acordului special pentru informațiile privind declarațiile fiscale D100, D101, și D300 depuse de persoanele juridice (formatul electronic standardizat disponibil în SPV) este prevăzut în anexa nr. 1 la prezentul protocol.
+   (3) Procedura privind înrolarea, precum şi modalităţile de acces în platforma dedicată schimbului de informații este prevăzută în anexa nr. 4 la prezentul protocol.
+
+   ART. 5
+   (1) Solicitarea consimţământului expres şi neechivoc, prevăzut la art. 11 alin. (3) lit. d) din Codul de procedură fiscală, persoanelor juridice (generic denumite ”clienți existenți/potențiali”) în vederea furnizării de informaţii de către ANAF către instituția de credit prin platforma ”Schimb de informații ANAF-PJDP” reprezintă o etapă ulterioară identificării clienților existenți/potențiali de către instituția de credit.
+   (2) În cazul identificării fizice procesul de recunoaștere unică a clienților existenți/potențiali are la bază documentele prezentate de către reprezentantul legal al persoanei juridice, emise de autoritățile competente conform legii și aflate în termenul de valabilitate.
+   (3) În cazul identificării la distanță procesul de identificare și verificare a identității are la bază documentele emise de autoritățile competente conform legii și aflate în termenul de valabilitate prezentate, imaginile capturate și/sau informațiile comunicate de reprezentantul legal, utilizând mijloace video sau certificatele calificate.
+   (4) Identificarea la distanță poate fi efectuată doar după prezentarea de către instituția de credit a dovezii dispunerii și implementării măsurilor legale și tehnico-procedurale necesare pentru îndeplinirea cerințelor prezentate în Normele privind reglementarea, recunoaşterea, aprobarea sau acceptarea procedurii de identificare a persoanei la distanţă utilizând mijloace video, aprobate prin Decizia președintelui Autorităţii pentru Digitalizarea României nr. 564/2021.
+   (5) Dacă instituția de credit efectuează procesul de verificare a identităţii persoanei la distanţă prin utilizarea serviciilor furnizate de către terţi în baza unui contract, orice modificare a terțului va fi comunicată pe adresa exchange.info@anaf.ro, în maxim 5 zile lucrătoare de la depunerea contractului, a poliței de asigurare și a raportului de evaluare a conformității la ADR, urmând ca, imediat ce va intra în posesia avizului/notificării ADR, instituția de credit să trimită o copie pe aceeași adresă de email prin care a comunicat modificarea.
+   (6) Dacă instituția de credit efectuează procesul de verificare a identităţii persoanei la distanţă prin mijloace proprii, eventuala retragere a avizului tehnic de către ADR va fi comunicată în maxim o zi lucrătoare de la data retragerii, pe adresa exchange.info@anaf.ro.
+   (7) Lista terţilor care pot efectua identificarea persoanei la distanţă utilizând mijloace video, gestionată de ADR, Normele privind reglementarea, recunoaşterea, aprobarea sau acceptarea procedurii de identificare a persoanei la distanţă utilizând mijloace video, precum și Procedura privind înscrierea/radierea terţilor de verificare a identităţii persoanei la distanţă utilizând mijloace video sunt disponibile la adresa:
+https://www.adr.gov.ro/identificare-la-distanta-prin-mijloace-video/.
+
+    ART. 6
+    ANAF, prin CNIF, va transmite, în termen de maximum 3 (trei) zile lucrătoare de la data solicitării, cu excepţia cazurilor de forţă majoră, informaţiile de natură fiscală în limita consimțământului exprimat de contribuabil/plătitor, prevăzute la art. 4 alin. (2) din OPANAF nr. ____/2026 pentru aprobarea condiţiilor de furnizare a informaţiilor, modelului-cadru al protocolului de colaborare, procedurii privind schimbul de informaţii între ANAF şi IC semnatare, precum şi a modalităţilor de acces în sistemele informatice dedicate conform art. 70^1 alin. (1) lit. b) din Legea nr. 207/2015 privind Codul de procedură fiscală, personalului desemnat al IC semnatare, potrivit Procedurii comune de lucru privind schimbul de informaţii între ANAF şi instituțiile de credit, prevăzută la anexa nr. 2 la prezentul protocol. Reprezentanţii tehnici ai părţilor certifică prin semnarea formularului de acceptanţă, prevăzut la anexa nr. 3 la prezentul protocol, faptul că au fost efectuate toate testele și că este permis schimbul fişierelor agreate.
+
+    ART. 7
+    (1) Prelucrarea datelor cu caracter personal ce constituie obiectul prezentului protocol se realizează în conformitate cu prevederile Regulamentului (UE) 2016/679 al Parlamentului European şi al Consiliului din 27 aprilie 2016 privind protecţia persoanelor fizice în ceea ce priveşte prelucrarea datelor cu caracter personal şi privind libera circulaţie a acestor date şi de abrogare a Directivei 95/46/CE (Regulamentul general privind protecţia datelor). În limitele şi în înţelesul prezentului protocol, fiecare parte este de acord că acţionează ca operator independent al datelor cu caracter personal, activităţile de prelucrare fiind realizate în conformitate cu Regulamentul (UE) 2016/679 al Parlamentului European şi al Consiliului din 27 aprilie 2016 privind protecţia persoanelor fizice în ceea ce priveşte prelucrarea datelor cu caracter personal şi privind libera circulaţie a acestor date ("Regulamentul"), inclusiv din perspectiva îndeplinirii obligaţiilor ce le revin în conformitate cu principiile legalităţii, echităţii şi transparenţei, limitării legate de scop şi stocare, reducerii la minimum a datelor, exactităţii şi integrităţii şi confidenţialităţii. Datele personale ale persoanelor vizate vor fi prelucrate de către părţi pe perioada de valabilitate a prezentului protocol, precum şi ulterior acestei perioade, în conformitate cu dispoziţiile legale şi/sau interesele legitime ale părţilor, în baza cărora sunt reglementate termene de prelucrare a unor astfel de date. Fiecare parte, în calitate de operator, este responsabilă şi confirmă faptul că a luat toate măsurile de precauţie pentru a asigura securitatea şi prevenirea oricăror distrugeri, pierderi, modificări, dezvăluiri, achiziţii sau accesări ilegale sau neautorizate cu privire la datele cu caracter personal deţinute despre cealaltă parte.
+    (2) Datele cu caracter personal ce sunt prelucrate de către părţi în scopul menţionat la art. 1 din prezentul protocol sunt următoarele: nume, prenume, CNP/CIF/CUI, informaţii fiscale, IP şi semnătura.
+    (3) Datele cu caracter personal în cauză sunt prelucrate numai pentru realizarea scopului prevăzut la art. 1 din prezentul protocol, cu respectarea legislaţiei în vigoare, şi nu pot face obiectul diseminării către alte instituţii/persoane fizice/persoane juridice (cu excepţia persoanelor vizate) decât în condiţiile legii sau cu acordul prealabil al părţilor, după caz.
+    (4) Părţile se vor informa reciproc privind iniţierea de controale sau investigaţii de către Autoritatea Naţională de Supraveghere a Prelucrării Datelor cu Caracter Personal (ANSPDCP) ce vizează activitatea de prelucrare (furnizarea de informaţii) reglementată de prezentul protocol. Informarea se va face în formă scrisă cu utilizarea datelor de contact ale responsabilului cu protecţia datelor relevant, publicate de către fiecare dintre părţi.
+    (5) În conformitate cu prevederile Regulamentului (UE) 2016/679, persoanele vizate ale căror date cu caracter personal sunt prelucrate beneficiază de următoarele drepturi: dreptul la informare, dreptul de acces la datele cu caracter personal, dreptul la rectificarea datelor cu caracter personal, dreptul la ştergerea datelor cu caracter personal (dreptul de a fi uitat), dreptul la restricţionarea prelucrării, dreptul la opoziţie, dreptul de a nu face obiectul unei decizii bazate exclusiv pe prelucrarea automată, inclusiv crearea de profiluri, precum şi dreptul de a depune plângere către ANSPDCP.
+    (6) Orice persoană fizică care acţionează sub autoritatea uneia dintre părţi şi are acces la datele cu caracter personal ce fac obiectul prezentului protocol are obligaţia să păstreze confidenţialitatea acestor date şi nu le prelucrează decât la cererea părţilor, cu excepţia cazului în care dreptul Uniunii Europene sau dreptul intern o obligă să facă acest lucru.
+
+
+    ART. 8
+   (1) Datele şi informaţiile furnizate de către ANAF sunt confidenţiale şi se utilizează şi se păstrează conform prevederilor legale, normelor interne în vigoare şi prezentului protocol.
+   (2) Instituțiile de credit vor trata informaţiile pe care le dobândesc prin intermediul platformei dedicate - ”Schimb de informații ANAF-PJDP” ca fiind confidenţiale şi nu le vor dezvălui terţilor, cu excepţia cazurilor prevăzute de lege.
+   (3) În scopul informării în mod legal, echitabil şi transparent faţă de contribuabil/plătitor, atât ANAF, cât şi ...................... instituția de credit asigură publicarea pe site-ul/portalul propriu a unei informări privind obiectul prezentului protocol.
+   (4) În scopul asigurării caracterului expres și neechivoc al acordului/consimțământului contribuabilului/plătitorului despre care se solicită informații, instituțiile de credit au obligația să întreprindă demersurile necesare și suficiente astfel încât pagina din aplicația electronică sau din pagina web prin care consimțământul este oferit să fie distinctă, nicidecum inclusă la comun cu termenii și condițiile aplicației/produsului instituțiilor de credit, pentru a fi respectat caracterul granular al consimțământului.
+    (5) ANAF poate vizualiza lista accesărilor utilizatorilor, pentru a verifica dacă interogările au fost făcute în conformitate cu prevederile protocolului şi s-au respectat dispoziţiile Regulamentului (UE) 2016/679 al Parlamentului European şi al Consiliului din 27 aprilie 2016 privind protecţia persoanelor fizice în ceea ce priveşte prelucrarea datelor cu caracter personal şi privind libera circulaţie a acestor date.
+    (6) Prezentul protocol intră în vigoare în 5 (cinci) zile de la data semnării lui.
+    (7) Prezentul protocol este valabil pe o perioadă de un an, cu prelungire automată dacă nu este denunţat unilateral de una dintre părţile semnatare în baza unui preaviz scris adresat celeilalte părţi cu minimum 30 de zile calendaristice înainte de expirarea valabilităţii acestuia.
+    (8) Oricare dintre părţi are dreptul de a denunţa unilateral prezentul protocol, cu înştiinţarea celeilalte părţi, prin notificare adresată cu cel puţin 30 de zile calendaristice înaintea denunţării.
+    (9) Prezentul protocol poate fi modificat sau completat numai cu acordul scris al părţilor, prin act adiţional, care va deveni parte integrantă a prezentului protocol. Modificările ulterioare referitoare la aspecte tehnice reglementate în procedura comună de lucru pot fi efectuate de reprezentanţii structurilor tehnice ale părţilor, desemnaţi în acest sens.
+    (10) Anexele nr. 1 - 4 fac parte integrantă din prezentul protocol.
+    (11) Nerespectarea obligaţiilor asumate de către instituția de credit prin prezentul protocol dă dreptul ANAF să suspende accesul acesteia la platforma ”Schimb de informații ANAF-PJDP”. În cazul în care către instituția de credit nu se conformează în termen de 15 zile lucrătoare de la data sistării accesului, protocolul se reziliază de drept.
+
+    Acest protocol s-a semnat astăzi, .................., în două exemplare originale, câte unul pentru fiecare parte.
+
+      AGENŢIA NAŢIONALĂ DE                         INSTITUȚIA DE CREDIT
+      ADMINISTRARE FISCALĂ
+      .....................                                                        .....................
+          Preşedinte,                                                           Reprezentant,
+      .....................                                                        .....................
+
+
+
+
+
+
+
+
+
+
+
+   ANEXA nr. 1
+    la protocol
+
+A102 - ACORD DE CONSULTARE INFORMAȚII
+Formular pentru exprimarea consimțământului expres și neechivoc - prevăzut la art. 11, alin. (3), lit. d) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare
+Data semnării: x  zz.ll.aaaa ; hh:mm
+Valabilitate acord: x+5 zile lucrătoare  zz.ll.aaaa ; hh:mm
+I. TIPUL CONTRIBUABILULUI/PLĂTITORULUI - PERSOANĂ JURIDICĂ
+ 
+II. DATE DE IDENTIFICARE - PERSOANĂ JURIDICĂ
+
+ 
+III. CATEGORII DE INFORMAȚII PENTRU CARE SE ACORDĂ CONSIMȚĂMÂNTUL
+
+Perioada vizată: __________________
+A1. Declarații fiscale:
+ 
+IV. CINE POATE CONSULTA INFORMAȚIILE
+
+ 
+V. SCOPUL PRELUCRĂRII
+ 
+VI. ACORDURI
+ 
+ATENȚIE: pentru ca formularul A102 să producă efecte, este necesar ca ambele acorduri să fie bifate cu „DA”. Bifarea „NU” la oricare dintre ele determină imposibilitatea utilizării acordului pentru interogarea datelor în sistemele ANAF.
+
+VII. DREPTURI GDPR ȘI RETRAGEREA CONSIMȚĂMÂNTULUI
+□ Am luat cunoștință de drepturile GDPR, inclusiv dreptul de retragere în termen de 5 zile, prin notificare transmisă la: __________@________.
+ 
+VIII. DECLARAȚIE FINALĂ ȘI SEMNĂTURA
+□ Declar că informațiile sunt reale și corecte.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrucțiuni de editare, completare, utilizare și păstrare a Acordului de consultare a informațiilor
+
+I. CARACTERISTICI
+Formularul A102 - „Acord de consultare informații” este documentul prin care persoanele juridice își exprimă consimțământul expres și neechivoc pentru consultarea unor informații fiscale din evidențele ANAF.
+Formularul se utilizează și se completează în Spațiul Privat Virtual (SPV), în condițiile prevăzute de OPANAF nr. 1090/2022 și de reglementările privind schimbul de informații între ANAF și persoanele juridice de drept privat.
+Acordul este valabil pentru o perioadă de maximum 5 zile lucrătoare de la data exprimării consimțământului, în conformitate cu Ordinul nr. ____/2026.
+Acordul se arhivează în format electronic, de catre CNIF, împreună cu metadatele corespunzătoare (data, ora, identitatea utilizatorului, mijlocul de autentificare).
+II. INSTRUCȚIUNI DE COMPLETARE
+1.  DATE DE IDENTIFICARE - PERSOANĂ JURIDICĂ
+Denumire persoană juridică: Se înscrie denumirea completă a persoanei juridice.
+CUI: Se înscrie codul unic de înregistrare al persoanei juridice. 
+Nr. înregistrare: Se înscrie numărul de înregistrare în registrul comerțului. 
+Sediu social: Se înscrie adresa completă a sediului social: strada, numărul, localitatea, județ/sector, cod poștal, țara. 
+Reprezentant legal (nume, funcție, CNP): Se înscriu numele și prenumele reprezentantului legal, funcția deținută și CNP-ul acestuia. 
+Telefon / Email: Se înscriu datele de contact ale persoanei juridice: telefon și e-mail. 
+2. CATEGORII DE INFORMAȚII PENTRU CARE SE ACORDĂ CONSIMȚĂMÂNTUL
+Secțiunea A1 - Declarații fiscale:
+Se bifează declarațiile fiscale depuse de persoana juridică pentru care se dorește consultarea. Acestea pot fi:
+ Declarația D100 - obligații de plată la bugetul de stat;
+ Declarația D101 - impozit pe profit;
+ Declarația D300 - decont de TVA;
+3.  CINE POATE CONSULTA INFORMAȚIILE
+În această rubrică se va selecta din lista disponibilă în sistem instituția de credit reglementată conform OUG nr. 99/2006, care solicită consultarea informațiilor potrivit protocolului semnat cu ANAF.
+
+4.  SCOPUL PRELUCRĂRII
+În această secțiune se bifează unul sau mai multe dintre scopurile pentru care se solicită consultarea datelor, în conformitate cu prevederile privind temeiurile legale ale prelucrării datelor.
+ Inițierea sau derularea relațiilor contractuale specifice activității entității solicitante;
+ Realizarea intereselor legitime ale entității solicitante (de exemplu, evaluarea bonității, analiza riscului);
+Îndeplinirea obligațiilor legale ale entității solicitante (inclusiv obligații de raportare, prevenire a fraudei, conformitate).
+Se recomandă bifarea tuturor scopurilor care reflectă temeiul legal și necesitatea efectivă a consultării datelor, în concordanță cu documentația internă și cu actele normative aplicabile.
+5. ACORDURI
+„Exprim acordul de consultare” – se bifează „DA” dacă persoana își exprimă consimțământul expres și neechivoc ca entitatea indicată la Capitolul IV să consulte informațiile bifate la Capitolul III, pentru scopurile bifate la Capitolul V.
+„Exprim acordul privind prelucrarea datelor personale” – se bifează „DA” dacă persoana își dă acordul pentru prelucrarea datelor sale cu caracter personal în vederea consultării, în limitele și condițiile indicate în formular și în Ordinul nr. ____/2026.
+Instrucțiune esențială: pentru ca formularul A102 să producă efecte, este necesar ca ambele acorduri să fie bifate cu „DA”. Bifarea cu „NU” la oricare dintre ele determină imposibilitatea utilizării acordului pentru interogarea datelor în sistemele ANAF.
+Aceste prevederi reflectă caracterul „expres și neechivoc” al consimțământului, în sensul art. 11 alin. (3) lit. d) din Codul de procedură fiscală.
+6.  DREPTURI GDPR ȘI RETRAGEREA CONSIMȚĂMÂNTULUI
+Drepturile persoanei vizate includ:
+Dreptul la informare și acces la datele personale prelucrate;
+Dreptul la rectificarea datelor inexacte sau incomplete;
+Dreptul la ștergerea datelor („dreptul de a fi uitat”), în condițiile prevăzute de lege;
+Dreptul la restricționarea prelucrării;
+Dreptul la portabilitatea datelor;
+Dreptul la opoziție;
+Dreptul de a nu fi supus unei decizii individuale automate, inclusiv profilare;
+Dreptul de a se adresa autorității de supraveghere (ANSPDCP) sau instanțelor de judecată.
+Dreptul de retragere a consimțământului: persoana vizată poate retrage consimțământul acordat prin formularul A102 în orice moment, în interiorul termenului de 5 zile lucrătoare de la semnare, printr-o notificare scrisă, datată și semnată, adresată instituției de credit care a solicitat acordul.
+Retragerea consimțământului nu afectează legalitatea prelucrărilor efectuate înainte de momentul retragerii, dar împiedică orice prelucrare ulterioară în baza acordului A102.
+Instrucțiunile privind adresa de contact, formatul notificării și eventualele formulare standard pentru retragerea consimțământului sunt stabilite de fiecare entitate solicitantă în parte și trebuie comunicate persoanei vizate.
+7.  DECLARAȚIE FINALĂ ȘI SEMNĂTURĂ
+La acest capitol, persoana vizată declară pe propria răspundere că informațiile furnizate sunt reale și corecte și își asumă conținutul acordului.
+În cazul utilizării SPV, semnătura este reprezentată de mecanismul de autentificare și confirmare utilizat în portal (de exemplu, certificat digital calificat sau alt mijloc acceptat), iar data și ora sunt generate automat de sistem.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ANEXA nr. 2
+    la protocol
+
+
+                         PROCEDURĂ COMUNĂ
+de lucru privind schimbul de informaţii între Agenţia Naţională de Administrare Fiscală şi persoanele juridice de drept privat
+
+Principii:
+
+    • Dreptul de acces al angajaţilor desemnaţi de instituțiile de credit (IC) la Sistemul informatic dedicat al Agenţiei Naţionale de Administrare Fiscală (ANAF) se solicită şi se înregistrează la Centrul Naţional pentru Informaţii Financiare (CNIF), în conformitate cu prezenta procedură.
+    • Identificarea persoanelor se face cu instrumente specifice, respectiv certificate digitale calificate, eliberate în condiţiile Legii nr. 214/2024 privind utilizarea semnăturii electronice, a mărcii temporale şi prestarea serviciilor de încredere bazate pe acestea, pentru asigurarea nivelului de încredere necesar pentru acordarea dreptului de acces.
+    • Persoanelor li se atribuie drepturi de acces la aplicaţii informatice în funcţie de atribuţiile de serviciu stabilite de către instituția de credit.
+
+Realizarea schimbului de date:
+
+    • Schimbul de date se va face prin documente semnate, în format PDF cu fişier xml ataşat, în format standardizat.
+    • Pentru realizarea acestuia, ANAF pune la dispoziţia instituţiilor semnatare ale protocolului, în spaţiul privat de pe portalul ANAF, un sistem informatic prin care utilizatorii vor putea încărca şi descărca documente.
+    • Responsabilitatea obţinerii certificatelor digitale calificate utilizate în procesul de autentificare va rămâne în sarcina participanţilor.
+    • Aceste certificate vor fi utilizate atât pentru autentificarea pe portal a participanţilor, cât şi pentru semnarea electronică a documentelor schimbate între părţi.
+    • Instituţiile emitente de certificate digitale vor fi cele din lista furnizorilor de certificate acreditate, disponibilă pe site-ul Autorităţii pentru Digitalizarea României, secţiunea Societate informaţională, subsecţiunea Semnătura electronică, documentul Registrul furnizorilor de servicii de certificare pentru semnătura electronică.
+    • ANAF, prin CNIF, este responsabilă de administrarea şi disponibilitatea portalului de acces.
+    • Participanţii sunt responsabili cu administrarea sistemelor proprii.
+    • Fiecare solicitare/răspuns va avea asignat un status pentru identificare, iar în termen de maximum 2 zile lucrătoare de la afişarea în aplicaţia web a răspunsului, acestea trebuie descărcate, urmând ca ANAF să mute în arhivă fişierul respectiv în termen de 5 zile lucrătoare de la postare. În cazul în care există probleme de conectare sau de procesare a fişierelor pentru o perioadă mai mare de 3 zile, părţile vor decide de comun acord cum trebuie procedat până la rezolvarea problemei.
+    • Pentru solicitarea unui fişier din arhivă PJDP va trimite un mesaj prin Formularul de contact, secţiunea Asistenţă tehnică servicii informatice, cu subiectul "Protocol PJDP", disponibil pe portalul ANAF, pentru a repune fişierul în spaţiul dedicat.
+    • ANAF va monitoriza dacă fişierele publicate pe portal (solicitări ANAF/răspunsurile la solicitări bancă) sunt descărcate şi va trimite o alertă pe e-mail la adresa stabilită cu o zi înainte ca acestea să fie şterse/mutate.
+    • ANAF va asigura un raport pentru a facilita monitorizarea activităţii pe pagina web, privind încărcarea sau descărcarea acestora, ce va conţine minimum următoarele câmpuri: numele fişierului, data încărcării, data descărcării şi utilizatorul, potrivit art. ........ din Ordinul preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 146/2022 pentru aprobarea condiţiilor de furnizare a informaţiilor, modelului-cadru al protocolului de colaborare, procedurii privind schimbul de informaţii între Agenţia Naţională de Administrare Fiscală şi persoanele juridice de drept privat semnatare, precum şi a modalităţilor de acces în sistemele informatice dedicate conform art. 70^1 alin. (1) lit. b) din Legea nr. 207/2015 privind Codul de procedură fiscală.
+
+    • Transmitere/solicitare date de la IC la ANAF:
+
+    - IC va transmite:
+    • un fişier de solicitare, conform specificaţiilor din anexa A (disponibil pe platforma informatică dedicată), pentru a obţine informaţii despre:
+    1. veniturile persoanelor fizice: salariaţi sau pensionari pe ultimii trei ani;
+    2. veniturile persoanelor fizice care desfășoară activități economice în mod independent sau exercită profesii liberale pe perioada ultimilor trei ani, respectiv ultimele trei declaraţii de impunere depuse;
+    3. situaţiile financiare ale persoanelor juridice pe perioada ultimilor trei ani fiscali încheiaţi, inclusiv informaţiile aferente perioadei cuprinse între ultimul an fiscal încheiat şi data solicitării acestora.
+    Termenul de răspuns pentru fişierul electronic va fi conform celor specificate în protocol, răspunsul în format hârtie fiind transmis prin mijloace tradiţionale, urmând să ajungă ulterior, în cazul în care este solicitat.
+    - ANAF va transmite în termen de o zi lucrătoare, cu excepţia cazurilor de forţă majoră:
+    • un fişier de răspuns conform specificaţiilor din anexa B1 (disponibil pe platforma informatică dedicată), pentru a trimite informaţii despre veniturile persoanelor fizice. Răspunsul ANAF va conţine tot atâtea înregistrări câte coduri de identificare fiscală au fost trimise în solicitare;
+    • un fişier de răspuns conform specificaţiilor din anexa B2 (disponibil pe platforma informatică dedicată) însoţit de un fişier PDF, pentru a trimite informaţii despre veniturile persoanelor juridice. Răspunsul ANAF va conţine informaţii despre veniturile unei singure persoane juridice, în cazul în care în solicitare se regăseşte un singur CIF/CUI. Ca răspuns la o solicitare ce conţine CIF/CUI-uri multiple, se va returna un fişier de eroare.
+    În cazul în care se solicită informaţiile în format hârtie pentru un fişier trimis deja în format electronic, solicitarea se va trimite în format hârtie şi răspunsul va fi trimis doar în format hârtie.
+    • Modelul de date specific fiecărui tip de informaţie
+    • Termenul de transmitere a răspunsurilor
+    • Denumirea standardizată a fişierelor
+    - ANAF va pune la dispoziţia participanţilor:
+    • schema xsd pentru toate tipurile de fişiere xml schimbate de părţi;
+    • aplicaţia de împachetare a fişierului xml într-un fişier PDF şi semnare a acestuia cu certificatul digital;
+    • aplicaţia de extragere a fişierului xml ataşat fişierului PDF.
+    - Corectarea erorilor de validare
+    • Pentru introducerea în baza de date a ANAF a informaţiilor din fişierele transmise se efectuează validarea fişierelor primite (verificarea semnăturii, validarea fişierului xml).
+    • În cazul în care există erori de validare şi datele nu se pot introduce în bază se generează un mesaj de eroare, care se transmite unităţii expeditoare. Obligaţia acesteia este să corecteze erorile şi să trimită o nouă cerere.
+    • După corecţie se retransmite fişierul cu o denumire diferită de cea a fişierului cu erori.
+
+Continuitatea:
+
+    • În cazul în care IC nu pot descărca fişierele în format electronic sau nu primesc răspuns la o solicitare, acestea se vor adresa serviciului HelpDesk prin Formularul de contact, secţiunea Asistenţă tehnică servicii informatice, cu subiectul "Protocol PJDP", disponibil pe portalul ANAF.
+    • În cazurile în care platforma nu este funcţională, timpii de răspuns al ANAF sau IC se vor majora corespunzător.
+    • În cazul în care apar alte probleme de comunicaţie/procesare a documentelor cele două părţi vor discuta şi vor alege de comun acord o soluţie pentru rezolvarea problemei.
+
+                              *
+
+    F2101 - Structura propusă pentru XML solicitare făcută de IC
+    F2102 - Structura propusă pentru XML răspuns ANAF - venituri persoane fizice
+    F2103 - Structura propusă pentru XML răspuns ANAF - venituri persoane juridice
+    Specificaţiile tehnice (de exemplu, structurile fişierelor F2101, F2102 şi F2103) pentru fişierele de schimb de informaţii se publică şi se actualizează pe platformele dedicate.
+    În condiţiile în care structura anexelor suferă modificări, acestea vor fi efectuate fără a fi necesară modificarea protocolului prin act adiţional, IC fiind notificate prin platforma informatică.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ANEXA nr. 3
+    la protocol
+
+                         FORMULAR DE ACCEPTANŢĂ 
+
+    Prin prezenta se certifică faptul că au fost finalizate:
+    - dezvoltarea de ambele părţi a sistemelor informatice care permit schimbul fişierelor agreate, în conformitate cu specificaţiile Protocolului de colaborare şi ale procedurii de lucru;
+    - testarea de ambele părţi a tuturor modulelor sistemului informatic (Portal), în conformitate cu specificaţiile Protocolului de colaborare şi ale Procedurii de lucru.
+    Reprezentanţii tehnici ai părţilor certifică faptul că soluţia poate fi promovată în producţie în termen de 5 zile lucrătoare de la semnare:
+ ______________________________________________________
+|      IC        | Reprezentant| Funcţie | Semnătura  | Observaţii  | Data |
+|                  | tehnic           |              |                    |                    |          |
+|_________|___________|_______|__________|__________|_____|
+|                  |                      |              |                    |                    |          |
+|_________|___________|_______|__________|__________|_____|
+
+ ___________________________________________________________
+| Agenţia             | Reprezentant | Funcţie | Semnătura  | Observaţii  | Data  |
+| Naţională de     | tehnic             |              |                    |                    |          |
+| Administrare    |                        |              |                    |                    |          |
+| Fiscală              |                        |              |                    |                    |          |
+|_____________|____________|_______|__________|__________|_____|
+|                          |                        |              |                    |                    |          |
+|_____________|____________|_______|__________|__________|_____|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ANEXA nr. 4
+    la protocol
+
+PROCEDURĂ
+privind înrolarea, precum şi modalităţile de acces în platforma dedicată schimbului de informații
+
+1. Principii
+1.1. Dreptul de acces la platforma dedicată schimbului de informații se acordă instituțiilor de credit, denumite în continuare IC, după îndeplinirea condiţiilor prevăzute la art. 3 din ordinul președintelui ANAF nr. ____/2026.
+1.2. Dreptul de acces al IC se exercită de către personalul desemnat în acest scop de către IC dintre angajaţii proprii.
+1.3. Dreptul de acces se solicită şi se înregistrează prin organele fiscale competente, conform prezentei proceduri.
+1.4. Identificarea fizică a persoanelor reprezentante ale IC se face de către reprezentanții organelor fiscale competente în baza informaţiilor prezentate de persoana fizică, reprezentantul legal, împuternicitul sau reprezentantul desemnat din documentele de identitate, de reprezentare sau de împuternicire, după caz, valabile, emise de autorităţile competente conform legii.
+1.5. Persoanelor li se atribuie drepturi de acces, denumite roluri, în funcţie de atribuţiile de serviciu stabilite de către IC.
+1.6. Procesul prin care unei persoane i se atribuie un rol se numeşte înrolare.
+1.7. Unul dintre rolurile atribuite cel puţin unei persoane din cadrul IC semnatare a protocolului este acela de "administrator al drepturilor de acces ale utilizatorilor", pe scurt "administrator de interoperabilitate".
+1.8. Pentru fiecare IC pot fi acordate maximum două roluri "administrator de interoperabilitate".
+1.9. Procedurile de înregistrare a administratorilor de interoperabilitate și cele de înregistrare  a altor categorii de utilizatori sunt diferite.
+1.10. O persoană cu rolul de administrator de interoperabilitate nu poate avea în același timp și rolul de utilizator.
+1.11. Pentru a putea înrola alte categorii de utilizatori este obligatoriu ca IC să aibă cel puţin un administrator de interoperabilitate înrolat.
+1.12. Pentru a putea înrola alte categorii de utilizatori de către administratorul de interoperabilitate nu este necesară prezenţa fizică a persoanei sau prezentarea de documente pe hârtie. 
+1.13. Utilizatorii platformei sunt gestionați exclusiv de către administratorii de interoperabilitate.
+1.14. IC asigură mijloacele de verificare a accesului la sistemul informatic şi înscrie motivul accesării datelor din sistemul informatic, astfel încât din analiza acestora să rezulte dacă datele au fost accesate în conformitate cu legislaţia în vigoare şi pentru îndeplinirea sarcinilor de serviciu sau în alte scopuri.
+
+2. Înrolarea şi revocarea administratorului de interoperabilitate
+2.1. În vederea înrolării administratorului de interoperabilitate, IC prezintă şi depune, după caz, prin persoana identificată conform pct. 1.4, la organul fiscal prevăzut la pct. 1.3, următoarele documente/fişiere:
+a) prezintă cartea de identitate a persoanei în original;
+b) depune pe suport electronic fişierul de export al certificatului calificat (cu extensia ”.cer”) deţinut de persoană;
+c) formularul de acceptanță (anexa 3 la protocol) semnat de reprezentanții tehnici ai ambelor părți la trecerea de la mediul de test la cel de producție;
+d) depune pe suport hârtie cererea de numire sau revocare a administratorului de interoperabilitate pentru gestionarea drepturilor de acces ale utilizatorilor IC, semnată de persoana identificată conform pct. 1.4, conform modelului prevăzut în anexa care face parte integrantă din prezenta procedură.
+2.2. Înregistrarea persoanelor cu rol de administrator de interoperabilitate se face de către organul fiscal competent în termen de maximum 3 zile lucrătoare de la depunerea documentelor.
+2.3. Organul fiscal prevăzut la pct. 1.3 verifică identitatea persoanei, copiază şi stochează documentul de identitate, verifică corectitudinea datelor înscrise şi stochează documentele depuse pe suport hârtie şi specimenul de semnătură al reprezentantului legal al IC. După verificarea documentelor depuse pe suport hârtie, cererile se avizează de către şeful organului fiscal competent, definit potrivit art. 30 din Codul de procedură fiscală, pentru conformitatea datelor verificate, şi se introduc în sistem, în baza de date a drepturilor de acces, prin aplicaţia informatică disponibilă în acest scop.
+2.4. Se vor înregistra maximum două persoane cu drept de administrator de interoperabilitate pentru o IC.
+2.5. Revocarea dreptului de administrator de interoperabilitate se face de către IC în oricare dintre următoarele situaţii:
+a) persoana cu drept de administrator de interoperabilitate nu mai este angajat al IC;
+b) certificatul calificat utilizat la autentificare de administratorul de interoperabilitate a fost pierdut, furat, distrus etc.;
+c) IC decide să revoce unei persoane dreptul de administrator de interoperabilitate.
+2.6. IC are obligaţia de a anunţa de îndată revocarea dreptului de administrator de interoperabilitate:
+a) folosind sistemul informatic, în cazul administratorului de interoperabilitate care nu are revocat dreptul de administrator; sau
+b) prin prezentarea pe suport hârtie şi depunerea la organul fiscal competent a cererii de numire sau revocare a administratorului de interoperabilitate pentru gestionarea drepturilor de acces ale utilizatorilor IC, semnată de persoana identificată conform pct. 1.4, conform modelului prevăzut în anexa la prezenta procedură.
+2.7. În situaţia în care a expirat perioada de valabilitate a instrumentului de autentificare deţinut de persoana cu drept de administrator de interoperabilitate, reînnoirea certificatului se face prin:
+a) introducerea datelor noului certificat, folosind sistemul informatic, de către administratorul de interoperabilitate care nu are revocat dreptul de administrator; sau
+b) prezentarea pe suport electronic şi depunerea la organul fiscal competent (indicat la pct. 1.3) a fişierului de export (cu extensia ”.cer”) al noului certificat.
+
+3. Obligaţiile administratorului de interoperabilitate
+3.1. Se prezintă personal la organul fiscal prevăzut la pct. 1.3 împreună cu documentele necesare pentru înrolare.
+3.2. Verifică şi certifică realitatea datelor de identificare ale persoanelor pe care le înrolează, precum şi a celorlalte date necesare înrolării.
+3.3. Înrolează persoane cu rol de utilizator al sistemului informatic, conform deciziei reprezentantului legal al IC.
+3.4. Modifică sau revocă, după caz, drepturile de acces ale utilizatorilor, conform deciziei reprezentantului legal al IC.
+3.5. Notifică revocarea drepturilor de acces ale administratorului de interoperabilitate, dacă:
+a) persoana cu drept de administrator de interoperabilitate nu mai este angajat al IC;
+b) certificatul calificat utilizat la autentificare a fost pierdut, furat, distrus etc.;
+c) reprezentantul legal IC ia o decizie în acest sens;
+3.6. Verifică jurnalul de acces al utilizatorilor la sistemul informatic.
+3.7. Asigură salvarea şi păstrarea pe termen de minimum 10 ani a jurnalului de acces al utilizatorilor la sistemul informatic.
+
+4. Gestiunea drepturilor administratorului de interoperabilitate
+4.1. O persoană cu rolul de administrator de interoperabilitate nu poate avea în același timp și rolul de utilizator.
+4.2. Dreptul de administrator de interoperabilitate se alocă automat, după verificarea de către organul fiscal competent a documentelor necesare înrolării.
+4.3. Revocarea dreptului de administrator de interoperabilitate se decide de către reprezentantul legal al IC şi se operează prin sistemul informatic dedicat sau de către organul fiscal competent unde au fost prezentate documentele necesare.
+
+5. Înrolarea şi revocarea utilizatorilor
+5.1. Înrolarea şi revocarea utilizatorilor IC se fac exclusiv de către administratorul de interoperabilitate, prin aplicaţia pusă la dispoziţie în acest scop în sistemul informatic, prin completarea informaţiilor despre persoane şi instrumentele de autentificare deţinute de acestea.
+5.2. În cazul în care persoana cu drept de utilizator nu mai este angajat al IC sau în cazul pierderii, furtului sau distrugerii certificatului calificat utilizat la autentificare sau ori de câte ori IC decide astfel, IC are obligaţia de a lua de îndată, prin administratorul de interoperabilitate, măsurile necesare în vederea retragerii imediate a dreptului de utilizator persoanei care nu mai îndeplineşte condiţiile pentru acest rol.
+
+6. Drepturile şi responsabilităţile utilizatorilor
+6.1. Utilizatorul răspunde de respectarea regulilor de acces la sistemul informatic în conformitate cu drepturile conferite în sistemul informatic şi atribuţiile de serviciu.
+6.2. Utilizatorul IC accesează datele cu caracter personal ale persoanelor fizice numai în contextul atribuţiilor/responsabilităţilor de serviciu.
+6.3. Atribuţiile/Responsabilităţile de serviciu prevăzute la pct. 6.2 trebuie menţionate în fişa postului.
+
+
+
+
+
+
+
+
+
+
+
+ANEXA 
+la procedura privind înrolarea, precum şi modalităţile de acces în platforma dedicată schimbului de informații
+
+CERERE
+de numire sau revocare administrator de interoperabilitate ANAF - IC
+
+
+Prin prezenta cerere
+
+__________________________________________________________________________,
+(Se completează denumirea instituției de credit)
+cu codul de identificare fiscală
+
+___________________________________,
+(Se completează CIF,CUI.)
+reprezentată prin
+
+__________________________________________________________________________,
+(Se completează numele şi prenumele reprezentantului legal al instituției de credit - IC)
+în calitate de
+
+____________________________________,
+(Se completează funcţia)
+solicităm (se bifează numai una dintre opţiuni):
+
+înregistrarea cu rol de administrator de interoperabilitate pentru accesul la platforma de schimb de informații ANAF-PJDP
+
+înregistrarea revocării dreptului de administrator de interoperabilitate pentru accesul la platforma de schimb de informații ANAF-PJDP
+  
+pentru urmăoarele persoane:
+
+
+
+
+Semnătura									Data											
+
+ | 
+ | 
+□ | Persoană fizică
+□ | Persoană fizică ce desfășoară activități economice în mod independent sau exercită profesii liberale
+□ | Persoană juridică
+Nume | 
+Prenume | 
+CNP | 
+Act identitate (CI/CEI/Pașaport) | 
+Adresă completă | 
+Telefon / Email | 
+Denumire persoană juridică / persoană fizică ce desfășoară activități economice în mod independent sau exercită profesii liberale | 
+CIF / CUI | 
+Nr. înregistrare | 
+Sediu social / Sediu profesional | 
+Reprezentant legal (nume, funcție, CNP) | 
+Telefon / Email | 
+□ | Venituri salariale
+□ | Pensii
+□ | Cedarea folosinței bunurilor
+□ | Investiții
+□ | Alte venituri
+□ | Existența unui cont de plăți
+□ | Tipul contului
+□ | Instituția unde este deschis contul
+□ | PJDP (selectați din lista disponibilă în sistem)
+□ | Inițierea/derularea relaţiilor contractuale specifice activităţii entității solicitante.
+□ | Realizarea intereselor legitime ale entității solicitante.
+□ | Îndeplinirea obligaţiilor legale ce îi revin entității solicitante.
+Exprim acordul de consultare | DA □ / NU □
+Exprim acordul privind prelucrarea datelor personale | DA □ / NU □
+Nume | Prenume | CNP | Funcţia | Telefon | E-mail
+ |  |  |  |  | 
+ |  |  |  |  | 
+Denumire persoană juridică | 
+CUI | 
+Nr. înregistrare | 
+Sediu social | 
+Reprezentant legal (nume, funcție, CNP) | 
+Telefon / Email | 
+□ | Declarația D100
+□ | Declarația D101
+□ | Declarația D300
+□ | INSTITUȚII DE CREDIT reglementate de OUG nr. 99/2006 semnatare ale Anexei nr. 2 la OPANAF ____/2026 (selectați din lista disponibilă în sistem)
+□ | Inițierea/derularea relaţiilor contractuale specifice activităţii entității solicitante.
+□ | Realizarea intereselor legitime ale entității solicitante.
+□ | Îndeplinirea obligaţiilor legale ce îi revin entității solicitante.
+Exprim acordul de consultare | DA □ / NU □
+Exprim acordul privind prelucrarea datelor personale | DA □ / NU □
+Nume | Prenume | CNP | Funcţia | Telefon | E-mail
+ |  |  |  |  | 
+ |  |  |  |  | 
