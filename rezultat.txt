@@ -1,7 +1,18 @@
 SURSE DE PROIECTE
 ────────────────────────────────────────────────────────────
-ANAF                               4 proiecte
-    NOU  Proiect de ordin al presedintelui ANAF pentru aprobarea condiţiilor de  (2/2 în text)
+ANAF                              12 proiecte
+    NOU  ANAF lanseazÄ douÄ aplicaÈii gratuite, pentru toate detaliile CLICK  (0/1 în text)
+    NOU  Control A.N.A.F. preÈuri de transfer Èi exporturi de profit A.N.A.F.  (0/1 în text)
+    NOU  Transferuri semnificative de fonduri cÄtre persoane fizice afiliate d  (0/1 în text)
+    ! Transferuri semnificative de fonduri cÄtre persoane fizice  — 404 Client Error: Not Found for url: https://static.anaf.ro/
+    ! ANAF va lansa platforma digitalÃ£ eLicitatiiANAF pentru publ — 404 Client Error: Not Found for url: https://static.anaf.ro/
+    NOU  Cum se aplicÄ modificÄrile Codului de procedurÄ fiscalÄ Ã®n domeni  (0/1 în text)
+    NOU  Proiect de ordin al preÈedintelui AgenÈiei NaÈionale de Administrar  (4/5 în text)
+    NOU  Proiect de ordin al preÈedintelui AgenÈiei NaÈionale de Administrar  (5/5 în text)
+    NOU  Proiect de Ordin al PreÈedintelui AgenÈiei NaÈionale de Administrar  (4/4 în text)
+    ! Proiect de Ordin al PreÈedintelui AgenÈiei NaÈionale de A — 404 Client Error: Not Found for url: https://static.anaf.ro/
+    NOU  Proiect de ordin al preÅedintelui ANAF pentru aprobarea Procedurii de  (4/4 în text)
+    NOU  Proiect de ordin al preÈedintelui ANAF pentru modificarea Èi complet  (2/2 în text)
 Ministerul Finanțelor             21 proiecte
 Ministerul Economiei              EROARE: HTTPSConnectionPool(host='economie.gov.ro', port=443): Max retries exc
 Ministerul Muncii                 EROARE: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exce
@@ -12,17 +23,103 @@ Ministerul Agriculturii           EROARE: HTTPSConnectionPool(host='www.madr.ro'
 e-consultare (agregator)          EROARE: 500 Server Error: Internal Server Error for url: https://e-consultare.
 
 Caut acte publicate care să corespundă proiectelor deschise…
-  18 titluri de acte citite.
+  21 titluri de acte citite.
 
 ════════════════════════════════════════════════════════════
 
-PROIECTE NOI — 1
+PROIECTE NOI — 9
 
-  ANAF · 2026-09-11
-  Proiect de ordin al presedintelui ANAF pentru aprobarea condiţiilor de furnizare a informaţiilor, mo
-  domenii: Fiscal general, Raportări și declarații, Transport rutier
-  termen observații: 2026-09-21  (9 zile rămase)
-  text: arhiva/2026-09-11/ANAF/20260911135604_831-proiect11_sept.zip/text/
+  ANAF · ?
+  ANAF lanseazÄ douÄ aplicaÈii gratuite, pentru toate detaliile CLICK AICI
+  domenii: Fiscal general, Raportări și declarații
+  text: arhiva/fara-data/ANAF/20260826180239_com_20782_2026august2026.pdf/text/
+
+  ANAF · 2026-03-26
+  Control A.N.A.F. preÈuri de transfer Èi exporturi de profit A.N.A.F., prin DirecÈia GeneralÄ Reg
+  domenii: Fiscal general, Raportări și declarații, Import-export
+  termen observații: 2026-04-05  (EXPIRAT de 162 zile)
+  text: arhiva/2026-03-26/ANAF/20260326115002_com_319_26martie2026.pdf/text/
+
+  ANAF · 2026-03-24
+  Transferuri semnificative de fonduri cÄtre persoane fizice afiliate din cadrul aceluiaÈi circuit e
+  domenii: Fiscal general, Raportări și declarații, Transport rutier, Finanțări, ajutor de stat
+  termen observații: 2026-04-03  (EXPIRAT de 164 zile)
+  text: arhiva/2026-03-24/ANAF/20260325144601_com_318_25martie2026.pdf/text/
+
+  ANAF · 2026-01-13
+  Cum se aplicÄ modificÄrile Codului de procedurÄ fiscalÄ Ã®n domeniul eÈalonÄrilor la platÄ, Ã
+  domenii: Fiscal general, Raportări și declarații
+  termen observații: 2026-01-23  (EXPIRAT de 234 zile)
+  text: arhiva/2026-01-13/ANAF/20260113142824_com_2027_2013ian2026.pdf/text/
+
+  ANAF · 2026-03-30
+  Proiect de ordin al preÈedintelui AgenÈiei NaÈionale de Administrare FiscalÄ pentru aprobarea mo
+  domenii: Fiscal general, Raportări și declarații
+  termen observații: 2026-04-09  (EXPIRAT de 158 zile)
+  text: arhiva/2026-03-30/ANAF/20260330163742_detalii_proiect.zip/text/
+
+  ANAF · 2026-03-30
+  Proiect de ordin al preÈedintelui AgenÈiei NaÈionale de Administrare FiscalÄ pentru aprobarea mo
+  domenii: Fiscal general, Raportări și declarații
+  termen observații: 2026-04-09  (EXPIRAT de 158 zile)
+  text: arhiva/2026-03-30/ANAF/20260122154848_detalii_proiect.zip/text/
+
+  ANAF · 2026-03-24
+  Proiect de Ordin al PreÈedintelui AgenÈiei NaÈionale de Administrare FiscalÄ privind aprobarea p
+  domenii: Fiscal general, Raportări și declarații
+  termen observații: 2026-04-03  (EXPIRAT de 164 zile)
+  text: arhiva/2026-03-24/ANAF/20260324165605_detalii_proiect.zip/text/
+
+  ANAF · 2026-03-24
+  Proiect de ordin al preÅedintelui ANAF pentru aprobarea Procedurii de Ã®nregistrare a sediilor secu
+  domenii: Fiscal general, Salarizare și muncă, Raportări și declarații
+  termen observații: 2026-04-03  (EXPIRAT de 164 zile)
+  text: arhiva/2026-03-24/ANAF/20260324142257_311-ordin-24mar2026.zip/text/
+
+  ANAF · 2025-12-22
+  Proiect de ordin al preÈedintelui ANAF pentru modificarea Èi completarea Anexei nr. 1 la OPANAF nr
+  domenii: Fiscal general, Raportări și declarații
+  termen observații: 2026-01-01  (EXPIRAT de 256 zile)
+  text: arhiva/2025-12-22/ANAF/20251222115036_proiect-22dec.zip/text/
+
+════════════════════════════════════════════════════════════
+
+POSIBILE POTRIVIRI — de confirmat de tine
+
+  PROIECT: Proiect de ordin al preÈedintelui AgenÈiei NaÈionale de Administrare FiscalÄ pentru ap
+           publicat 2026-03-30
+    → 92%  30 martie 2026 | Detalii proiect Proiect de ordin al preÈedintelui AgenÈiei NaÈion
+           (titluri asemănătoare (92%); sursa: ANAF — alte acte normative)
+    Dacă e corect, în index.json pune:
+      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
+
+  PROIECT: Proiect de ordin al preÈedintelui AgenÈiei NaÈionale de Administrare FiscalÄ pentru ap
+           publicat 2026-03-30
+    → 92%  30 martie 2026 | Detalii proiect Proiect de ordin al preÈedintelui AgenÈiei NaÈion
+           (titluri asemănătoare (92%); sursa: ANAF — alte acte normative)
+    Dacă e corect, în index.json pune:
+      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
+
+  PROIECT: Proiect de Ordin al PreÈedintelui AgenÈiei NaÈionale de Administrare FiscalÄ privind a
+           publicat 2026-03-24
+    → 94%  24 martie 2026 | Detalii proiect Proiect de Ordin al PreÈedintelui AgenÈiei NaÈion
+           (titluri asemănătoare (94%); sursa: ANAF — alte acte normative)
+    Dacă e corect, în index.json pune:
+      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
+
+  PROIECT: Proiect de ordin al preÅedintelui ANAF pentru aprobarea Procedurii de Ã®nregistrare a sed
+           publicat 2026-03-24
+    → 92%  24 martie 2026 | Detalii proiect Proiect de ordin al preÅedintelui ANAF pentru aprob
+           (titluri asemănătoare (92%); sursa: ANAF — alte acte normative)
+    Dacă e corect, în index.json pune:
+      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
+
+  PROIECT: Proiect de ordin al preÈedintelui ANAF pentru modificarea Èi completarea Anexei nr. 1 la
+           publicat 2025-12-22
+    → 92%  22 decembrie 2025 | Detalii proiect Proiect de ordin al preÈedintelui ANAF pentru mo
+           (titluri asemănătoare (92%); sursa: ANAF — alte acte normative)
+    Dacă e corect, în index.json pune:
+      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
 
 ════════════════════════════════════════════════════════════
 

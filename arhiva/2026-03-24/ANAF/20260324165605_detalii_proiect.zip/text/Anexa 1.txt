@@ -1,0 +1,228 @@
+ANEXA nr. 1
+
+PROCEDURA
+de vânzare la licitație, prin mijloace electronice, a bunurilor sechestrate și a celor intrate, potrivit legii, în proprietatea privată a statului
+
+CAPITOLUL I Dispoziții generale 
+1.1. Procedura reglementează vânzarea la licitație, prin mijloace electronice, a bunurilor sechestrate și a celor intrate, potrivit legii, în proprietatea privată a statului.
+1.2. Vânzarea la licitație prin mijloace electronice a bunurilor se realizează de către organele stabilite potrivit art. 220 alin. (21) lit. b) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, denumită în continuare Cod de procedură fiscală și de către organele de valorificare stabilite potrivit prevederilor Ordonanței Guvernului nr. 14/2007 pentru reglementarea modului și condițiilor de valorificare a bunurilor intrate, potrivit legii, în proprietatea privată a statului, republicată, cu modificările și completările ulterioare, denumită în continuare Ordonanța Guvernului   nr. 14/2007.
+1.3. În sensul prezentei proceduri, termenii de mai jos au următoarele semnificaţii:
+	a) eLicitațiiANAF - platformă informatică de licitații on-line (On-line asset sales OAS) dedicată valorificării bunurilor intrate, potrivit legii, în proprietatea privată a statului, precum și a celor sechestrate în procedura de executare silită;  
+	b) Spațiul Privat Virtual (SPV) – serviciul/sistemul de comunicare prin mijloace electronice de transmitere la distanţă pus la dispoziție gratuit și dezvoltat de Ministerul Finanţelor/ANAF;
+	c) utilizator extern - orice persoană care accesează platforma eLicitațiiANAF în vederea vizualizării bunurilor pentru care se realizează publicitatea sau licitația publică;
+	d) ofertant - participantul la licitație pentru care înscrierea la licitație a fost validată  și a înregistrat o ofertă de preț pe platforma eLicitațiiANAF;
+e) autentificarea – proces electronic care permite confirmarea identificării electronice a unei persoane fizice, persoane juridice sau a altei entităţi fără personalitate juridică, prin tehnici şi mijloace de identificare electronică, în vederea obţinerii anumitor drepturi în cadrul platformei eLicitațiiANAF, în baza identităţii persoanei fizice, persoanei juridice sau a altei entităţi fără personalitate juridică;
+    	f) certificat calificat - certificat calificat eliberat de furnizorii de servicii de certificare, acreditaţi în condiţiile Legii nr. 214/2024 privind utilizarea semnăturii electronice, a mărcii temporale şi prestarea serviciilor de încredere bazate pe acestea sau ale Regulamentului (UE) nr. 910/2014 al Parlamentului European şi al Consiliului din 23 iulie 2014 privind identificarea electronică şi serviciile de încredere pentru tranzacţiile electronice pe piaţa internă şi de abrogare a Directivei 1999/93/CE, denumit în continuare Regulamentul (UE) nr. 910/2014;
+	g) ID ofertant – numărul unic de identificare atribuit fiecărui ofertant care se înscrie la licitație, prin intermediul căruia sunt anonimizate datele cu caracter personal;
+h) ID licitație – numărul unic de identificare atribuit fiecărei licitații organizate prin intermediul platformei eLicitațiiANAF, care se utilizează la efectuarea plății taxei de participare la licitație/prețului ofertat prin inserarea acestuia în documentul de plată în cadrul câmpului ”număr de evidență a plății”;
+i) Punctul central - organul stabilit prin ordin al preşedintelui Agenţiei Naţionale de Administrare Fiscală, denumită în continuare ANAF, potrivit art. 220 alin. (2^1) lit. b) din Codul de procedură fiscală, prin intermediul căruia se realizează activitatea de vânzare la licitație a bunurilor prin procese electronice masive.
+1.4. Procedura de organizare a licitației, respectiv publicitatea bunurilor și derularea licitației efective, se urmărește și se gestionează, prin intermediul platformei                          eLicitațiiANAF, de către Punctul central.
+
+CAPITOLUL II Publicitatea bunurilor
+2.1. În vederea organizării licitației prin mijloace electronice, zilnic, aplicațiile informatice prin intermediul cărora se gestionează bunurile sechestrate, precum și cele intrate, potrivit legii, în proprietatea privată a statului, transmit electronic informațiile necesare derulării procedurii de organizare a licitațiilor în vederea procesării acestora în platforma                eLicitațiiANAF. După procesarea și validarea informațiilor aferente bunurilor prin intermediul platformei eLicitațiiANAF, acestea se preiau automat în platformă.
+2.2 În situația în care bunurile pentru care se realizează procedura de organizare a licitației prin intermediul platformei eLicitațiiANAF, prezintă elemente particulare, cum ar fi deteriorarea bunului mobil sau imobil ori necesitatea evacuării bunului imobil, executorul fiscal are obligația de a prelucra aceste informații în aplicația informatică prin intermediul căreia se gestionează bunurile sechestrate.
+2.3. Fișierele media aferente bunurilor mobile și imobile, se încarcă în platforma                eLicitațiiANAF de către executorii fiscali din cadrul organelor de executare silită și funcționarii din cadrul structurilor de valorificare a bunurilor intrate, potrivit legii, în proprietatea privată a statului, manual sau automat, după caz, concomitent cu preluarea informațiilor aferente bunurilor. În cazul bunurilor imobile, fișierele media vor conține fotografii cu exteriorul imobilului (ex. scara blocului ori a casei/vilei), o captură de ecran cu harta locației în care se află imobilul prin utilizarea serviciului de cartografiere online, cum ar fi cel dezvoltat de Google ce se regăsește pe site-ul https://www.google.com/maps, precum și orice ale imagini/poze relevante pentru realizarea publicității bunului. În situația în care bunurile au elemente particulare, inclusiv de deteriorare a acestora, fișierele media vor cuprinde în mod obligatoriu imagini concludente din care să rezulte această constatare, astfel încât ofertanții să fie în cunoștință de cauză la momentul participării la licitație.
+2.4. Zilnic, odată cu preluarea informațiilor despre bunuri și a fișierelor media aferente acestora, Punctul central, prin intermediul platformei eLicitațiiANAF, realizează publicitatea bunurilor prin încărcarea acestora, în mod automat, în secțiunea ”Publicitate bunuri”. Concomitent, platforma eLicitațiiANAF transmite ID licitație pentru fiecare bun, automat, către aplicațiile informatice prin intermediul cărora se gestionează bunurile sechestrate, precum și cele intrate, potrivit legii, în proprietatea privată a statului.
+2.5. În situația în care prin intermediul platformei eLicitațiiANAF se identifică faptul că nu au fost încărcate fișierele media aferente bunurilor pentru care s-au preluat informațiile, bunurile nu se încarcă în secțiunea de “Publicitate bunuri”. 
+2.6. Publicitatea vânzării bunurilor se efectuează cu 30 de zile înainte de data fixată pentru desfăşurarea licitaţiei. Publicitatea vânzării bunurilor se consideră a fi efectuată prin preluarea informațiilor și fișierelor media aferente acestora în secțiunea ”Publicitate bunuri”, fără a mai fi necesară emiterea de către organul de executare/valorificare a unui anunț.
+2.7. Pentru fiecare termen de licitație se realizează o nouă publicitate a vânzării bunului, aplicându-se în mod corespunzător prevederile  punctului 2.6. 
+2.8. Secțiunea ”Publicitate bunuri” conține cel puțin următoarele informații:
+ denumirea structurii cu atribuții de valorificare a bunurilor intrate, potrivit legii, în proprietatea privată a statului, sau ale organului de executare care a sechestrat bunul după caz, precum și date de contact pentru furnizarea de informații suplimentare;
+ informații privind bunurile pentru care se realizează procedura de publicitate, descrierea lor sumară, precum și fișiere media relevante pentru vizualizarea acestora;
+ preţul de evaluare ori prețul de pornire al licitației, după caz, pentru fiecare bun;
+ indicarea, dacă este cazul, a drepturilor reale și a privilegiilor care grevează bunurile;
+ timpul rămas până la începerea licitației;
+ invitația, pentru toți cei care pretind vreun drept asupra bunurilor, să înștiințeze despre aceasta organul de executare silită înainte de începerea licitației, în cazul bunurilor sechestrate;
+ mențiunea că ofertanții sunt obligați să plătească o taxă de participare reprezentând 10% din prețul de pornire a licitației;
+ obligații ce revin cumpărătorului potrivit prevederilor legale speciale, cum ar fi obligațiile de mediu, obligațiile de conservare a patrimoniului național sau altele asemenea;
+ alte informații de interes pentru cumpărător, dacă sunt cunoscute;
+ datele și intervalul orar în care se poate realiza vizionarea bunului de către orice persoană interesată.
+2.9. Despre data și ora începerii licitației organul de executare silită/organul de valorificare trebuie să înștiințeze debitorul, custodele, administratorul-sechestru, precum și titularii drepturilor reale și ai sarcinilor care grevează bunul urmărit.
+2.10. În perioada de publicitate, orice persoană interesată are posibilitatea optării pentru vizionarea bunului la una dintre datele menționate, în cadrul unui interval orar ce poate fi selectat pe platforma eLicitațiiANAF, în perioada prevăzută la pct. 2.6.
+2.11. Informații privind statusul programării de vizionare a bunului se regăsesc în contul utilizatorului extern, accesând ”Programările mele”, care pot fi: 
+”Confirmată” - atunci când utilizatorul extern a selectat una din datele și intervalul orar din platformă. În cazul în care se dorește reprogramarea, utilizatorul extern anulează programarea existentă și crează o nouă programare.
+b) ”Anulată” - solicitată de către utilizatorul extern atunci când acesta nu se poate prezenta la vizionare.
+
+CAPITOLUL III Procedura de înregistrare și autentificare pe platforma eLicitațiiANAF
+3.1. Persoanele care doresc să utilizeze platforma eLicitațiiANAF trebuie să se înregistreze în vederea autentificării în aceasta.
+3.2 Pentru înregistrare utilizatorii externi cu domiciliul fiscal sau înregistrati fiscal în România, au obligația înrolării în SPV, prevederile art. 80 din Codul de procedură fiscală aplicându-se în mod corespunzător.
+3.3 Pentru înregistrarea ca utilizatori externi, persoanele fizice, persoanele juridice şi alte entităţi fără personalitate juridică străine fără domiciliul fiscal sau neînregistrate fiscal în România, au obligația înrolării prin intermediul formularului web disponibil în portalul ANAF. 
+3.4. Autentificarea se realizează în baza certificatului digital sau a identificatorului utilizatorului extern reprezentând: utilizator, parolă şi cod de autentificare OTP.
+
+CAPITOLUL IV Derularea licitației publice prin platforma eLicitațiiANAF
+4.1. După expirarea termenului de 30 de zile în care se realizează publicitatea bunurilor, se preiau automat în secțiunea ”Licitații în derulare” informații privind bunurile și fișierele media aferente.
+4.2. Perioada de derulare a licitației prin platforma eLicitațiiANAF se stabilește astfel:
+a) pentru bunuri cu o valoare de evaluare mai mică de 20.000 lei, perioada de derulare a licitației este de 5 zile;
+b) pentru bunuri a căror valoare de evaluare este egală sau mai mare de 20.000 lei și mai mică de 50.000 lei, perioada de derulare a licitației este de 7 zile;
+c) pentru bunuri a căror valoare de evaluare este egală sau mai mare de 50.000 lei, perioada de derulare a licitației este de 10 zile. 
+4.3. Termenii și condițiile pentru participare la licitație de către utilizatorii externi sunt:
+să se autentifice în platforma eLicitațiiANAF potrivit Capitolului III Procedura de autentificare a utilizatorilor externi pe platforma eLicitațiiANAF;
+să se înscrie la licitație în perioada de derulare a licitației prevăzută la pct. 4.2.;
+să plătească taxa de participare la licitație în termenul prevăzut la pct. 4.2. prin modalitățile prevăzute la pct. 5.2;
+să declare pe propria răspundere că depune împuternicirea, în original sau procura în formă autentică la momentul semnării procesului-verbal de adjudecare, în situaţia în care la licitaţie, aceasta participă în calitate de persoană împuternicită de către ofertant, iar ofertantul pe care îl reprezintă este declarat adjudecatar. 
+să încarce orice alte documente care dovedesc calitatea prevăzută de lege pentru achiziția bunurilor ce necesită autorizații specifice, precum și orice alt document considerat necesar în procedura de valorificare a bunului, după caz;
+să accepte termenii și condițiile privind utilizarea platformei eLicitațiiANAF;
+să accepte termenii și condițiile privind Regulamentul de organizare și desfășurare a licitației.
+4.4. Validarea înscrierii la licitație a utilizatorului extern se realizează numai după verificarea automată, prin intermediul platformei eLicitațiiANAF, a respectării de către acesta a termenilor și condițiilor prevăzute la pct. 4.3. lit. a)-c) și e)-g). 
+4.5. După validarea înscrierii la licitației, utilizatorul extern poate înregistra oferta de preț. Oferta de preț nu poate fi mai mică decât prețul de pornire la licitație, respectiv valoarea rezultată ca urmare a aplicării pașilor de licitație prevăzuți la pct. 4.9.
+4.6. Preţul de pornire la licitaţie, în cazul bunurilor sechestrate, se stabilește astfel: 
+a) pentru prima licitaţie - preţul de evaluare;
+b) pentru a doua licitaţie - preţul de evaluare diminuat cu 25%; 
+c) pentru a treia și a patra licitaţie - preţul de evaluare diminuat cu 50%. Dacă după cea de-a patra licitație bunurile nu au fost valorificate, licitațiile se reiau pentru o perioadă de maxim 12 luni de la data încărcării pe platformă, cu preţul de pornire a licitaţiei care nu poate fi mai mic de 50% din preţul de evaluare a bunurilor. În situația în care nu au fost valorificate, bunurile se elimină de pe platformă, urmând ca organul de executare silită să procedeze la reevaluarea bunurilor imobile, iar în cazul bunurilor mobile organul de executare analizează oportunitatea reevaluării acestora, valorificarea acestora prin alte modalități prevăzute de lege sau restituirea lor către debitor considerând că acestea nu au valoare de piață.
+4.7. Prețul de pornire la licitație, în cazul bunurilor intrate, potrivit legii, în proprietatea privată a statului, este stabilit de către comisia de evaluare și este preluat automat din aplicația informatică de gestiune a acestor bunuri, astfel: 
+a) pentru prima licitaţie - preţul de evaluare;
+b) pentru a doua licitaţie - preţul de evaluare diminuat cu cel mult 25%; 
+c) pentru a treia licitaţie - preţul de evaluare diminuat cu cel mult 50%;
+d) pentru următoarele licitații - preţul de evaluare diminuat cu cel mult 75%.
+4.8. Ori de câte ori se înregistrează o ofertă de preț mai mare decât cea înregistrată de către alți ofertanți, aceștia vor primi mesaje în contul creat pe platforma eLicitațiiANAF, putând fi vizualizate accesând ”Notificări”, prin care sunt informați cu privire la ultima ofertă înregistrată. Oricare dintre ofertanții care au primit astfel de mesaje poate înregistra o nouă ofertă care va respecta pașii de licitare prevăzuți la pct. 4.9.
+4.9. Pasul de licitare al prețului este cuprins între 5 – 15% din preţul de pornire a licitaţiei, astfel:
+a) pentru bunuri al căror preț de pornire la licitație este mai mic de 20.000 lei, pasul de licitație se stabilește la 15%; 
+b) pentru bunuri al căror preț de pornire la licitație este egal sau mai mare de 20.000 lei și mai mic de 50.000 lei, pasul de licitație se stabilește la 10%; 
+c) pentru bunuri al căror preț de pornire la licitație este egal sau mai mare de 50.000 lei, pasul de licitație se stabilește la 5%.
+4.10. După expirarea perioadei de derulare a licitației prevăzută la pct. 4.2., se declară câștigător persoana care a oferit prețul cel mai mare, dar nu mai puțin decât prețul de pornire.
+4.11. Dacă se înscrie la licitație un singur ofertant care oferă cel puțin prețul de pornire, acesta este declarat câștigător.
+4.12. În situația în care la cea de-a treia licitație bunul nu a fost vândut, se organizează  cea de-a patra licitație, caz în care bunul sechestrat va fi vândut la cel mai mare preţ oferit, chiar dacă acesta este inferior preţului de pornire a licitaţiei, dar nu mai mic decât 25% din preţul de evaluare al acestuia. Prin excepție, în cazul în care se valorifică bunuri imobile, iar la licitaţie se prezintă un singur ofertant, vânzarea se face doar în condiţiile în care se oferă cel puţin preţul de pornire a licitaţiei.
+4.13. Ofertantul poate opta pentru plata prețului integral sau în rate, în cazul bunurilor sechestrate, sens în care de la momentul comunicării procesului - verbal privind desfășurarea și rezultatul licitației pentru valorificarea bunurilor prin mijloace electronice, până la termenul prevăzut pentru plata prețului integral, acesta poate să-și manifeste opțiunea pentru plata în rate în condițiile art. 253 din Legea 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare. 
+4.14. Dacă în ultimele 15 minute ale perioadei de licitare este depusă cel puțin o ofertă, se aplică automat regula “timp suplimentar”, care este de 60 minute. Acest timp suplimentar este pus la dispoziție ofertanților care au înregistrat oferte de preț, aplicându-se în mod corespunzător prevederile pct. 4.9. 
+4.15. După finalizarea licitației, prin intermediul platformei eLicitațiiANAF se emite un proces - verbal privind desfășurarea și rezultatul licitației pentru valorificarea bunurilor prin mijloace electronice, care se semnează cu semnătura electronică extinsă a Ministerului Finanţelor, bazată pe un certificat calificat și se încarcă participanților la licitație în contul creat pe platforma eLicitațiiANAF, dată de la care acesta se consideră comunicat.
+4.16. În termen de cel mult 5 zile de la comunicarea procesului - verbal privind desfășurarea și rezultatul licitației pentru valorificarea bunurilor prin mijloace electronice, ofertantul declarat câștigător trebuie să plătească prețul integral sau avansul de minimum 50% din preţul ofertat, diminuat cu contravaloarea taxei de participare la licitație, aplicându-se în mod corespunzător prevederile Capitolului V - Reguli privind efectuarea plăților, precum și validarea și înregistrarea acestora în contul deschis special la nivelul Trezoreriei Operative Centrale. 
+4.17. În termen de cel mult 5 zile de la finalizarea licitației, taxa de participare la licitație se restituie sau se deblochează suma indisponibilizată în contul bancar, persoanelor înscrise la licitație care nu au depus oferte, persoanelor înscrise la licitație care au depus oferte și care nu au fost declarați câștigători, precum și celor care s-au înscris la o licitație care ulterior a fost anulată potrivit pct. 6.8. lit. b), respectiv pct. 7.8. lit. b). Nu se restituie taxa de participare la licitație și se face venit la bugetul de stat, participanților la licitație care:
+a) au câștigat licitația, dar au refuzat încheierea procesului-verbal de adjudecare;
+b) au câștigat licitația, dar nu au plătit preţul în termenul prevazut la pct. 4.16.
+4.18. Dacă ofertantul declarat câștigator nu plăteşte preţul în termenul prevăzut la            pct. 4.16., informațiile privind bunul se transferă, în termen de 10 zile de la data comunicării procesului - verbal privind desfășurarea și rezultatul licitației pentru valorificarea bunurilor prin mijloace electronice, în secțiunea ”Publicitate bunuri”, licitația urmând să se reia după expirarea termenului de 30 de zile în care se realizează publicitatea bunurilor. Prețul de pornire la licitație va fi identic cu cel aferent licitației care se reia. În acest caz, ofertantul declarat câștigător, care nu a plătit prețul, este obligat să plătească cheltuielile prilejuite de noua licitație și, în cazul în care prețul obținut la noua licitație este mai mic, diferența de preț. Ofertantul declarat câștigător poate să achite preţul oferit iniţial până la expirarea termenului prevăzut la pct. 2.6, caz în care este obligat numai la plata cheltuielilor cauzate de noua licitație, aplicându-se în mod corespunzător prevederile Capitolului V - Reguli privind efectuarea plăților, precum și validarea și înregistrarea acestora în contul deschis special la nivelul Trezoreriei Operative Centrale. Dacă la următoarea licitaţie bunul nu a fost vândut, ofertantul declarat câștigător care nu a plătit prețul ofertat este obligat să plătească toate cheltuielile prilejuite de urmărirea acestuia.
+4.19. În cazul în care din motive tehnice platforma eLicitațiiANAF nu este disponibilă în ultimele 15 minute ale perioadei de licitare durata licitației se prelungește cu 24 ore de la momentul când aceasta devine disponibilă, cu notificarea automată a participanților la licitație referitor la faptul că platforma a devenit disponibilă, perioada cu care a fost prelungită, respectiv termenul limită de depunere a ofertelor.
+
+CAPITOLUL V Reguli privind efectuarea plăților, precum și validarea și înregistrarea acestora în contul distinct de disponibil deschis la nivelul Trezoreriei Operative Centrale 
+5.1. Taxa de participare la licitație sau diferența de preț până la valoarea de adjudecare ori, după caz, avansul de minim 50% din prețul de adjudecare se plătește în contul 50.67.10 ”Disponibil din sume încasate din vânzarea la licitaţie prin mijloace electronice”, codificat cu codul de identificare fiscală al ofertantului/adjudecatarului, deschis automat la Trezoreria Operativă Centrală la încasarea sumelor de la plătitori, menționând în mod obligatoriu în documentul de plată numărul de evidență a plății care va fi identic cu ID licitație.
+5.2. Modalitățile de plată a taxei de participare la licitație sau diferenței de preț până la valoarea de adjudecare ori, după caz, avansului de minim 50% din prețul de adjudecare și momentul plății acestora sunt:
+a) în cazul plăţilor efectuate prin mandat poştal, data poştei, înscrisă pe mandatul poştal. În cazul mandatelor poştale transmise de unităţile poştale în sistem electronic, momentul plăţii este data poştei astfel cum este aceasta transmisă prin sistemul electronic către Trezoreria Statului;
+   b) în cazul plăţilor efectuate prin decontare bancară, inclusiv internet banking, home banking, mobile banking sau alte mijloace de plată la distanţă puse la dispoziţia debitorilor de instituţiile de credit, data la care băncile debitează contul persoanei care efectuează plata pe baza instrumentelor de decontare specifice, astfel cum această informaţie este transmisă prin mesajul electronic de plată de către instituţia bancară iniţiatoare, potrivit reglementărilor specifice în vigoare;
+   c) în cazul plăţilor online efectuate prin intermediul cardurilor bancare, data la care a fost efectuată tranzacţia, astfel cum este confirmată prin procedura de autorizare a acesteia. În cazul taxei de participare la licitație, suma se blochează în contul bancar al ofertantului.
+5.3. Pentru confirmarea plății taxei de participare la licitație, prin intermediul platformei eLicitațiiANAF se verifică automat creditarea contului prevăzut la pct. 5.1. sau autorizarea plății, după caz.
+5.4. Informaţiile ce trebuie completate de către plătitori în documentele de plată, în rubricile destinate beneficiarului, sunt următoarele:
+    a) în rubrica "Beneficiar" se înscrie denumirea ofertantului/adjudecatarului;
+    b) în rubrica "Cod de identificare fiscală" se înscrie codul de identificare fiscală al ofertantului/adjudecatarului;
+    c) în rubrica "Cod IBAN beneficiar" se înscrie codul IBAN RO06TREZ999506710XXXXXXX;
+    d) în rubrica "La" se înscrie "Trezoreria Operativă Centrală";
+    e) în rubrica "Nr. de evidenţă a plăţii" se completează numărul de evidenţă al licitației, respectiv ID licitație.
+5.5. În cazul în care adjudecatarul a optat pentru plata în rate, diferența de preț se plătește conform condițiilor și termenelor de plată stabilite prin procesul verbal  emis de organul de executare silită conform prevederilor art. 253 alin. (1) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, în contul de disponibil comunicat adjudecatarului, deschis la unitatea teritorială a trezoreriei statului, utilizând numărul de evidență a plății, respectiv ID licitație.  
+5.6. Trezoreria Operativă Centrală validează automat, prin intermediul programului pus la dispoziţia acesteia de Centrul Naţional pentru Informaţii Financiare, viramentele efectuate de către plătitori, în contul prevăzut la pct. 5.1., în funcţie de numărul de evidență al licitației, respectiv ID licitație identificat în platforma eLicitațiiANAF, precum și al existenței unui cod de identificare fiscală al ofertantului/adjudecatarului valid. 
+5.7. În cazul în care viramentele nu sunt validate la nivelul Trezoreriei Operative Centrale potrivit celor înscrise la pct. 5.6., acestea se returnează în contul bancar din care au fost virate, în următoarea zi lucrătoare înregistrării în contabilitate a viramentelor. 
+5.8. Trezoreria Operativă Centrală transmite la sfârșitul fiecărei zile, către platforma          eLicitațiiANAF informațiile din documentele de plată validate potrivit pct. 5.6., respectiv:
+denumire plătitor;
+codul de identificare fiscală al plătitorului;
+codul IBAN al contului plătitorului;
+denumire beneficiar (ofertant/adjudecatar);
+codul de identificare fiscală al beneficiarului (ofertant/adjudecatar);
+codul IBAN al contului 50.67.10;
+numărul de evidență a plății, respectiv ID licitație identificat în platforma                        eLicitațiiANAF;
+numărul documentului de plată;
+data documentului de plată;
+data plății;
+suma înscrisă în documentul de plată;
+codul BIC al instituției la care este deschis contul plătitorului;
+explicațiile menționate în documentul de plată;
+data extrasului, respectiv ziua în care s-a înregistrat plata;
+alte informații.
+5.9. La finalizarea licitației, sumele reprezentând taxa de participare la licitație se restituie ofertanților neadjudecatari sau se fac venit la bugetul de stat în situațiile prevăzute la pct. 4.17., platforma eLicitațiiANAF transmițând automat către Trezoreria Operativă Centrală informațiile necesare întocmirii documentelor de plată, respectiv:
+denumirea plătitorului;
+codul de identificare fiscală al plătitorului;
+codul IBAN al contului plătitorului;
+denumirea beneficiarului;
+codul de identificare fiscală al beneficiarului;
+codul IBAN al contului beneficiarului;
+numărul de evidență a plății respectiv ID licitație identificat în platforma                  eLicitațiiANAF;
+numărul documentului de plată;
+data documentului de plată;
+suma înscrisă în documentul de plată;
+codul BIC al instituției la care este deschis contul beneficiarului sumei;
+explicații referitoare la suma care se virează;
+m) alte informații.
+5.10. La finalizarea licitației, în cazul care ofertantul declarat câștigător a plătit prețul ofertat sau avansul de minimum 50% din preţul ofertat, diminuat cu sumele încasate reprezentând taxe de participare la licitații, prin intermediul platformei eLicitațiiANAF se transmit automat Trezoreriei Operative Centrale informațiile necesare în vederea efectuării operațiunilor de distribuire a sumelor încasate urmare a derulării licitației, către conturile de disponibil cărora se cuvin, deschise la unitățile teritoriale ale trezoreriei statului, respectiv:
+a) denumirea plătitorului -  se înscrie denumirea adjudecatarului;
+b) codul de identificare fiscală al plătitorului - se înscrie CIF/CUI/CNP adjudecatar;
+c) codul IBAN al contului plătitorului - se înscrie codul IBAN RO06TREZ999506710XXXXXXX;
+d) denumirea beneficiarului - în cazul în care distribuirea se efectuează în conturile 50.85.01 - “Sume rezultate din valorificarea bunurior intrate în proprietatea privată a statului în materie civilă“ și 50.85.02 - “Sume rezultate din valorificarea bunurior intrate în proprietatea privată a statului în materie penală” se înscrie denumirea celor 8 direcții generale regionale ale finanțelor publice atribuite în calitate de plătitor de TVA, iar în cazul în care distribuirea se efectuează în contul 50.67.01 - “Disponibil din sume încasate din valorificarea bunurilor în procesul de executare silită” se înscrie denumirea DGRFP București pentru Administrația contribuabili mijlocii și DGAMC/administrațiile sectoarelor municipiului București/AJFP/unitățile fiscale municipale, orășenești și comunale; 
+e) codul de identificare fiscală al beneficiarului - în cazul în care distribuirea se efectuează în conturile 50.85.01 - “Sume rezultate din valorificarea bunurilor intrate în proprietatea privată a statului în materie civilă“ și 50.85.02 - “Sume rezultate din valorificarea bunurior intrate în proprietatea privată a statului in materie penală” se înscrie CIF/CUI celor 8 direcții generale regionale ale finanțelor publice atribuite în calitate de plătitor de TVA, iar în cazul în care distribuirea se efectuează în contul 50.67.01 - “Disponibil din sume încasate din valorificarea bunurilor în procesul de executare silită” se înscrie CIF/CUI DGRFP București pentru Administrația contribuabili mijlocii și DGAMC/administrațiile sectoarelor municipiului București/AJFP/unitățile fiscale municipale, orășenești și comunale;
+f) codul IBAN al contului beneficiarului – în cazul în care distribuirea se efectuează în conturile 50.85.01 - “Sume rezultate din valorificarea bunurior intrate în proprietatea privată a statului în materie civilă“ și 50.85.02 - “Sume rezultate din valorificarea bunurior intrate în proprietatea privată a statului în materie penală” se înscrie condul IBAN al celor 8 direcții generale regionale ale finanțelor publice atribuite în calitate de plătitor de TVA, iar în cazul în care distribuirea se efectuează în contul 50.67.01 - “Disponibil din sume încasate din valorificarea bunurilor în procesul de executare silită” se înscrie condul IBAN al DGRFP București pentru Administrația contribuabili mijlocii și DGAMC/administrațiile sectoarelor municipiului București/AJFP/unitățile fiscale municipale, orășenești și comunale;
+g) numărul de evidență a plății, respectiv ID licitație identificat în platforma            eLicitațiiANAF;
+h) numărul documentului de plată;
+i) data documentului de plată;
+j) suma înscrisă în documentul de plată;
+k) explicațiile  referitoare la suma care se distribuie;
+l) alte informații.
+5.11. În cazul în care sumele restituite de Trezoreria Operativă Centrală reprezentând taxe de participare la licitații potrivit pct. 5.9. se returnează de către instituția de credit în contul din care au fost plătite, acestea se înregistrează de Trezoreria Operativă Centrală în contul de operațiuni în curs de lămurire, din care virează ulterior în conturile 50.05.29 – ”Garanții de participare la licitație în vederea valorificării bunurilor intrate în proprietatea privată a statului în materie penală” și 50.05.33  - ”Garanții de participare la licitație în vederea valorificării bunurilor intrate în proprietatea privată a statului în materie civilă” sau 50.67.01 – ”Disponibil din sume încasate din valorificarea bunurilor în procesul de executare silită”, deschise pe numele beneficiarilor înscriși la pct. 5.10. urmând ca aceștia să le clarifice și să le restituie plătitorilor. 
+5.12. Unitățile teritoriale ale trezoreriei statului transmit zilnic titularilor conturilor prevăzute la pct. 5.10. și 5.11., fişierul cu sumele încasate, indiferent dacă încasarea este aferentă unei licitații efectuate prin intermediul platformei eLicitațiiANAF sau printr-o altă modalitate de valorificare, atașând informațiilor transmise inclusiv numărul de evidență a plății.
+5.13. Funcţiunea contului prevăzut la pct. 5.1 este următoarea:
+a) se creditează cu:
+i) sumele încasate reprezentând taxe de participare la licitații organizate prin intermediul platformei eLicitațiiANAF;
+ii) sumele încasate reprezentând prețul ofertat sau, după caz, avansul de minimum 50% din preţul ofertat, diminuat cu sumele încasate reprezentând taxe de participare la licitații;
+b) se debitează cu:
+i) sumele virate în conturile corespunzatoare de disponibil prevăzute la                  pct. 5.10.;
+ii) sumele reprezentând taxe de participare la licitație de restituit către participanții neadjudecatari; 
+iii) sumele reprezentând taxe de participare la licitație care se virează ca venit la bugetul de stat în condițiile legii.
+
+CAPITOLUL VI Activități efectuate de către organele de executare silită în cazul licitației bunurilor sechestrate 
+6.1 În vederea vizionării bunului de către persoanele interesate, organul de executare stabilește împreună cu debitorul datele și intervalele orare la care se poate organiza vizionarea. Organul de executare silită, în funcție de programările persoanelor interesate efectuate pe platforma eLicitațiiANAF, desemnează doi executori fiscali pentru a asigura prezența la vizionarea bunurilor.
+6.2. Ori de câte ori intervin schimbări cu privire la data sau intervalul orar stabilit pentru organizarea vizionării bunului, executorul fiscal întreprinde demersurile necesare pentru informarea persoanei care a solicitat vizionarea.
+6.3. După efectuarea plății de către ofertantul declarat câștigător a prețului integral sau a avansului de minimum 50% din preţul ofertat, diminuat cu contravaloarea taxei de participare la licitație, prin intermediul platformei eLicitațiiANAF se transmit automat, către aplicația informatică prin care se gestionează bunurile sechestrate, informații referitoare la:
+a) câștigătorul licitației și datele de identificare ale acestuia;
+b) prețul de adjudecare;
+c)  plata prețului sau avansului de minimum 50% din preţul ofertat, după caz;
+d) numărul de rate pentru care a optat;
+e) numărul de evidență a plății, respectiv ID licitație;
+f) orice alte informații înregistrate în platforma eLicitațiiANAF, relevante pentru întocmirea documentelor prevăzute la pct. 6.4. și 6.5.
+6.4. Pe baza informațiilor prevăzute la pct. 6.3., organul de executare silită întocmește procesul-verbal de adjudecare și procesul-verbal de predare-primire, în vederea semnării de către câștigătorul licitației. Odată cu semnarea acestor documente, organul de executare va emite factura pentru vânzarea bunurilor, cu respectarea Legii nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, precum și ale Ordonanței de urgență a Guvernului nr. 120/2021 privind administrarea, funcționarea și implementarea sistemului național privind factura electronică RO e-Factura și factura electronică în România, precum și pentru completarea Ordonanței Guvernului nr. 78/2000 privind omologarea, eliberarea cărții de identitate a vehiculului și certificarea autenticității vehiculelor rutiere în vederea introducerii pe piață, punerii la dispoziție pe piață, înmatriculării sau înregistrării în România, precum și supravegherea pieței pentru acestea, cu modificările și completările ulterioare.
+6.5. În cazul în care adjudecatarul a optat pentru plata în rate a diferenței de preț, odată cu documentele prevăzute la pct. 6.4., organul de executare silită stabileşte condiţiile şi termenele de plată a diferenţei de preţ rămasă după achitarea avansului de minimum 50% din preţul ofertat, prevederile art. 253 din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, aplicându-se în mod corespunzător. Procesul-verbal întocmit de structurile cu atribuții de executare silită devine titlu executoriu, în condițiile în care cumpărătorul nu respectă condițiile și termenele stabilite prin acesta. În acest caz, odată cu întocmirea documentelor prevăzute la pct. 6.4., organul de executare silită instituie sechestru asigurător asupra bunului valorificat cu plata în rate.
+6.6. În cazul în care ofertantul declarat câștigător nu a achitat prețul integral sau avansul de minimum 50% din preţul ofertat, diminuat cu contravaloarea taxei de participare la licitație potrivit pct. 4.16., aceste informații se transmit automat prin intermediul platformei eLicitațiiANAF către aplicația prin care se gestionează bunurile sechestrate, respectiv:
+a) câștigătorul licitației și datele de identificare ale acestuia;
+b) prețul de adjudecare și neplătit;
+c) numărul de evidență a plății, respectiv ID licitație;
+d) orice alte informații înregistrate în platforma eLicitațiiANAF, relevante pentru întocmirea documentului prevăzute la pct. 6.7.
+6.7. În urma reluării licitației potrivit pct. 4.18, în cazul în care se adjudecă bunul unui alt cumpărător la un preț mai mic decât cel ofertat de către câștigătorul licitației inițiale sau bunul nu a fost adjudecat unui alt cumpărător, pe baza informațiilor transmise potrivit          pct. 6.3. și pct. 6.6. organul de executare silită întocmește procesul – verbal privind diferenţa de preţ şi/sau cheltuielile prilejuite de o nouă licitaţie urmare a neplăţii preţului de către adjudecatar, pe care-l comunică ofertantului care nu a plătit prețul.
+6.8. Pe baza informațiilor existente în aplicația informatică prin care se gestionează bunurile sechestrate, transmise automat către platforma eLicitațiiANAF, prin intermediul acesteia, se procedează astfel:
+a) se elimină informațiile despre bun din secțiunea “Publicitate bunuri”, atunci când din informațiile transferate din aplicația informatică prin care se gestionează bunurile sechestrate se constată că:
+i) au fost stinse integral obligațiile fiscale/bugetare restante care au stat la baza instituirii sechestrului bunului;
+ii) a fost anulat/desființat/suspendat titlul de creanță/titlul executoriu prin care au fost stabilite obligațiile fiscale/bugetare restante care au stat la baza instituirii sechestrului bunului; 
+iii)  a fost anulată/desființată/suspendată somația și titlul executoriu care a stat la baza instituirii sechestrului bunului;
+iv) a fost anulat/desființat/suspendat procesul - verbal de sechestru;
+v) a fost suspendată executarea silită;
+vi) orice alte situații care conduc la întreruperea procedurii de publicitate a bunului sechestrat. 
+b) se anulează licitația:
+i) în situațiile prevăzute la lit. a) subpct. i) - iv);
+ii) urmare pronunțării unei hotărâri judecătorești definitive prin care s-a dispus anularea acesteia;
+iii) atunci când organizarea acesteia este afectată de o gravă şi evidentă eroare, respectiv atunci când cauzele care au stat la baza începerii licitației sunt atât de viciate încât, dacă acestea ar fi fost înlăturate anterior sau concomitent începerii licitației, nu ar fi determinat organizarea sa;
+iv) în orice alte situații care conduc la întreruperea procedurii de licitație a bunului sechestrat. 
+c) se modifică informațiile privind bunul pentru care se realizează publicitatea și licitația bunului sechestrat, atunci când au existat erori materiale care au fost corectate de către executorii fiscali în aplicația informatică prin care se gestionează informațiile privind bunurile sechestrate, altele decât cele care conduc la anularea licitației.
+6.9. Ori de câte ori pe platforma eLicitațiiANAF se efectuează operațiuni de natura celor prevăzute la pct. 6.8., prin intermediul acesteia se transmite automat un mesaj utilizatorului extern/ofertantului în contul acestuia special deschis la autentificare pe platformă.
+
+CAPITOLUL VII Activități efectuate de către structurile cu atribuții de valorificare a bunurilor proprietate a statului în cazul licitației bunurilor intrate, potrivit legii, în proprietatea privată a statului  
+7.1. În vederea vizionării bunului de către persoanele interesate, organul de valorificare stabilește datele și intervalele orare la care se poate organiza vizionarea. Organul de valorificare, în funcție de programările persoanelor interesate efectuate pe platforma       eLicitațiiANAF, desemnează persoane cu atribuții pentru a asigura prezența la vizionarea bunurilor.
+7.2. Ori de câte ori intervin schimbări cu privire la data sau intervalul orar stabilit pentru organizarea vizionării bunului, organul de valorificare întreprinde demersurile necesare pentru informarea persoanei care a solicitat vizionarea.
+7.3. După efectuarea plății de către ofertantul declarat câștigător a prețului integral, diminuat cu contravaloarea taxei de participare la licitație, prin intermediul platformei eLicitațiiANAF se transmit automat, către aplicația informatică prin care se gestionează bunurile intrate, potrivit legii, în proprietatea privată a statului, informații referitoare la:
+a) câștigătorul licitației și datele de identificare ale acestuia;
+b) prețul de adjudecare;
+c) plata prețului de adjudecare;
+d) numărul de evidență a plății, respectiv ID licitație;
+e) orice alte informații înregistrate în platforma eLicitațiiANAF, relevante pentru întocmirea documentelor prevăzute la pct. 7.4.
+7.4. Pe baza informațiilor prevăzute la pct. 7.3., organul de valorificare întocmește procesul-verbal de adjudecare și procesul-verbal de predare-primire, în vederea semnării de către câștigătorul licitației. Odată cu semnarea acestor documente, organul de valorificare va emite factura pentru vânzarea bunurilor, cu respectarea Legii nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, precum și ale Ordonanței de urgență a Guvernului nr. 120/2021 privind administrarea, funcționarea și implementarea sistemului național privind factura electronică RO e-Factura și factura electronică în România, precum și pentru completarea Ordonanței Guvernului nr. 78/2000 privind omologarea, eliberarea cărții de identitate a vehiculului și certificarea autenticității vehiculelor rutiere în vederea introducerii pe piață, punerii la dispoziție pe piață, înmatriculării sau înregistrării în România, precum și supravegherea pieței pentru acestea, cu modificările și completările ulterioare. În cazul bunurilor imobile, adjudecatarul preia bunul adjudecat pe baza facturii emise de către organul de valorificare, după plata prețului, diminuat cu taxa de participare la licitație, titlu de proprietate îl constituie contractul de vânzare-cumpărare încheiat în formă autentică, între organul de valorificare și adjudecatar, în termen de 30 de zile de la plata prețului.
+7.5. La data semnării documentelor prevăzute la pct. 7.4. adjudecatarul nu trebuie să figureze cu obligații restante către creditorii fiscali.
+7.6. În cazul în care ofertantul declarat câștigător nu a achitat prețul integral, diminuat cu contravaloarea taxei de participare la licitație potrivit pct. 4.16., aceste informații se transmit automat prin intermediul platformei eLicitațiiANAF către aplicația prin care se gestionează bunurile intrate, potrivit legii, în proprietatea privată a statului, respectiv:
+a) câștigătorul licitației și datele de identificare ale acestuia;
+b) prețul de adjudecare și neplătit;
+c)  numărul de evidență a plății, respectiv ID licitație;
+d) orice alte informații înregistrate în platforma eLicitațiiANAF, relevante pentru întocmirea documentului prevăzute la pct. 7.7.
+7.7. În urma reluării licitației potrivit pct. 4.18., în cazul în care se adjudecă bunul unui alt cumpărător la un preț mai mic decât cel ofertat de către câștigătorul licitației inițiale sau bunul nu a fost adjudecat unui alt cumpărător, pe baza informațiilor transmise potrivit          pct. 7.3. și 7.6. organul de valorificare stabilește sumele datorate de primul adjudecatar, respectiv diferența de preț și cheltuielile ocazionate de organizarea licitației, rămase neacoperite de taxa de participare la licitație depusă, sume care se consemnează într-un proces verbal care se comunică și primului adjudecatar.
+7.8. Pe baza informațiilor existente în aplicația informatică prin care se gestionează bunurile intrate, potrivit legii, în proprietatea privată a statului, transmise automat către platforma eLicitațiiANAF, prin intermediul acesteia se procedează astfel:
+a) se elimină informațiile despre bun din secțiunea “Publicitate bunuri”, atunci când din informațiile transferate din aplicația informatică prin care se gestionează bunurile intrate, potrivit legii, în proprietatea privată a statului se constată că:
+i) a fost anulat/desființat/suspendat actul prin care bunul a intrat în proprietatea privată a statului;
+ii) a fost suspendată licitația prin hotărâre judecătorească;
+iii) orice alte situații care conduc la întreruperea procedurii de publicitate a bunului. 
+b) se anulează licitația:
+i) în situația prevăzută la lit. a) subpct. i);
+ii) urmare pronunțării unei  hotărâri judecătorești definitive prin care s-a dispus anularea organizării licitației;
+iii) atunci când organizarea acesteia este afectată de o gravă şi evidentă eroare, respectiv atunci când cauzele care au stat la baza începerii licitației sunt atât de viciate încât, dacă acestea ar fi fost înlăturate anterior sau concomitent începerii licitației, nu ar fi determinat organizarea sa;
+iv) în orice alte situații care conduc la întreruperea procedurii de licitație a bunului. 
+c) se modifică informațiile privind bunul pentru care se realizează publicitatea și licitația bunului, atunci când au existat erori materiale care au fost corectate în aplicația informatică prin care se gestionează informațiile privind bunurile intrate, potrivit legii, în proprietatea privată a statului, altele decât cele care conduc la anularea licitației.
+7.9. Ori de câte ori pe platforma eLicitațiiANAF se efectuează operațiuni de natura celor prevăzute la pct. 7.8., prin intermediul acesteia se transmite automat un mesaj utilizatorului extern/ofertantului în contul acestuia special deschis la autentificare pe platformă.
+

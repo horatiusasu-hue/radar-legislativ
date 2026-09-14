@@ -1,0 +1,57 @@
+﻿Anexa nr.2
+
+
+INSTRUCŢIUNI
+
+de completare a formularului 181 „Declarație privind valoarea medie anuală a adaosului comercial”
+
+
+    I.  Depunerea declaraţiei
+
+    1. Declarația privind valoarea medie anuală a adaosului comercial se completează şi se depune de către operatorii economici care importă, produc benzină şi motorină, distribuie şi/sau comercializează aceste produse, potrivit Ordonanței de urgență a Guvernului nr.19/26.03.2026 privind declararea situației de criză pe piața țițeiului și/sau a produselor petroliere și pentru instituirea unor măsuri de protejare a economiei și populației pe durata situației de criză, precum şi pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 12/2026 privind măsurile aplicabile clienţilor casnici din piaţa de gaze naturale în perioada 1 aprilie 2026 - 31 martie 2027.
+
+    2.  În cazul în care operatorul economic corectează declaraţia depusă, declaraţia rectificativă se întocmeşte pe acelaşi model de formular, înscriind "X" în spaţiul special prevăzut în acest scop.
+
+    3. Declaraţia rectificativă se completează integral, înscriindu-se toate datele şi informaţiile prevăzute de formular, inclusiv cele care nu diferă faţă de declaraţia iniţială.
+
+    4. Declarația se depune în termen de 5 zile de la data publicării prezentului ordin al președintelui Agenției Naționale de Administrare Fiscală în Monitorul Oficial al României, Partea I.
+
+    II.  Organul fiscal competent
+
+Declarația privind valoarea medie anuală a adaosului comercial se depune la organul fiscal competent pentru administrarea creanţelor fiscale datorate de către operatorul economic, respectiv compartimentul cu atribuţii în gestiunea registrului contribuabililor şi declaraţiilor fiscale din cadrul organului fiscal central competent.
+
+
+
+    III.  Modul de depunere
+
+Declarația privind valoarea medie anuală a adaosului comercial se completează cu ajutorul programului de asistenţă şi se transmite prin mijloace electronice de transmitere la distanţă, în conformitate cu prevederile legale în vigoare.
+
+IV. Completarea declaraţiei
+
+    1. Perioada de raportare
+
+În rubrica “Anul”  se înscrie cu cifre arabe anul pentru care se completează declarația  (de exemplu: 2025).
+
+    2.  Secţiunea A "Date de identificare a contribuabilului/plătitorului "
+
+  	În caseta "Cod de identificare fiscală" se completează codul de identificare fiscală atribuit conform legii, înscriindu-se cifrele cu aliniere la dreapta.
+  	În rubrica "Denumire" se înscrie denumirea operatorului economic.
+  	Rubricile privind adresa se completează cu datele privind adresa domiciliului fiscal al operatorului economic.
+
+    3. Secţiunea B "Date privind valoarea medie anuală a adaosului comercial"
+
+ 	La rubrica “Tip produs“ -se înscrie tipul de produs pentru care se calculează valoarea medie anuală a adaosului comercial. 
+Pentru fiecare tip de produs pentru care se calculează valoarea medie anuală a adaosului comercial la care se referă declaraţia, se completează câte un tabel generat cu ajutorul programului de asistenţă, după cum urmează:
+	La rândul 1 “Venituri înregistrate din vânzarea produselor“- se înscrie totalul veniturilor înregistrate din vânzarea produselor reprezentând benzină şi motorină în segmentul rafinare şi vânzare angro şi cu amănuntul, exceptând exporturile şi livrările intracomunitare, astfel cum au fost  înregistrate în contabilitate în anul 2025.
+	La  rândul 2 “Cheltuieli corespunzătoare costului de achiziţie/costului de producție” - se înscriu cheltuielile corespunzătoare costului de achiziţie, respectiv costului de producţie al acestora în segmentul rafinare şi vânzare angro şi cu amănuntul, astfel cum au fost înregistrate în contabilitate în anul 2025.
+	La  rândul 3 “Cantitate totală de produse vândute” - se înscrie cantitatea totală de produse vândute, exprimată în litri sau tone, pentru fiecare tip de produs.
+La  rândul 4 “Valoarea medie anuală a adaosului comercial” - se înscrie valoarea rezultată din raportul dintre totalul veniturilor înregistrate din vânzarea produselor minus cheltuielile corespunzătoare costului de achiziţie, respectiv costului de producţie al acestora în segmentul rafinare şi vânzare angro şi cu amănuntul, astfel cum au fost acestea înregistrate în contabilitate în anul 2025, şi cantitatea totală de produse vândute, exprimată în litri sau tone, pentru fiecare tip de produs. Această modalitate de calcul se aplică în mod corespunzător şi pentru perioada cuprinsă între 1 aprilie şi 30 iunie 2026.
+
+
+    4. Secţiunea C "Date de identificare a împuternicitului"
+
+ 	  Secțiunea se completează în cazul în care declarația se depune de către un împuternicit, conform art.18 din Legea nr.207/2015, cu modificările şi completările ulterioare.
+ În caseta "Cod de identificare fiscală" se înscrie codul de identificare fiscală al împuternicitului, înscriindu-se cifrele cu aliniere la dreapta.
+În rubrica "Nume, prenume/Denumire" se înscriu, după caz, denumirea sau numele şi prenumele împuternicitului.
+Rubricile privind adresa se completează, după caz, cu datele privind adresa domiciliului fiscal al împuternicitului.
+
