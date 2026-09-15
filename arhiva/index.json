@@ -1221,6 +1221,29 @@
       "stare": "in_consultare",
       "act_publicat": null,
       "cale": "arhiva/2025-12-22/ANAF/20251222115036_proiect-22dec.zip"
+    },
+    "ANAF::20260914155808_836_proiect14sept.zip": {
+      "institutie": "ANAF",
+      "url": "https://static.anaf.ro/static/33/Anaf/20260914155808_836_proiect14sept.zip",
+      "data": "2026-09-14",
+      "titlu": "Proiect de ordin al președintelui ANAF privind procedurile de agreare și selecție a practicienilor în insolvență de către ANAF",
+      "id": "20260914155808_836_proiect14sept.zip",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": "2026-09-24",
+      "fisiere": [
+        "ordin.pdf",
+        "referat de aprobare.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-09-15T09:06:35+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/2026-09-14/ANAF/20260914155808_836_proiect14sept.zip"
     }
   },
   "acte_vazute": []
