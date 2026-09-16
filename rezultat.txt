@@ -1,7 +1,6 @@
 SURSE DE PROIECTE
 ────────────────────────────────────────────────────────────
 ANAF                               4 proiecte
-    NOU  Proiect de ordin al președintelui ANAF privind procedurile de agreare   (0/2 în text)
 Ministerul Finanțelor             21 proiecte
 Ministerul Economiei              EROARE: HTTPSConnectionPool(host='economie.gov.ro', port=443): Max retries exc
 Ministerul Muncii                 EROARE: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exce
@@ -16,14 +15,9 @@ Caut acte publicate care să corespundă proiectelor deschise…
 
 ════════════════════════════════════════════════════════════
 
-PROIECTE NOI — 1
+Niciun proiect nou.
 
-  ANAF · 2026-09-14
-  Proiect de ordin al președintelui ANAF privind procedurile de agreare și selecție a practicienilor î
-  domenii: Fiscal general, Raportări și declarații
-  termen observații: 2026-09-24  (9 zile rămase)
-  text: arhiva/2026-09-14/ANAF/20260914155808_836_proiect14sept.zip/text/
-
+Nimic de raportat. Nu se trimite nimic.
 ════════════════════════════════════════════════════════════
 
  /!\  ALARMĂ — 2 surse care mergeau au picat
