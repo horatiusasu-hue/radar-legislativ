@@ -8,7 +8,7 @@ Ce face, la fiecare rulare:
   3. descarcă arhivele/documentele proiectelor noi
   4. le dezarhivează și le convertește în text
   5. le încadrează pe domenii (cele 20 din Radar)
-  6. caută dacă vreun proiect vechi a devenit act publicat  ← NOU
+  6. caută dacă vreun proiect vechi a devenit act publicat
   7. actualizează index.json și afișează ce e nou
 
 Rulare:  python3 radar_transparenta.py
@@ -24,7 +24,7 @@ import zipfile
 from datetime import datetime, timezone
 from difflib import SequenceMatcher
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 
 try:
     import requests
@@ -32,36 +32,61 @@ try:
 except ImportError:
     sys.exit("Lipsesc dependințele. Rulează:  pip install requests beautifulsoup4")
 
-
 # ─────────────────────────────────────────────────────────────
 # SURSE — proiecte în transparență decizională
 # ─────────────────────────────────────────────────────────────
 
-# instituție, adresă, zile termen observații, domenii implicite, confirmată
+# instituție, adresă, zile termen observații, domenii implicite, confirmată, pas_doi
 #
 # „confirmată" = am verificat că adresa răspunde și întoarce proiecte reale.
 # Sursele NEconfirmate rămân în listă intenționat, ca să apară zilnic în raport
 # la „DE REPARAT". Nu le ștergem — o sursă ștearsă e o gaură pe care o uiți.
+#
+# „pas_doi" = pagina-listă NU ține documentele; ele stau pe pagina fiecărui
+# proiect. Fără pasul doi, radarul găsește zero și raportează liniște falsă.
 #
 # Diferența contează în raport:
 #   sursă confirmată care pică  = ALARMĂ  (s-a stricat ceva; poate ai ratat acte)
 #   sursă neconfirmată care pică = TODO   (n-a mers niciodată; de găsit adresa)
 
 SURSE = [
-    ("ANAF", "https://www.anaf.ro/anaf/internet/ANAF/transparenta_decizionala/", 10, ["1", "3"], True),
-    ("Ministerul Finanțelor", "https://mfinante.gov.ro/acasa/transparenta/proiecte-acte-normative", 10, ["1", "3"], True),
-    ("Ministerul Economiei", "https://economie.gov.ro/proiecte-de-acte-normative-aflate-in-consultare-publica/", 30, ["11"], True),
-    ("Ministerul Muncii", "https://mmuncii.gov.ro/transparenta-decizionala/", 30, ["2"], True),
+    ("ANAF", "https://www.anaf.ro/anaf/internet/ANAF/transparenta_decizionala/", 10, ["1", "3"], True, False),
+    ("Ministerul Finanțelor", "https://mfinante.gov.ro/acasa/transparenta/proiecte-acte-normative", 10, ["1", "3"], True, False),
+
+    # Adresă corectă și pagină vie (verificat 17.09.2026, în browser, 13 documente
+    # direct pe pagina-listă). Dacă pică aici, e blocaj de rețea împotriva
+    # runnerului, NU adresă moartă. Verifică în browser înainte să cauți alta.
+    ("Ministerul Economiei", "https://economie.gov.ro/proiecte-de-acte-normative-aflate-in-consultare-publica/", 30, ["11"], True, False),
+
+    # Verificat 17.09.2026: pagina-listă are ZERO documente. Titlurile trimit la
+    # pagina fiecărui proiect, unde stau fișierele. De aici pas_doi=True.
+    ("Ministerul Muncii", "https://mmuncii.gov.ro/transparenta-decizionala/", 30, ["2"], True, True),
+
+    # Pagină separată, ține proiectele de fond (ordine + HG), nu inventarele de
+    # bunuri care umplu pagina de transparență.
+    ("Ministerul Muncii — dezbateri", "https://mmuncii.gov.ro/dezbateri-publice/", 30, ["2"], True, True),
+
+    # Plasa transversală: HG de la TOATE ministerele, inclusiv Muncă și Economie.
+    # Târzie (zile înainte de adoptare, nu în fereastra de observații) și doar HG,
+    # fără ordine de ministru. Nu înlocuiește sursele ministeriale, le dublează.
+    # Neconfirmată: pagina e vie, dar structura paginilor-item nu a fost verificată.
+    ("SGG — ședința Guvernului",
+     "https://sgg.gov.ro/1/category/proiecte-de-acte-normative-care-ar-putea-fi-incluse-in-sedinta-guvernului-romaniei/",
+     0, [], False, True),
 
     # ── neconfirmate: adresa veche a murit, cea nouă nu e încă găsită ──
-    ("Ministerul Transporturilor", "https://www.mt.ro/web14/transparenta-decizionala/consultare-publica/acte-normative-in-avizare", 30, ["4"], False),
-    ("Vama (AVR)", "https://www.customs.ro/info-publice/transparenta-decizionala", 10, ["14", "8"], False),
-    ("Ministerul Mediului", "https://www.mmediu.ro/categorie/transparenta-decizionala/1", 30, ["15"], False),
-    ("Ministerul Agriculturii", "https://www.madr.ro/transparenta-decizionala.html", 30, ["9"], False),
+    ("Ministerul Transporturilor", "https://www.mt.ro/web14/transparenta-decizionala/consultare-publica/acte-normative-in-avizare", 30, ["4"], False, False),
+    ("Vama (AVR)", "https://www.customs.ro/info-publice/transparenta-decizionala", 10, ["14", "8"], False, False),
+    ("Ministerul Mediului", "https://www.mmediu.ro/categorie/transparenta-decizionala/1", 30, ["15"], False, False),
+    ("Ministerul Agriculturii", "https://www.madr.ro/transparenta-decizionala.html", 30, ["9"], False, False),
 
-    # plasă de siguranță: agregatorul guvernamental.
-    # ATENȚIE: se actualizează SĂPTĂMÂNAL și manual — e în urmă, nu în față.
-    ("e-consultare (agregator)", "https://e-consultare.gov.ro/Consultare-public%C4%83", 10, [], False),
+    # e-consultare: NU e un substitut pentru sursele ministeriale.
+    # Două motive, ambele verificate pe 17.09.2026:
+    #   1. fluxul e dominat de hotărâri de consiliu local (Comuna Epureni,
+    #      Municipiul Petroșani). Ministerele apar rar.
+    #   2. e aplicație cu randare în browser — requests + BeautifulSoup nu văd
+    #      nimic, indiferent de adresă. Vechiul URL dădea 500.
+    ("e-consultare (agregator)", "https://e-consultare.gov.ro/Consultare-publică", 10, [], False, False),
 ]
 
 # ─────────────────────────────────────────────────────────────
@@ -74,7 +99,6 @@ SURSE_ACTE_PUBLICATE = [
     ("Monitorul Oficial — sumar",
      "https://monitoruloficial.ro/"),
 ]
-
 
 # ─────────────────────────────────────────────────────────────
 # DOMENII — încadrare pe cuvinte-cheie
@@ -115,7 +139,6 @@ DOMENII = {
 
 IMPLICITE = {"1", "2", "3"}
 
-
 # ─────────────────────────────────────────────────────────────
 # CONFIGURARE
 # ─────────────────────────────────────────────────────────────
@@ -139,7 +162,6 @@ MAX_RAPORT_COMPRESIE = 200                 # zip de 1 MB care dă 200 MB = suspe
 
 AVERTISMENTE: list[str] = []               # se afișează la final, vizibil
 
-
 def avertizeaza(mesaj: str) -> None:
     """Zgomotos și inofensiv, nu tăcut și periculos."""
     AVERTISMENTE.append(mesaj)
@@ -151,12 +173,16 @@ HEADERS = {
     "Accept-Language": "ro-RO,ro;q=0.9",
 }
 
+# Gazde care apar în subsolul fiecărei pagini guvernamentale și NU sunt proiecte.
+# Fără filtrul ăsta, Programul de Guvernare (PDF pe gov.ro, prezent în footer pe
+# mmuncii.gov.ro și sgg.gov.ro) intră în arhivă la fiecare rulare ca „proiect nou".
+GAZDE_IGNORATE = {"gov.ro", "www.gov.ro"}
+
 LUNI = {"ianuarie": 1, "februarie": 2, "martie": 3, "aprilie": 4, "mai": 5, "iunie": 6,
         "iulie": 7, "august": 8, "septembrie": 9, "octombrie": 10, "noiembrie": 11, "decembrie": 12}
 
 # „Ordinul ... nr. 352/2022", „O.p.A.N.A.F. nr. 1757/2019", „HG nr. 1175/2007"
 TIPAR_ACT = re.compile(r"nr\.?\s*(\d{1,5})\s*/\s*(\d{4})", re.IGNORECASE)
-
 
 # ─────────────────────────────────────────────────────────────
 # UTILITARE
@@ -170,11 +196,9 @@ def incarca_index() -> dict:
         return d
     return {"proiecte": {}, "acte_vazute": []}
 
-
 def salveaza_index(index: dict) -> None:
     ARHIVA.mkdir(parents=True, exist_ok=True)
     INDEX.write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
-
 
 def parseaza_data(text: str):
     t = text.lower()
@@ -195,11 +219,9 @@ def parseaza_data(text: str):
                 pass
     return None
 
-
 def acte_mentionate(text: str) -> set:
     """{'352/2022', '1757/2019'} — actele la care trimite un titlu."""
     return {f"{a}/{b}" for a, b in TIPAR_ACT.findall(text or "")}
-
 
 def normalizeaza(text: str) -> str:
     t = (text or "").lower()
@@ -207,10 +229,8 @@ def normalizeaza(text: str) -> str:
         t = t.replace(a, b)
     return re.sub(r"[^a-z0-9 ]+", " ", t)
 
-
 def asemanare(a: str, b: str) -> float:
     return SequenceMatcher(None, normalizeaza(a), normalizeaza(b)).ratio()
-
 
 def incadreaza(titlu: str, implicite: list) -> list:
     """Domeniile în care intră un proiect, după cuvinte-cheie din titlu."""
@@ -221,12 +241,12 @@ def incadreaza(titlu: str, implicite: list) -> list:
             gasite.add(cod)
     return sorted(gasite, key=lambda x: int(x))
 
-
 # ─────────────────────────────────────────────────────────────
 # CITIRE PAGINI DE TRANSPARENȚĂ
 # ─────────────────────────────────────────────────────────────
 
-def citeste_sursa(nume: str, url: str, zile: int, domenii_implicite: list) -> list[dict]:
+def _documente_din_pagina(url: str, nume: str, zile: int, domenii_implicite: list) -> list[dict]:
+    """Documentele de pe O pagină. Pasul unu și pasul doi folosesc aceeași logică."""
     r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
     r.raise_for_status()
     sup = BeautifulSoup(r.text, "html.parser")
@@ -235,6 +255,9 @@ def citeste_sursa(nume: str, url: str, zile: int, domenii_implicite: list) -> li
     for a in sup.find_all("a", href=True):
         href = urljoin(url, a["href"])
         if not href.lower().split("?")[0].endswith(EXTENSII):
+            continue
+        # subsolul fiecărei pagini conține Programul de Guvernare. Nu e proiect.
+        if urlparse(href).netloc.lower() in GAZDE_IGNORATE:
             continue
         if href in vazute:
             continue
@@ -245,7 +268,8 @@ def citeste_sursa(nume: str, url: str, zile: int, domenii_implicite: list) -> li
         data = parseaza_data(context)
 
         titlu = re.sub(r"\s*\d{1,2}[.\-/ ]\w+[.\-/ ]\d{4}\s*\|?\s*", " ", context)
-        for gunoi in ("Detalii proiect", "Descarcă", "Download", "citeste mai mult", "CITEŞTE MAI MULT"):
+        for gunoi in ("Detalii proiect", "Descarcă", "Download", "citeste mai mult",
+                      "CITEŞTE MAI MULT", "continuă lectura"):
             titlu = titlu.replace(gunoi, "")
         titlu = " ".join(titlu.split())[:400]
 
@@ -265,6 +289,46 @@ def citeste_sursa(nume: str, url: str, zile: int, domenii_implicite: list) -> li
     return gasite
 
 
+def _linkuri_proiecte(url: str, limita: int = 25) -> list[str]:
+    """Linkurile către paginile individuale de proiect, de pe o pagină-listă."""
+    r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+    r.raise_for_status()
+    sup = BeautifulSoup(r.text, "html.parser")
+    gazda = urlparse(url).netloc.lower()
+
+    linkuri, vazute = [], set()
+    for a in sup.find_all("a", href=True):
+        href = urljoin(url, a["href"]).split("#")[0]
+        p = urlparse(href)
+        if p.netloc.lower() != gazda:
+            continue
+        if href in vazute or href.rstrip("/") == url.rstrip("/"):
+            continue
+        # paginile de proiect au slug lung; meniurile au slug scurt
+        slug = p.path.rstrip("/").rsplit("/", 1)[-1]
+        if len(slug) < 30 or "category" in p.path:
+            continue
+        vazute.add(href)
+        linkuri.append(href)
+        if len(linkuri) >= limita:
+            break
+    return linkuri
+
+
+def citeste_sursa(nume: str, url: str, zile: int, domenii_implicite: list,
+                  pas_doi: bool = False) -> list[dict]:
+    gasite = _documente_din_pagina(url, nume, zile, domenii_implicite)
+    if gasite or not pas_doi:
+        return gasite
+
+    # Pagina-listă nu ține documente. Le ține pagina fiecărui proiect.
+    for link in _linkuri_proiecte(url):
+        try:
+            gasite.extend(_documente_din_pagina(link, nume, zile, domenii_implicite))
+        except Exception:
+            continue          # o pagină-item ratată nu oprește sursa
+    return gasite
+
 # ─────────────────────────────────────────────────────────────
 # DESCĂRCARE ȘI EXTRAGERE
 # ─────────────────────────────────────────────────────────────
@@ -277,7 +341,6 @@ def descarca(url: str, destinatie: Path) -> Path:
             for bucata in r.iter_content(65536):
                 f.write(bucata)
     return destinatie
-
 
 def desface(cale: Path, unde: Path) -> list[Path]:
     """Dezarhivează, dacă e arhivă. Altfel întoarce fișierul ca atare.
@@ -312,7 +375,6 @@ def desface(cale: Path, unde: Path) -> list[Path]:
                 dest.write(sursa.read())
             fisiere.append(tinta)
     return fisiere
-
 
 def in_text(fisier: Path) -> str | None:
     ext = fisier.suffix.lower()
@@ -378,7 +440,6 @@ def in_text(fisier: Path) -> str | None:
 
     return None
 
-
 # ─────────────────────────────────────────────────────────────
 # POTRIVIREA PROIECT → ACT PUBLICAT
 # ─────────────────────────────────────────────────────────────
@@ -403,7 +464,6 @@ def citeste_acte_publicate() -> list[dict]:
         except Exception as e:
             print(f"  ! {nume}: {e}")
     return acte
-
 
 def cauta_potriviri(index: dict) -> list[dict]:
     """Pentru fiecare proiect încă „in_consultare", caută actul publicat."""
@@ -446,7 +506,6 @@ def cauta_potriviri(index: dict) -> list[dict]:
             potriviri.append({"proiect": p, "candidati": candidati[:3]})
     return potriviri
 
-
 # ─────────────────────────────────────────────────────────────
 # PRINCIPAL
 # ─────────────────────────────────────────────────────────────
@@ -459,9 +518,9 @@ def main() -> None:
     alarme, de_reparat = [], []
 
     print("SURSE DE PROIECTE\n" + "─" * 60)
-    for nume, url, zile, dom, confirmata in SURSE:
+    for nume, url, zile, dom, confirmata, pas_doi in SURSE:
         try:
-            gasite = citeste_sursa(nume, url, zile, dom)
+            gasite = citeste_sursa(nume, url, zile, dom, pas_doi)
             print(f"{nume:<32} {len(gasite):>3} proiecte")
             if not gasite:
                 # zero proiecte nu e „e liniște". E ori chiar liniște, ori
@@ -471,8 +530,19 @@ def main() -> None:
                     f"Ori chiar nu e nimic în consultare, ori s-a schimbat structura paginii."
                 )
         except Exception as e:
-            print(f"{nume:<32}  EROARE: {str(e)[:70]}")
-            (alarme if confirmata else de_reparat).append(f"{nume}: {str(e)[:110]}\n      {url}")
+            mesaj = str(e)
+            blocaj = ("Max retries exceeded" in mesaj
+                      or "ConnectionError" in type(e).__name__
+                      or "SSL" in mesaj)
+            print(f"{nume:<32}  EROARE: {mesaj[:70]}")
+            if blocaj and confirmata:
+                alarme.append(
+                    f"{nume}: refuz la nivel de conexiune, nu 404. Adresa e probabil bună — "
+                    f"verific-o în browser înainte să cauți alta. Cauza tipică: blocare "
+                    f"a IP-urilor de GitHub Actions.\n      {url}"
+                )
+            else:
+                (alarme if confirmata else de_reparat).append(f"{nume}: {mesaj[:110]}\n      {url}")
             continue
 
         for p in gasite:
