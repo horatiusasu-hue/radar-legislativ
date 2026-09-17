@@ -19,10 +19,18 @@ on:
   schedule:
     # 04:00 UTC = 07:00 ora României (vara) / 06:00 (iarna)
     - cron: "0 4 * * *"
+    # A doua fereastră a zilei, ca o rulare picată dimineața să fie prinsă.
+    # Dacă prima a reușit, aceasta nu găsește nimic nou și nu comite.
+    - cron: "0 10 * * *"
   workflow_dispatch:        # buton de rulare manuală în interfața GitHub
 
 permissions:
   contents: write           # ca să poată salva arhiva înapoi în depozit
+
+# Două rulări nu se calcă pe picioare: a doua așteaptă, nu o omoară pe prima.
+concurrency:
+  group: radar
+  cancel-in-progress: false
 
 jobs:
   radar:
@@ -52,13 +60,28 @@ jobs:
         run: |
           git config user.name  "Radar"
           git config user.email "radar@users.noreply.github.com"
+          mkdir -p arhiva
           git add arhiva/ rezultat.txt
           if git diff --staged --quiet; then
             echo "Nimic nou. Nu comit nimic."
-          else
-            git commit -m "Radar: proiecte noi $(date +%Y-%m-%d)"
-            git push
+            exit 0
           fi
+          git commit -m "Radar: proiecte noi $(date +%Y-%m-%d)"
+          # Push-ul poate fi respins de o defecțiune de moment a GitHub
+          # (asta s-a întâmplat pe 13.09.2026: "fatal error in commit_refs").
+          # Reîncercăm de patru ori, cu pauze crescătoare, aducând între timp
+          # eventualele schimbări apărute pe ramură.
+          for incercare in 1 2 3 4; do
+            if git push; then
+              echo "Trimis din încercarea $incercare."
+              exit 0
+            fi
+            echo "Push respins la încercarea $incercare. Reiau după pauză."
+            sleep $(( incercare * 20 ))
+            git pull --rebase || true
+          done
+          echo "Push eșuat după patru încercări."
+          exit 1
 
       - name: Arată rezumatul în interfața GitHub
         if: always()
