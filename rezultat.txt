@@ -2,6 +2,7 @@ SURSE DE PROIECTE
 ────────────────────────────────────────────────────────────
 ANAF                               4 proiecte
 Ministerul Finanțelor             21 proiecte
+    NOU  Proiect Hotărâre pentru aprobarea plăţii unor contribuţii financiare v  (0/1 în text)
 Ministerul Economiei              EROARE: HTTPSConnectionPool(host='economie.gov.ro', port=443): Max retries exc
 Ministerul Muncii                 EROARE: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exce
 Ministerul Transporturilor        EROARE: HTTPSConnectionPool(host='www.mt.ro', port=443): Max retries exceeded 
@@ -15,9 +16,13 @@ Caut acte publicate care să corespundă proiectelor deschise…
 
 ════════════════════════════════════════════════════════════
 
-Niciun proiect nou.
+PROIECTE NOI — 1
 
-Nimic de raportat. Nu se trimite nimic.
+  Ministerul Finanțelor · ?
+  Proiect Hotărâre pentru aprobarea plăţii unor contribuţii financiare voluntare ale României necesare
+  domenii: Fiscal general, Salarizare și muncă, Raportări și declarații, Transport rutier
+  text: arhiva/fara-data/Ministerul_Finan_elor/proiectHGOCDE_17092026.pdf/text/
+
 ════════════════════════════════════════════════════════════
 
  /!\  ALARMĂ — 2 surse care mergeau au picat

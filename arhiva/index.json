@@ -1244,6 +1244,30 @@
       "stare": "in_consultare",
       "act_publicat": null,
       "cale": "arhiva/2026-09-14/ANAF/20260914155808_836_proiect14sept.zip"
+    },
+    "Ministerul Finanțelor::proiectHGOCDE_17092026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiectHGOCDE_17092026.pdf",
+      "data": null,
+      "titlu": "Proiect Hotărâre pentru aprobarea plăţii unor contribuţii financiare voluntare ale României necesare în vederea participării la formatele de lucru din cadrul Organizației pentru Cooperare şi Dezvoltare Economică Notă de fundamentare",
+      "id": "proiectHGOCDE_17092026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": null,
+      "fisiere": [
+        "proiectHGOCDE_17092026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-09-17T14:46:09+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectHGOCDE_17092026.pdf"
     }
   },
   "acte_vazute": []
