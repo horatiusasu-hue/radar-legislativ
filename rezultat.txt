@@ -1,9 +1,6 @@
 SURSE DE PROIECTE
 ────────────────────────────────────────────────────────────
-ANAF                              12 proiecte
-    ! Transferuri semnificative de fonduri cÄtre persoane fizice  — 404 Client Error: Not Found for url: https://static.anaf.ro/
-    ! ANAF va lansa platforma digitalÃ£ eLicitatiiANAF pentru publ — 404 Client Error: Not Found for url: https://static.anaf.ro/
-    ! Proiect de Ordin al PreÈedintelui AgenÈiei NaÈionale de A — 404 Client Error: Not Found for url: https://static.anaf.ro/
+ANAF                               4 proiecte
 Ministerul Finanțelor             21 proiecte
 Ministerul Economiei              EROARE: HTTPSConnectionPool(host='economie.gov.ro', port=443): Max retries exc
 Ministerul Muncii                 EROARE: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exce
@@ -22,45 +19,7 @@ Caut acte publicate care să corespundă proiectelor deschise…
 
 Niciun proiect nou.
 
-════════════════════════════════════════════════════════════
-
-POSIBILE POTRIVIRI — de confirmat de tine
-
-  PROIECT: Proiect de ordin al preÈedintelui AgenÈiei NaÈionale de Administrare FiscalÄ pentru ap
-           publicat 2026-03-30
-    → 92%  30 martie 2026 | Detalii proiect Proiect de ordin al preÈedintelui AgenÈiei NaÈion
-           (titluri asemănătoare (92%); sursa: ANAF — alte acte normative)
-    Dacă e corect, în index.json pune:
-      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
-
-  PROIECT: Proiect de ordin al preÈedintelui AgenÈiei NaÈionale de Administrare FiscalÄ pentru ap
-           publicat 2026-03-30
-    → 92%  30 martie 2026 | Detalii proiect Proiect de ordin al preÈedintelui AgenÈiei NaÈion
-           (titluri asemănătoare (92%); sursa: ANAF — alte acte normative)
-    Dacă e corect, în index.json pune:
-      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
-
-  PROIECT: Proiect de Ordin al PreÈedintelui AgenÈiei NaÈionale de Administrare FiscalÄ privind a
-           publicat 2026-03-24
-    → 94%  24 martie 2026 | Detalii proiect Proiect de Ordin al PreÈedintelui AgenÈiei NaÈion
-           (titluri asemănătoare (94%); sursa: ANAF — alte acte normative)
-    Dacă e corect, în index.json pune:
-      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
-
-  PROIECT: Proiect de ordin al preÅedintelui ANAF pentru aprobarea Procedurii de Ã®nregistrare a sed
-           publicat 2026-03-24
-    → 92%  24 martie 2026 | Detalii proiect Proiect de ordin al preÅedintelui ANAF pentru aprob
-           (titluri asemănătoare (92%); sursa: ANAF — alte acte normative)
-    Dacă e corect, în index.json pune:
-      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
-
-  PROIECT: Proiect de ordin al preÈedintelui ANAF pentru modificarea Èi completarea Anexei nr. 1 la
-           publicat 2025-12-22
-    → 92%  22 decembrie 2025 | Detalii proiect Proiect de ordin al preÈedintelui ANAF pentru mo
-           (titluri asemănătoare (92%); sursa: ANAF — alte acte normative)
-    Dacă e corect, în index.json pune:
-      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
-
+Nimic de raportat. Nu se trimite nimic.
 ════════════════════════════════════════════════════════════
 
  /!\  ALARMĂ — 3 surse care mergeau au picat
