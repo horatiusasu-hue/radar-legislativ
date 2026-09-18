@@ -1,53 +1,95 @@
 SURSE DE PROIECTE
 ────────────────────────────────────────────────────────────
-ANAF                               4 proiecte
+ANAF                              12 proiecte
+    ! Transferuri semnificative de fonduri cÄtre persoane fizice  — 404 Client Error: Not Found for url: https://static.anaf.ro/
+    ! ANAF va lansa platforma digitalÃ£ eLicitatiiANAF pentru publ — 404 Client Error: Not Found for url: https://static.anaf.ro/
+    ! Proiect de Ordin al PreÈedintelui AgenÈiei NaÈionale de A — 404 Client Error: Not Found for url: https://static.anaf.ro/
 Ministerul Finanțelor             21 proiecte
-    NOU  Proiect Hotărâre pentru aprobarea plăţii unor contribuţii financiare v  (0/1 în text)
 Ministerul Economiei              EROARE: HTTPSConnectionPool(host='economie.gov.ro', port=443): Max retries exc
 Ministerul Muncii                 EROARE: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exce
+Ministerul Muncii — dezbateri     EROARE: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exce
+SGG — ședința Guvernului          EROARE: HTTPSConnectionPool(host='sgg.gov.ro', port=443): Max retries exceeded
 Ministerul Transporturilor        EROARE: HTTPSConnectionPool(host='www.mt.ro', port=443): Max retries exceeded 
-Vama (AVR)                        EROARE: 403 Client Error: Forbidden for url: https://www.customs.ro/info-publi
+Vama (AVR)                        EROARE: 403 la https://www.customs.ro/info-publice/transparenta-decizionala (i
 Ministerul Mediului               EROARE: 404 Client Error: Not Found for url: https://mmediu.ro/categorie/trans
 Ministerul Agriculturii           EROARE: HTTPSConnectionPool(host='www.madr.ro', port=443): Max retries exceede
-e-consultare (agregator)          EROARE: 500 Server Error: Internal Server Error for url: https://e-consultare.
+e-consultare (agregator)          EROARE: 500 la https://e-consultare.gov.ro/Consultare-publică (incercarea 3 di
 
 Caut acte publicate care să corespundă proiectelor deschise…
-  18 titluri de acte citite.
+  22 titluri de acte citite.
 
 ════════════════════════════════════════════════════════════
 
-PROIECTE NOI — 1
-
-  Ministerul Finanțelor · ?
-  Proiect Hotărâre pentru aprobarea plăţii unor contribuţii financiare voluntare ale României necesare
-  domenii: Fiscal general, Salarizare și muncă, Raportări și declarații, Transport rutier
-  text: arhiva/fara-data/Ministerul_Finan_elor/proiectHGOCDE_17092026.pdf/text/
+Niciun proiect nou.
 
 ════════════════════════════════════════════════════════════
 
- /!\  ALARMĂ — 2 surse care mergeau au picat
+POSIBILE POTRIVIRI — de confirmat de tine
 
-  • Ministerul Economiei: HTTPSConnectionPool(host='economie.gov.ro', port=443): Max retries exceeded with url: /proiecte-de-acte-normat
+  PROIECT: Proiect de ordin al preÈedintelui AgenÈiei NaÈionale de Administrare FiscalÄ pentru ap
+           publicat 2026-03-30
+    → 92%  30 martie 2026 | Detalii proiect Proiect de ordin al preÈedintelui AgenÈiei NaÈion
+           (titluri asemănătoare (92%); sursa: ANAF — alte acte normative)
+    Dacă e corect, în index.json pune:
+      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
+
+  PROIECT: Proiect de ordin al preÈedintelui AgenÈiei NaÈionale de Administrare FiscalÄ pentru ap
+           publicat 2026-03-30
+    → 92%  30 martie 2026 | Detalii proiect Proiect de ordin al preÈedintelui AgenÈiei NaÈion
+           (titluri asemănătoare (92%); sursa: ANAF — alte acte normative)
+    Dacă e corect, în index.json pune:
+      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
+
+  PROIECT: Proiect de Ordin al PreÈedintelui AgenÈiei NaÈionale de Administrare FiscalÄ privind a
+           publicat 2026-03-24
+    → 94%  24 martie 2026 | Detalii proiect Proiect de Ordin al PreÈedintelui AgenÈiei NaÈion
+           (titluri asemănătoare (94%); sursa: ANAF — alte acte normative)
+    Dacă e corect, în index.json pune:
+      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
+
+  PROIECT: Proiect de ordin al preÅedintelui ANAF pentru aprobarea Procedurii de Ã®nregistrare a sed
+           publicat 2026-03-24
+    → 92%  24 martie 2026 | Detalii proiect Proiect de ordin al preÅedintelui ANAF pentru aprob
+           (titluri asemănătoare (92%); sursa: ANAF — alte acte normative)
+    Dacă e corect, în index.json pune:
+      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
+
+  PROIECT: Proiect de ordin al preÈedintelui ANAF pentru modificarea Èi completarea Anexei nr. 1 la
+           publicat 2025-12-22
+    → 92%  22 decembrie 2025 | Detalii proiect Proiect de ordin al preÈedintelui ANAF pentru mo
+           (titluri asemănătoare (92%); sursa: ANAF — alte acte normative)
+    Dacă e corect, în index.json pune:
+      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
+
+════════════════════════════════════════════════════════════
+
+ /!\  ALARMĂ — 3 surse care mergeau au picat
+
+  • Ministerul Economiei: refuz la nivel de conexiune, nu 404. Adresa e probabil bună — verific-o în browser înainte să cauți alta. Cauza tipică: blocare a IP-urilor de GitHub Actions.
       https://economie.gov.ro/proiecte-de-acte-normative-aflate-in-consultare-publica/
-  • Ministerul Muncii: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exceeded with url: /transparenta-decizionala
+  • Ministerul Muncii: refuz la nivel de conexiune, nu 404. Adresa e probabil bună — verific-o în browser înainte să cauți alta. Cauza tipică: blocare a IP-urilor de GitHub Actions.
       https://mmuncii.gov.ro/transparenta-decizionala/
+  • Ministerul Muncii — dezbateri: refuz la nivel de conexiune, nu 404. Adresa e probabil bună — verific-o în browser înainte să cauți alta. Cauza tipică: blocare a IP-urilor de GitHub Actions.
+      https://mmuncii.gov.ro/dezbateri-publice/
 
   Astea funcționau. Cât timp sunt căzute, s-ar putea să ratezi acte.
 
 ════════════════════════════════════════════════════════════
 
-DE REPARAT — 5 surse care n-au mers niciodată
+DE REPARAT — 6 surse care n-au mers niciodată
 
+  • SGG — ședința Guvernului: HTTPSConnectionPool(host='sgg.gov.ro', port=443): Max retries exceeded with url: /1/category/proiecte-de-acte-
+      https://sgg.gov.ro/1/category/proiecte-de-acte-normative-care-ar-putea-fi-incluse-in-sedinta-guvernului-romaniei/
   • Ministerul Transporturilor: HTTPSConnectionPool(host='www.mt.ro', port=443): Max retries exceeded with url: /web14/transparenta-decizional
       https://www.mt.ro/web14/transparenta-decizionala/consultare-publica/acte-normative-in-avizare
-  • Vama (AVR): 403 Client Error: Forbidden for url: https://www.customs.ro/info-publice/transparenta-decizionala
+  • Vama (AVR): 403 la https://www.customs.ro/info-publice/transparenta-decizionala (incercarea 3 din 3)
       https://www.customs.ro/info-publice/transparenta-decizionala
   • Ministerul Mediului: 404 Client Error: Not Found for url: https://mmediu.ro/categorie/transparenta-decizionala/1
       https://www.mmediu.ro/categorie/transparenta-decizionala/1
   • Ministerul Agriculturii: HTTPSConnectionPool(host='www.madr.ro', port=443): Max retries exceeded with url: /transparenta-decizionala.ht
       https://www.madr.ro/transparenta-decizionala.html
-  • e-consultare (agregator): 500 Server Error: Internal Server Error for url: https://e-consultare.gov.ro/Consultare-public%C4%83
-      https://e-consultare.gov.ro/Consultare-public%C4%83
+  • e-consultare (agregator): 500 la https://e-consultare.gov.ro/Consultare-publică (incercarea 3 din 3)
+      https://e-consultare.gov.ro/Consultare-publică
 
   Nu e urgent, dar nici nu dispare. Când găsești adresa corectă,
   o schimbi în SURSE și pui True la sfârșit.
