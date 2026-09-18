@@ -19,6 +19,7 @@ Opțional (pentru .doc vechi):  LibreOffice instalat
 import json
 import re
 import subprocess
+import time
 import sys
 import zipfile
 from datetime import datetime, timezone
@@ -170,8 +171,61 @@ def avertizeaza(mesaj: str) -> None:
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                   "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
-    "Accept-Language": "ro-RO,ro;q=0.9",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,"
+              "image/webp,*/*;q=0.8",
+    "Accept-Language": "ro-RO,ro;q=0.9,en;q=0.8",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+    "Cache-Control": "max-age=0",
+    "Connection": "keep-alive",
 }
+
+# Al doilea set de antete, folosit doar la reincercare. Unele site-uri publice
+# refuza un client care arata prea „automat"; altele refuza plaje intregi de IP,
+# caz in care nicio schimbare de antet nu ajuta. Distinctia o face rezultatul
+# reincercarii, iar raportul o consemneaza.
+HEADERS_ALT = dict(HEADERS, **{
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "Sec-Fetch-Site": "same-origin",
+})
+
+# Coduri care merita reincercate: refuz temporar sau filtru anti-robot.
+# 404 NU se reincearca — o pagina mutata ramane mutata.
+CODURI_DE_REINCERCAT = {403, 429, 500, 502, 503, 504}
+
+
+def cere(url: str, *, incercari: int = 3, **kw):
+    """O cerere HTTP care nu renunta la primul refuz.
+
+    Reincearca doar la coduri care pot fi trecatoare sau anti-robot, cu pauze
+    crescatoare si cu antete schimbate de la a doua incercare. La 404 sau la o
+    eroare de retea reala, ridica imediat — nu are rost sa insiste.
+    """
+    ultima = None
+    for i in range(incercari):
+        antete = HEADERS if i == 0 else HEADERS_ALT
+        if "Referer" not in antete:
+            antete = dict(antete, Referer=f"https://{urlparse(url).netloc}/")
+        try:
+            r = requests.get(url, headers=antete, timeout=TIMEOUT, **kw)
+            if r.status_code not in CODURI_DE_REINCERCAT:
+                r.raise_for_status()
+                return r
+            ultima = requests.HTTPError(
+                f"{r.status_code} la {url} (incercarea {i + 1} din {incercari})",
+                response=r)
+        except requests.RequestException as e:
+            ultima = e
+            if i >= 1:
+                raise
+        if i < incercari - 1:
+            time.sleep(5 * (i + 1))
+    raise ultima
 
 # Gazde care apar în subsolul fiecărei pagini guvernamentale și NU sunt proiecte.
 # Fără filtrul ăsta, Programul de Guvernare (PDF pe gov.ro, prezent în footer pe
@@ -247,8 +301,7 @@ def incadreaza(titlu: str, implicite: list) -> list:
 
 def _documente_din_pagina(url: str, nume: str, zile: int, domenii_implicite: list) -> list[dict]:
     """Documentele de pe O pagină. Pasul unu și pasul doi folosesc aceeași logică."""
-    r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
-    r.raise_for_status()
+    r = cere(url)
     sup = BeautifulSoup(r.text, "html.parser")
 
     gasite, vazute = [], set()
@@ -291,8 +344,7 @@ def _documente_din_pagina(url: str, nume: str, zile: int, domenii_implicite: lis
 
 def _linkuri_proiecte(url: str, limita: int = 25) -> list[str]:
     """Linkurile către paginile individuale de proiect, de pe o pagină-listă."""
-    r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
-    r.raise_for_status()
+    r = cere(url)
     sup = BeautifulSoup(r.text, "html.parser")
     gazda = urlparse(url).netloc.lower()
 
@@ -335,8 +387,7 @@ def citeste_sursa(nume: str, url: str, zile: int, domenii_implicite: list,
 
 def descarca(url: str, destinatie: Path) -> Path:
     destinatie.parent.mkdir(parents=True, exist_ok=True)
-    with requests.get(url, headers=HEADERS, timeout=TIMEOUT, stream=True) as r:
-        r.raise_for_status()
+    with cere(url, stream=True) as r:
         with open(destinatie, "wb") as f:
             for bucata in r.iter_content(65536):
                 f.write(bucata)
@@ -449,8 +500,7 @@ def citeste_acte_publicate() -> list[dict]:
     acte = []
     for nume, url in SURSE_ACTE_PUBLICATE:
         try:
-            r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
-            r.raise_for_status()
+            r = cere(url)
             sup = BeautifulSoup(r.text, "html.parser")
             for el in sup.find_all(["li", "tr", "p", "h2", "h3", "a"]):
                 text = " ".join(el.get_text(" ", strip=True).split())
