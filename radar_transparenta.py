@@ -720,13 +720,29 @@ def culege_monitorul_oficial(index: dict, alarme: list) -> list[dict]:
     try:
         acte, incomplete = citeste_monitorul_oficial(de, la)
     except Exception as e:
-        print(f"  EROARE: {str(e)[:90]}")
-        alarme.append(
-            f"Monitorul Oficial (legislatie.just.ro): {str(e)[:110]}\n"
-            f"      Asta e sursa de detecție a actelor publicate. Cât e căzută, "
-            f"digestul nu are de unde ști ce a apărut.\n"
-            f"      https://legislatie.just.ro/"
-        )
+        mesaj = str(e)
+        print(f"  EROARE: {mesaj[:90]}")
+        refuz_de_retea = ("RemoteDisconnected" in mesaj
+                          or "Connection aborted" in mesaj
+                          or "Max retries exceeded" in mesaj)
+        if refuz_de_retea:
+            # Constatat 19.09.2026: portalul refuză conexiunile venite din
+            # rețeaua GitHub Actions — aceeași semnătură ca la Vamă și la
+            # Ministerul Economiei. Din altă rețea răspunde normal. NU e o
+            # defecțiune nouă în fiecare zi și nu se raportează ca alarmă,
+            # altfel alarmele își pierd înțelesul.
+            avertizeaza(
+                "Monitorul Oficial: portalul refuză conexiunea din rețeaua GitHub "
+                "(blocare de interval de adrese, nu eroare de cod). Actele publicate "
+                "se culeg direct din sesiunea digestului, care ajunge la portal. "
+                "Dacă vreodată reușește de aici, înseamnă că blocajul a fost ridicat."
+            )
+        else:
+            alarme.append(
+                f"Monitorul Oficial (legislatie.just.ro): {mesaj[:110]}\n"
+                f"      Nu e refuz de rețea, deci e altceva — de verificat.\n"
+                f"      https://legislatie.just.ro/"
+            )
         return []
 
     if not acte and not incomplete:
