@@ -22,7 +22,7 @@ import subprocess
 import time
 import sys
 import zipfile
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from difflib import SequenceMatcher
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
@@ -110,7 +110,8 @@ DOMENII = {
                                       "cod de procedură fiscală", "taxa pe valoarea adăugată",
                                       "rambursare", "decont", "inspecție fiscală", "antifraud"]),
     "2":  ("Salarizare și muncă",   ["contribuți", "salari", "contract individual de muncă", "revisal",
-                                      "inspecția muncii", "securitate în muncă", "concediu", "pensi"]),
+                                      "inspecția muncii", "securitate în muncă", "concediu",
+                                      "pensie", "pensii", "pensionar", "pensionare"]),
     "3":  ("Raportări și declarații", ["declaraț", "formular", "saf-t", "d406", "e-factura", "e-transport",
                                       "e-tva", "raportare", "spv", "e-case de marcat"]),
     "4":  ("Transport rutier",      ["transport rutier", "a.d.r.", "adr", "licență de transport",
@@ -129,12 +130,15 @@ DOMENII = {
                                       "autorizare tehnic", "industrie"]),
     "12": ("Farma și medical",      ["medicament", "farmac", "dispozitiv medical", "sanitar"]),
     "13": ("IT și servicii",        ["software", "digitalizare", "servicii informatic", "cloud"]),
-    "14": ("Import-export",         ["vam", "antidumping", "taric", "import", "export", "tarif vamal"]),
+    "14": ("Import-export",         ["vamal", "vamă", "vama", "antidumping", "taric",
+                                      "importul", "importuri", "importator", "export",
+                                      "tarif vamal", "declarație vamală"]),
     "15": ("Deșeuri și mediu",      ["deșeu", "mediu", "ambalaj", "reciclare", "emisii", "poluare"]),
     "16": ("Energie și utilități",  ["anre", "energie electric", "gaze natural", "furnizare energie"]),
-    "17": ("Turism",                ["agenți de turism", "structuri de primire", "voucher de vacanț"]),
-    "18": ("Finanțări, ajutor de stat", ["ajutor de stat", "schemă de finanțare", "fond", "minimis",
-                                      "apel de proiecte", "grant"]),
+    "17": ("Turism",                ["agenți de turism", "agenție de turism", "de primire turistic",
+                                      "voucher de vacanț", "structur de primire"]),
+    "18": ("Finanțări, ajutor de stat", ["ajutor de stat", "schemă de finanțare", "minimis",
+                                      "apel de proiecte", "grant", "fonduri europene"]),
     "19": ("Comerț cu ridicata",    ["taxare inversă", "comerț cu ridicata", "distribuți"]),
 }
 
@@ -146,6 +150,9 @@ IMPLICITE = {"1", "2", "3"}
 
 ARHIVA = Path("arhiva")
 INDEX = ARHIVA / "index.json"
+MO_ARHIVA = ARHIVA / "monitorul-oficial"
+MO_ZILE_LA_PRIMA_RULARE = 7
+MO_ZILE_MAXIM = 21
 TIMEOUT = 60
 EXTENSII = (".zip", ".pdf", ".doc", ".docx", ".rtf")
 
@@ -286,12 +293,26 @@ def normalizeaza(text: str) -> str:
 def asemanare(a: str, b: str) -> float:
     return SequenceMatcher(None, normalizeaza(a), normalizeaza(b)).ratio()
 
+_CACHE_TIPARE: dict[str, re.Pattern] = {}
+
+def _tipar_cuvant(cuvant: str) -> re.Pattern:
+    """Cuvântul-cheie, căutat DOAR la început de cuvânt.
+
+    Fără asta, „adr" se potrivea în „cadrul", iar un ordin despre doctorate
+    ajungea la Transport rutier. Cuvintele rămân trunchiate intenționat
+    („contribuți", „construcț"), ca să prindă toate formele — dar trunchierea
+    e la coadă, nu la cap.
+    """
+    if cuvant not in _CACHE_TIPARE:
+        _CACHE_TIPARE[cuvant] = re.compile(r"(?<![a-z0-9])" + re.escape(normalizeaza(cuvant)))
+    return _CACHE_TIPARE[cuvant]
+
 def incadreaza(titlu: str, implicite: list) -> list:
     """Domeniile în care intră un proiect, după cuvinte-cheie din titlu."""
     t = normalizeaza(titlu)
     gasite = set(implicite)
     for cod, (_, cuvinte) in DOMENII.items():
-        if any(normalizeaza(c) in t for c in cuvinte):
+        if any(_tipar_cuvant(c).search(t) for c in cuvinte):
             gasite.add(cod)
     return sorted(gasite, key=lambda x: int(x))
 
@@ -495,6 +516,285 @@ def in_text(fisier: Path) -> str | None:
 # POTRIVIREA PROIECT → ACT PUBLICAT
 # ─────────────────────────────────────────────────────────────
 
+# ─────────────────────────────────────────────────────────────
+# MONITORUL OFICIAL — sursă de detecție primară
+# ─────────────────────────────────────────────────────────────
+#
+# Portalul Legislativ al Ministerului Justiției (legislatie.just.ro) publică
+# integral Partea I a Monitorului Oficial și permite căutare după data
+# publicării. E gratuit, oficial și complet — nu e o listă de noutăți
+# alcătuită de cineva, ci registrul însuși.
+#
+# DE CE CONTEAZĂ: până acum actele publicate le aflam dintr-un buletin
+# comercial. De aici le aflăm de la sursă. Buletinul rămâne pentru ce face
+# el mai bine — forma consolidată și comparația „până acum / de acum".
+#
+# FORMATUL DATEI: aaaa-ll-zz. NU zz.ll.aaaa — în formatul acela situl
+# acceptă valoarea, o afișează înapoi, și o ignoră în tăcere, întorcând
+# acte din 1837. Verificat pe 19.09.2026. Dacă schimbi formatul, verifici
+# întâi că primele rezultate au anul curent.
+
+MO_CAUTARE = ("https://legislatie.just.ro/Public/RezultateCautare"
+              "?page={pag}&op2=AND&op3=AND&op4=AND"
+              "&publicatinceputtext={de}&publicatsfarsittext={la}")
+MO_DOCUMENT = "https://legislatie.just.ro/Public/DetaliiDocument/{id}"
+MO_PAGINI_MAXIM = 40          # 10 rezultate pe pagină; 40 de pagini = 400 de acte
+MO_TEXT_MAXIM = 40            # atâtea texte integrale descărcăm într-o rulare
+MO_TRECERI_MAXIM = 6          # parcurgeri repetate ale aceleiași zile, până se închide numărul
+
+
+def _sesiune_mo():
+    """Portalul cere o vizită pe prima pagină înainte de căutare."""
+    s = requests.Session()
+    s.headers.update(HEADERS)
+    s.headers["Referer"] = "https://legislatie.just.ro/"
+    s.get("https://legislatie.just.ro/", timeout=TIMEOUT)
+    return s
+
+
+def _act_din_bloc(bloc) -> dict | None:
+    a = bloc.find("a", href=re.compile("DetaliiDocument"))
+    if not a:
+        return None
+    den = bloc.select_one("span.S_DEN")
+    par = bloc.select_one("span.S_PAR")
+    emt = bloc.select_one("span.S_EMT_BDY")
+    pub = bloc.select_one("span.S_PUB_BDY")
+    vig = re.search(r"Data intrarii in vigoare:\s*(.+)", bloc.get_text("\n"))
+
+    def curat(el):
+        return re.sub(r"\s+", " ", el.get_text(" ", strip=True)) if el else ""
+
+    publicat = curat(pub)
+    mo_nr = mo_data = None
+    m = re.search(r"nr\.\s*([\d.]+)\s+din\s+(\d{1,2}\s+\w+\s+\d{4})", publicat)
+    if m:
+        mo_nr = m.group(1)
+        mo_data = (parseaza_data(m.group(2)) or "").__str__() or None
+
+    titlu = curat(par)
+    return {
+        "id": a["href"].rsplit("/", 1)[-1],
+        "denumire": curat(den),
+        "titlu": titlu,
+        "emitent": curat(emt),
+        "publicat_in": publicat,
+        "mo_numar": mo_nr,
+        "mo_data": mo_data,
+        "vigoare": re.sub(r"\s+", " ", vig.group(1)).strip() if vig else "",
+        "url": MO_DOCUMENT.format(id=a["href"].rsplit("/", 1)[-1]),
+        "acte_modificate": sorted(acte_mentionate(titlu)),
+        "domenii": incadreaza(f"{curat(den)} {titlu}", []),
+    }
+
+
+def _o_trecere(s, zi: str) -> tuple[dict[str, dict], int]:
+    """O parcurgere completă a rezultatelor pentru o zi. (acte, total_anunțat)"""
+    gasite: dict[str, dict] = {}
+    total = None
+    servite = 0
+    for pag in range(1, MO_PAGINI_MAXIM + 1):
+        r = s.get(MO_CAUTARE.format(pag=pag, de=zi, la=zi), timeout=TIMEOUT)
+        r.raise_for_status()
+        sup = BeautifulSoup(r.text, "html.parser")
+        if total is None:
+            m = re.search(r"(\d+)\s*document\(e\)",
+                          re.sub(r"\s+", " ", sup.get_text(" ", strip=True)))
+            total = int(m.group(1)) if m else 0
+            if total == 0:
+                return {}, 0
+        blocuri = sup.select("div.search_result_item")
+        if not blocuri:
+            break
+        servite += len(blocuri)
+        for b in blocuri:
+            act = _act_din_bloc(b)
+            if act:
+                gasite.setdefault(act["id"], act)
+        if servite >= total:
+            break
+        time.sleep(0.5)
+    return gasite, total
+
+
+def citeste_o_zi(s, zi: str) -> tuple[list[dict], int, int]:
+    """Toate actele publicate în M.Of. Partea I într-o zi. (acte, total, treceri)
+
+    DE CE TRECERI REPETATE: rezultatele nu au o sortare stabilă pe server, așa
+    că paginarea sare rânduri — o singură parcurgere poate da 46 din 65 de acte,
+    fără niciun semn că lipsește ceva. Repetăm până când numărul de acte
+    distincte ajunge la totalul anunțat de sit. Atunci avem dovada că e complet;
+    dacă nu ajunge, se raportează, nu se trece cu vederea.
+    Verificat pe 19.09.2026: zilele obișnuite se închid din prima trecere,
+    cele încărcate din a doua sau a treia.
+    """
+    strans: dict[str, dict] = {}
+    total = 0
+    for trecere in range(1, MO_TRECERI_MAXIM + 1):
+        acte, total = _o_trecere(s, zi)
+        if total == 0:
+            return [], 0, trecere
+        strans.update({k: v for k, v in acte.items() if k not in strans})
+        if len(strans) >= total:
+            return list(strans.values()), total, trecere
+        time.sleep(0.6)
+    return list(strans.values()), total, MO_TRECERI_MAXIM
+
+
+def citeste_monitorul_oficial(de: str, la: str) -> tuple[list[dict], list[str]]:
+    """Actele publicate între cele două date (aaaa-ll-zz), interogate zi cu zi.
+
+    Zi cu zi, nu pe interval: pe interval situl pierde rânduri și nu se poate
+    dovedi că am luat tot. Pe zi, totalul anunțat e reperul față de care
+    verificăm. Întoarce (acte, zile_incomplete).
+    """
+    s = _sesiune_mo()
+    d0 = datetime.fromisoformat(de).date()
+    d1 = datetime.fromisoformat(la).date()
+    toate: dict[str, dict] = {}
+    incomplete: list[str] = []
+    zi = d0
+    while zi <= d1:
+        z = zi.isoformat()
+        try:
+            acte, total, treceri = citeste_o_zi(s, z)
+        except Exception as e:
+            incomplete.append(f"{z}: {str(e)[:80]}")
+            zi += timedelta(days=1)
+            continue
+        if total and len(acte) < total:
+            incomplete.append(
+                f"{z}: situl anunță {total} acte, am strâns {len(acte)} "
+                f"după {treceri} treceri"
+            )
+        if total:
+            print(f"    {z}: {len(acte)}/{total} acte"
+                  + (f"  ({treceri} treceri)" if treceri > 1 else ""))
+        for a in acte:
+            toate.setdefault(a["id"], a)
+        zi += timedelta(days=1)
+    return list(toate.values()), incomplete
+
+
+def text_integral_mo(s, act: dict) -> str | None:
+    """Textul actului, curățat de meniuri. None dacă nu se poate citi."""
+    try:
+        r = s.get(act["url"], timeout=TIMEOUT)
+        r.raise_for_status()
+        sup = BeautifulSoup(r.text, "html.parser")
+        for x in sup(["script", "style", "nav", "header", "footer"]):
+            x.decompose()
+        t = re.sub(r"\n{3,}", "\n\n", sup.get_text("\n", strip=True))
+        return t if len(t) > 400 else None
+    except Exception:
+        return None
+
+
+
+def fereastra_mo(index: dict) -> tuple[str, str]:
+    """De unde până unde citim. Continuă din ziua următoare ultimei acoperite.
+
+    Dacă radarul n-a rulat câteva zile, fereastra se lărgește singură, ca să
+    nu rămână o gaură. Se oprește la MO_ZILE_MAXIM — mai mult înseamnă că
+    ceva a stat prea mult și vrem să vezi tu, nu să tragem o lună de acte.
+    """
+    azi = datetime.now().date()
+    ultima = index.get("mo_ultima_zi")
+    if ultima:
+        de = datetime.fromisoformat(ultima).date() + timedelta(days=1)
+    else:
+        de = azi - timedelta(days=MO_ZILE_LA_PRIMA_RULARE)
+    if (azi - de).days > MO_ZILE_MAXIM:
+        de = azi - timedelta(days=MO_ZILE_MAXIM)
+    if de > azi:
+        de = azi
+    return de.isoformat(), azi.isoformat()
+
+
+def culege_monitorul_oficial(index: dict, alarme: list) -> list[dict]:
+    """Culege actele publicate, le salvează în arhivă și le întoarce pe cele noi."""
+    de, la = fereastra_mo(index)
+    print("\nMONITORUL OFICIAL — acte publicate\n" + "─" * 60)
+    print(f"Fereastră: {de} … {la}")
+
+    try:
+        acte, incomplete = citeste_monitorul_oficial(de, la)
+    except Exception as e:
+        print(f"  EROARE: {str(e)[:90]}")
+        alarme.append(
+            f"Monitorul Oficial (legislatie.just.ro): {str(e)[:110]}\n"
+            f"      Asta e sursa de detecție a actelor publicate. Cât e căzută, "
+            f"digestul nu are de unde ști ce a apărut.\n"
+            f"      https://legislatie.just.ro/"
+        )
+        return []
+
+    if not acte and not incomplete:
+        print("  Niciun act publicat în intervalul acesta.")
+        # Zero e un răspuns legitim (weekend, sărbătoare). Nu e alarmă, dar
+        # nici nu avansăm ziua acoperită: dacă e o defecțiune tăcută, vrem
+        # ca rularea următoare să reîncerce același interval.
+        return []
+
+    if incomplete:
+        alarme.append(
+            "Monitorul Oficial — zile citite incomplet:\n      "
+            + "\n      ".join(incomplete)
+            + "\n      Actele lipsă nu s-au pierdut, dar nu sunt în digest. "
+              "Zilele acestea trebuie reluate.\n      https://legislatie.just.ro/"
+        )
+    print(f"  {len(acte)} acte în total")
+
+    vazute = set(index.setdefault("acte_vazute", []))
+    noi = [a for a in acte if a["id"] not in vazute]
+    print(f"  {len(noi)} noi față de rulările anterioare")
+
+    # Textul integral doar pentru actele care ating un domeniu urmărit.
+    # Restul rămân cu titlu și legătură — se pot citi oricând, la nevoie.
+    de_citit = [a for a in noi if a["domenii"]][:MO_TEXT_MAXIM]
+    if de_citit:
+        s = _sesiune_mo()
+        citite = 0
+        for a in de_citit:
+            t = text_integral_mo(s, a)
+            if t:
+                zi = a["mo_data"] or la
+                d = MO_ARHIVA / zi / "text"
+                d.mkdir(parents=True, exist_ok=True)
+                (d / f"{a['id']}.txt").write_text(t, encoding="utf-8")
+                a["cale_text"] = str(d / f"{a['id']}.txt").replace("\\", "/")
+                citite += 1
+            else:
+                avertizeaza(f"M.Of.: n-am putut citi textul pentru {a['denumire'][:70]} — {a['url']}")
+            time.sleep(0.6)
+        print(f"  {citite}/{len(de_citit)} texte integrale descărcate "
+              f"(doar actele care ating un domeniu urmărit)")
+
+    # Salvăm pe zile, ca să poată fi citite de digest fără să reia căutarea.
+    pe_zile: dict[str, list] = {}
+    for a in acte:
+        pe_zile.setdefault(a["mo_data"] or la, []).append(a)
+    MO_ARHIVA.mkdir(parents=True, exist_ok=True)
+    for zi, lista in pe_zile.items():
+        f = MO_ARHIVA / f"{zi}.json"
+        vechi = json.loads(f.read_text(encoding="utf-8")) if f.exists() else []
+        dupa_id = {x["id"]: x for x in vechi}
+        dupa_id.update({x["id"]: x for x in lista})
+        f.write_text(json.dumps(sorted(dupa_id.values(), key=lambda x: x["id"]),
+                                ensure_ascii=False, indent=2), encoding="utf-8")
+
+    index["acte_vazute"] = sorted(vazute | {a["id"] for a in acte})
+    # Dacă o zi a rămas incompletă, nu avansăm dincolo de ea: rularea
+    # următoare o reia. Mai bine repetăm o zi decât s-o pierdem.
+    prima_stricata = min((r.split(":")[0] for r in incomplete), default=None)
+    if prima_stricata:
+        ieri = (datetime.fromisoformat(prima_stricata).date() - timedelta(days=1)).isoformat()
+        index["mo_ultima_zi"] = min(la, ieri)
+    else:
+        index["mo_ultima_zi"] = la
+    return noi
+
+
 def citeste_acte_publicate() -> list[dict]:
     """Titluri de acte publicate recent, din sursele configurate."""
     acte = []
@@ -522,7 +822,21 @@ def cauta_potriviri(index: dict) -> list[dict]:
         return []
 
     print("\nCaut acte publicate care să corespundă proiectelor deschise…")
-    acte = citeste_acte_publicate()
+    # Întâi actele culese din Monitorul Oficial — au denumire oficială,
+    # emitent și numărul actelor modificate, deci potrivirea e mult mai sigură
+    # decât din titluri răzuite de pe pagini de noutăți.
+    acte = []
+    for f in sorted(MO_ARHIVA.glob("*.json"), reverse=True)[:60]:
+        try:
+            for a in json.loads(f.read_text(encoding="utf-8")):
+                acte.append({"sursa": f"M.Of. {a.get('mo_numar') or '?'}",
+                             "titlu": f"{a['denumire']} {a['titlu']}".strip()[:400],
+                             "acte": a.get("acte_modificate", []),
+                             "data": a.get("mo_data"),
+                             "url": a.get("url")})
+        except Exception as e:
+            avertizeaza(f"Nu pot citi arhiva M.Of. {f.name}: {e}")
+    acte += citeste_acte_publicate()
     if not acte:
         print("  (nicio sursă de acte publicate n-a răspuns)")
         return []
@@ -635,6 +949,8 @@ def main() -> None:
             noi.append(cunoscute[cheie])
             print(f"    NOU  {p['titlu'][:70]}  ({len(convertite)}/{len(fisiere)} în text)")
 
+    acte_noi = culege_monitorul_oficial(index, alarme)
+
     potriviri = cauta_potriviri(index)
     salveaza_index(index)
 
@@ -659,6 +975,28 @@ def main() -> None:
     else:
         print("\nNiciun proiect nou.\n")
 
+    if acte_noi:
+        print("═" * 60)
+        cu_domeniu = [a for a in acte_noi if a["domenii"]]
+        print(f"\nACTE PUBLICATE ÎN MONITORUL OFICIAL — {len(acte_noi)}, "
+              f"din care {len(cu_domeniu)} ating un domeniu urmărit\n")
+        for a in sorted(cu_domeniu, key=lambda x: (x["mo_data"] or "", x["denumire"])):
+            dom = ", ".join(DOMENII[d][0] for d in a["domenii"] if d in DOMENII)
+            print(f"  {a['denumire']}")
+            print(f"  {a['titlu'][:110]}")
+            print(f"  emitent: {a['emitent'][:70]}")
+            print(f"  {a['publicat_in']}  ·  în vigoare: {a['vigoare'] or '?'}")
+            print(f"  domenii: {dom}")
+            if a.get("acte_modificate"):
+                print(f"  modifică: {', '.join(a['acte_modificate'][:6])}")
+            if a.get("cale_text"):
+                print(f"  text: {a['cale_text']}")
+            print(f"  {a['url']}\n")
+        fara = len(acte_noi) - len(cu_domeniu)
+        if fara:
+            print(f"  (încă {fara} acte publicate, fără legătură cu domeniile urmărite —")
+            print(f"   sunt în arhivă, la {MO_ARHIVA}/, dacă vrei să te uiți)\n")
+
     if potriviri:
         print("═" * 60)
         print("\nPOSIBILE POTRIVIRI — de confirmat de tine\n")
@@ -671,7 +1009,7 @@ def main() -> None:
             print("    Dacă e corect, în index.json pune:")
             print('      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"\n')
 
-    if not noi and not potriviri:
+    if not noi and not potriviri and not acte_noi:
         print("Nimic de raportat. Nu se trimite nimic.")
 
     if AVERTISMENTE:
