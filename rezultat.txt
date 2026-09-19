@@ -13,13 +13,23 @@ Ministerul Agriculturii           EROARE: HTTPSConnectionPool(host='www.madr.ro'
 e-consultare (agregator)          EROARE: 500 la https://e-consultare.gov.ro/Consultare-publică (incercarea 3 di
 
 Caut acte publicate care să corespundă proiectelor deschise…
-  22 titluri de acte citite.
+  20 titluri de acte citite.
 
 ════════════════════════════════════════════════════════════
 
 Niciun proiect nou.
 
-Nimic de raportat. Nu se trimite nimic.
+════════════════════════════════════════════════════════════
+
+POSIBILE POTRIVIRI — de confirmat de tine
+
+  PROIECT: Proiect Hotărâre privind pentru modificarea și completarea Hotărârii Guvernului nr.1094/20
+           publicat None
+    → 70%  Hotărâre pentru modificarea și completarea Hotărârii Guvernului nr. 1.174/2014 privin
+           (titluri asemănătoare (70%); sursa: Monitorul Oficial — sumar)
+    Dacă e corect, în index.json pune:
+      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
+
 ════════════════════════════════════════════════════════════
 
  /!\  ALARMĂ — 3 surse care mergeau au picat
