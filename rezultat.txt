@@ -16,9 +16,10 @@ MONITORUL OFICIAL — acte publicate
 ────────────────────────────────────────────────────────────
 Fereastră: 2026-09-12 … 2026-09-19
   EROARE: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'
+    !! ATENȚIE: Monitorul Oficial: portalul refuză conexiunea din rețeaua GitHub (blocare de interval de adrese, nu eroare de cod). Actele publicate se culeg direct din sesiunea digestului, care ajunge la portal. Dacă vreodată reușește de aici, înseamnă că blocajul a fost ridicat.
 
 Caut acte publicate care să corespundă proiectelor deschise…
-  19 titluri de acte citite.
+  21 titluri de acte citite.
 
 ════════════════════════════════════════════════════════════
 
@@ -35,9 +36,18 @@ POSIBILE POTRIVIRI — de confirmat de tine
     Dacă e corect, în index.json pune:
       "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
 
+
 ════════════════════════════════════════════════════════════
 
- /!\  ALARMĂ — 4 surse care mergeau au picat
+DE VERIFICAT MANUAL — 1
+
+  • Monitorul Oficial: portalul refuză conexiunea din rețeaua GitHub (blocare de interval de adrese, nu eroare de cod). Actele publicate se culeg direct din sesiunea digestului, care ajunge la portal. Dacă vreodată reușește de aici, înseamnă că blocajul a fost ridicat.
+
+  Nimic nu s-a pierdut. Doar nu s-a procesat automat.
+
+════════════════════════════════════════════════════════════
+
+ /!\  ALARMĂ — 3 surse care mergeau au picat
 
   • Ministerul Economiei: refuz la nivel de conexiune, nu 404. Adresa e probabil bună — verific-o în browser înainte să cauți alta. Cauza tipică: blocare a IP-urilor de GitHub Actions.
       https://economie.gov.ro/proiecte-de-acte-normative-aflate-in-consultare-publica/
@@ -45,9 +55,6 @@ POSIBILE POTRIVIRI — de confirmat de tine
       https://mmuncii.gov.ro/transparenta-decizionala/
   • Ministerul Muncii — dezbateri: refuz la nivel de conexiune, nu 404. Adresa e probabil bună — verific-o în browser înainte să cauți alta. Cauza tipică: blocare a IP-urilor de GitHub Actions.
       https://mmuncii.gov.ro/dezbateri-publice/
-  • Monitorul Oficial (legislatie.just.ro): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-      Asta e sursa de detecție a actelor publicate. Cât e căzută, digestul nu are de unde ști ce a apărut.
-      https://legislatie.just.ro/
 
   Astea funcționau. Cât timp sunt căzute, s-ar putea să ratezi acte.
 
