@@ -12,8 +12,13 @@ Ministerul Mediului               EROARE: 404 Client Error: Not Found for url: h
 Ministerul Agriculturii           EROARE: HTTPSConnectionPool(host='www.madr.ro', port=443): Max retries exceede
 e-consultare (agregator)          EROARE: 500 la https://e-consultare.gov.ro/Consultare-publică (incercarea 3 di
 
+MONITORUL OFICIAL — acte publicate
+────────────────────────────────────────────────────────────
+Fereastră: 2026-09-12 … 2026-09-19
+  EROARE: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'
+
 Caut acte publicate care să corespundă proiectelor deschise…
-  20 titluri de acte citite.
+  19 titluri de acte citite.
 
 ════════════════════════════════════════════════════════════
 
@@ -32,7 +37,7 @@ POSIBILE POTRIVIRI — de confirmat de tine
 
 ════════════════════════════════════════════════════════════
 
- /!\  ALARMĂ — 3 surse care mergeau au picat
+ /!\  ALARMĂ — 4 surse care mergeau au picat
 
   • Ministerul Economiei: refuz la nivel de conexiune, nu 404. Adresa e probabil bună — verific-o în browser înainte să cauți alta. Cauza tipică: blocare a IP-urilor de GitHub Actions.
       https://economie.gov.ro/proiecte-de-acte-normative-aflate-in-consultare-publica/
@@ -40,6 +45,9 @@ POSIBILE POTRIVIRI — de confirmat de tine
       https://mmuncii.gov.ro/transparenta-decizionala/
   • Ministerul Muncii — dezbateri: refuz la nivel de conexiune, nu 404. Adresa e probabil bună — verific-o în browser înainte să cauți alta. Cauza tipică: blocare a IP-urilor de GitHub Actions.
       https://mmuncii.gov.ro/dezbateri-publice/
+  • Monitorul Oficial (legislatie.just.ro): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+      Asta e sursa de detecție a actelor publicate. Cât e căzută, digestul nu are de unde ști ce a apărut.
+      https://legislatie.just.ro/
 
   Astea funcționau. Cât timp sunt căzute, s-ar putea să ratezi acte.
 
