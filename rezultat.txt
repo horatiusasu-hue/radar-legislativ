@@ -14,7 +14,7 @@ e-consultare (agregator)          EROARE: 500 la https://e-consultare.gov.ro/Con
 
 MONITORUL OFICIAL — acte publicate
 ────────────────────────────────────────────────────────────
-Fereastră: 2026-09-12 … 2026-09-19
+Fereastră: 2026-09-13 … 2026-09-20
   EROARE: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'
     !! ATENȚIE: Monitorul Oficial: portalul refuză conexiunea din rețeaua GitHub (blocare de interval de adrese, nu eroare de cod). Actele publicate se culeg direct din sesiunea digestului, care ajunge la portal. Dacă vreodată reușește de aici, înseamnă că blocajul a fost ridicat.
 
