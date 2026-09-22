@@ -19,14 +19,23 @@ Fereastră: 2026-09-15 … 2026-09-22
     !! ATENȚIE: Monitorul Oficial: portalul refuză conexiunea din rețeaua GitHub (blocare de interval de adrese, nu eroare de cod). Actele publicate se culeg direct din sesiunea digestului, care ajunge la portal. Dacă vreodată reușește de aici, înseamnă că blocajul a fost ridicat.
 
 Caut acte publicate care să corespundă proiectelor deschise…
-  ! Monitorul Oficial — sumar: HTTPSConnectionPool(host='monitoruloficial.ro', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-  7 titluri de acte citite.
+  22 titluri de acte citite.
 
 ════════════════════════════════════════════════════════════
 
 Niciun proiect nou.
 
-Nimic de raportat. Nu se trimite nimic.
+════════════════════════════════════════════════════════════
+
+POSIBILE POTRIVIRI — de confirmat de tine
+
+  PROIECT: Proiect Hotărâre pentru aprobarea amendamentului convenit prin schimb de scrisori semnate 
+           publicat 2025-07-18
+    → 85%  Hotărâre pentru aprobarea amendamentului convenit prin schimb de scrisori, semnate la
+           (titluri asemănătoare (86%); sursa: Monitorul Oficial — sumar)
+    Dacă e corect, în index.json pune:
+      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
+
 
 ════════════════════════════════════════════════════════════
 
