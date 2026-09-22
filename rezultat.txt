@@ -14,12 +14,13 @@ e-consultare (agregator)          EROARE: 500 la https://e-consultare.gov.ro/Con
 
 MONITORUL OFICIAL — acte publicate
 ────────────────────────────────────────────────────────────
-Fereastră: 2026-09-14 … 2026-09-21
+Fereastră: 2026-09-15 … 2026-09-22
   EROARE: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'
     !! ATENȚIE: Monitorul Oficial: portalul refuză conexiunea din rețeaua GitHub (blocare de interval de adrese, nu eroare de cod). Actele publicate se culeg direct din sesiunea digestului, care ajunge la portal. Dacă vreodată reușește de aici, înseamnă că blocajul a fost ridicat.
 
 Caut acte publicate care să corespundă proiectelor deschise…
-  16 titluri de acte citite.
+  ! Monitorul Oficial — sumar: HTTPSConnectionPool(host='monitoruloficial.ro', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+  7 titluri de acte citite.
 
 ════════════════════════════════════════════════════════════
 
