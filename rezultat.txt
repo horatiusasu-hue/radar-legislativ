@@ -1,7 +1,6 @@
 SURSE DE PROIECTE
 ────────────────────────────────────────────────────────────
 ANAF                               4 proiecte
-    NOU  Proiect de ordin privind aprobarea Procedurii pentru anularea obligaţi  (4/4 în text)
 Ministerul Finanțelor             21 proiecte
 Ministerul Economiei              EROARE: HTTPSConnectionPool(host='economie.gov.ro', port=443): Max retries exc
 Ministerul Muncii                 EROARE: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exce
@@ -24,13 +23,7 @@ Caut acte publicate care să corespundă proiectelor deschise…
 
 ════════════════════════════════════════════════════════════
 
-PROIECTE NOI — 1
-
-  ANAF · 2026-09-29
-  Proiect de ordin privind aprobarea Procedurii pentru anularea obligaţiilor fiscale ce pot face obiec
-  domenii: Fiscal general, Raportări și declarații
-  termen observații: 2026-10-09  (10 zile rămase)
-  text: arhiva/2026-09-29/ANAF/20260929091124_proiect_de_ordin.zip/text/
+Niciun proiect nou.
 
 ════════════════════════════════════════════════════════════
 
