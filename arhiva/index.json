@@ -1268,6 +1268,38 @@
       "stare": "in_consultare",
       "act_publicat": null,
       "cale": "arhiva/fara-data/Ministerul_Finan_elor/proiectHGOCDE_17092026.pdf"
+    },
+    "ANAF::20260929091124_proiect_de_ordin.zip": {
+      "institutie": "ANAF",
+      "url": "https://static.anaf.ro/static/33/Anaf/20260929091124_proiect de ordin.zip",
+      "data": "2026-09-29",
+      "titlu": "Proiect de ordin privind aprobarea Procedurii pentru anularea obligaţiilor fiscale ce pot face obiectul anulării prevăzute de Legea nr. 177/2026 privind anularea unor obligații fiscale, precum şi modalităţile de restituire a acestora",
+      "id": "20260929091124_proiect_de_ordin.zip",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [
+        "177/2026"
+      ],
+      "termen_observatii": "2026-10-09",
+      "fisiere": [
+        "Anexa 3_Decizie anulare obligatii Legea 177_2026.docx",
+        "Anexa 4_Cerere de restituire a obligațiilor fiscale  Legea 177_2026.docx",
+        "Proiect _Ordin.docx",
+        "Referat de aprobare - procedura de anulare potrivit Legii 177_2026.doc"
+      ],
+      "convertite": [
+        "Anexa 3_Decizie anulare obligatii Legea 177_2026.docx",
+        "Anexa 4_Cerere de restituire a obligațiilor fiscale  Legea 177_2026.docx",
+        "Proiect _Ordin.docx",
+        "Referat de aprobare - procedura de anulare potrivit Legii 177_2026.doc"
+      ],
+      "arhivat_la": "2026-09-29T10:17:07+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/2026-09-29/ANAF/20260929091124_proiect_de_ordin.zip"
     }
   },
   "acte_vazute": []

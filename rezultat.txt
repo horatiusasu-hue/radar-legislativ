@@ -1,6 +1,7 @@
 SURSE DE PROIECTE
 ────────────────────────────────────────────────────────────
 ANAF                               4 proiecte
+    NOU  Proiect de ordin privind aprobarea Procedurii pentru anularea obligaţi  (4/4 în text)
 Ministerul Finanțelor             21 proiecte
 Ministerul Economiei              EROARE: HTTPSConnectionPool(host='economie.gov.ro', port=443): Max retries exc
 Ministerul Muncii                 EROARE: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exce
@@ -14,16 +15,22 @@ e-consultare (agregator)          EROARE: 500 la https://e-consultare.gov.ro/Con
 
 MONITORUL OFICIAL — acte publicate
 ────────────────────────────────────────────────────────────
-Fereastră: 2026-09-21 … 2026-09-28
+Fereastră: 2026-09-22 … 2026-09-29
   EROARE: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'
     !! ATENȚIE: Monitorul Oficial: portalul refuză conexiunea din rețeaua GitHub (blocare de interval de adrese, nu eroare de cod). Actele publicate se culeg direct din sesiunea digestului, care ajunge la portal. Dacă vreodată reușește de aici, înseamnă că blocajul a fost ridicat.
 
 Caut acte publicate care să corespundă proiectelor deschise…
-  18 titluri de acte citite.
+  17 titluri de acte citite.
 
 ════════════════════════════════════════════════════════════
 
-Niciun proiect nou.
+PROIECTE NOI — 1
+
+  ANAF · 2026-09-29
+  Proiect de ordin privind aprobarea Procedurii pentru anularea obligaţiilor fiscale ce pot face obiec
+  domenii: Fiscal general, Raportări și declarații
+  termen observații: 2026-10-09  (10 zile rămase)
+  text: arhiva/2026-09-29/ANAF/20260929091124_proiect_de_ordin.zip/text/
 
 ════════════════════════════════════════════════════════════
 
@@ -40,13 +47,6 @@ POSIBILE POTRIVIRI — de confirmat de tine
            publicat 2026-08-10
     → 95%  Ordin pentru modificarea și completarea Ordinului președintelui Agenției Naționale de
            (modifică același act: 352/2022 + titluri asemănătoare (86%); sursa: Monitorul Oficial — sumar)
-    Dacă e corect, în index.json pune:
-      "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
-
-  PROIECT: Proiect Hotărâre pentru aprobarea plăţii unor contribuţii financiare voluntare ale Românie
-           publicat None
-    → 89%  Hotărâre pentru aprobarea plății unor contribuții financiare voluntare ale României n
-           (titluri asemănătoare (89%); sursa: Monitorul Oficial — sumar)
     Dacă e corect, în index.json pune:
       "stare": "adoptat",  "act_publicat": "<nr. și M.Of.>"
 
