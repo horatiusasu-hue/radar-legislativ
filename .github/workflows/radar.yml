@@ -16,12 +16,12 @@
 name: Radar transparență decizională
 
 on:
-  schedule:
+  # schedule:
     # 04:00 UTC = 07:00 ora României (vara) / 06:00 (iarna)
-    - cron: "0 4 * * *"
+#     - cron: "0 4 * * *"
     # A doua fereastră a zilei, ca o rulare picată dimineața să fie prinsă.
     # Dacă prima a reușit, aceasta nu găsește nimic nou și nu comite.
-    - cron: "0 10 * * *"
+    # - cron: "0 10 * * *"
   workflow_dispatch:        # buton de rulare manuală în interfața GitHub
 
 permissions:
