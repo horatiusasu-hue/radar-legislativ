@@ -1300,6 +1300,28 @@
       "stare": "in_consultare",
       "act_publicat": null,
       "cale": "arhiva/2026-09-29/ANAF/20260929091124_proiect_de_ordin.zip"
+    },
+    "Ministerul Finanțelor::proiectHGspitale_30092026.pdf": {
+      "institutie": "Ministerul Finanțelor",
+      "url": "https://mfinante.gov.ro/static/10/Mfp/transparenta/proiectHGspitale_30092026.pdf",
+      "data": "2026-09-03",
+      "titlu": "Proiect Hotărâre pentru aprobarea amendamentului nr.1 convenit între Guvernul României și Banca Europeană de Investiții prin scrisoarea semnată la Luxemburg la şi la București la , la Contractul de finanțare (Spitalul Regional de Urgenţă Iaşi - COVID-19) dintre România și Banca Europeană de Investiții, semnat la București și la Luxemburg la , Contractul de finanțare (Spitalul Regional de Urgenţă C",
+      "id": "proiectHGspitale_30092026.pdf",
+      "zile_observatii": 10,
+      "domenii": [
+        "1",
+        "3"
+      ],
+      "acte_modificate": [],
+      "termen_observatii": "2026-09-13",
+      "fisiere": [
+        "proiectHGspitale_30092026.pdf"
+      ],
+      "convertite": [],
+      "arhivat_la": "2026-09-30T16:45:23+00:00",
+      "stare": "in_consultare",
+      "act_publicat": null,
+      "cale": "arhiva/2026-09-03/Ministerul_Finan_elor/proiectHGspitale_30092026.pdf"
     }
   },
   "acte_vazute": []

@@ -2,6 +2,7 @@ SURSE DE PROIECTE
 ────────────────────────────────────────────────────────────
 ANAF                               4 proiecte
 Ministerul Finanțelor             21 proiecte
+    NOU  Proiect Hotărâre pentru aprobarea amendamentului nr.1 convenit între G  (0/1 în text)
 Ministerul Economiei              EROARE: HTTPSConnectionPool(host='economie.gov.ro', port=443): Max retries exc
 Ministerul Muncii                 EROARE: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exce
 Ministerul Muncii — dezbateri     EROARE: HTTPSConnectionPool(host='mmuncii.gov.ro', port=443): Max retries exce
@@ -23,9 +24,14 @@ Caut acte publicate care să corespundă proiectelor deschise…
 
 ════════════════════════════════════════════════════════════
 
-Niciun proiect nou.
+PROIECTE NOI — 1
 
-Nimic de raportat. Nu se trimite nimic.
+  Ministerul Finanțelor · 2026-09-03
+  Proiect Hotărâre pentru aprobarea amendamentului nr.1 convenit între Guvernul României și Banca Euro
+  domenii: Fiscal general, Raportări și declarații
+  termen observații: 2026-09-13  (EXPIRAT de 17 zile)
+  text: arhiva/2026-09-03/Ministerul_Finan_elor/proiectHGspitale_30092026.pdf/text/
+
 
 ════════════════════════════════════════════════════════════
 
